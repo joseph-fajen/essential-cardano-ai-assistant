@@ -21,38 +21,63 @@ Create an educational, community-focused AI assistant that provides accurate, we
 - [x] Multi-source knowledge base architecture strategy (`knowledge_base_architecture.md`)
 - [x] Globant Enterprise platform implementation strategy (`globant_platform_strategy.md`)
 - [x] Content ingestion and management workflows (`content_ingestion_workflow.md`)
-- [x] Essential Cardano content upload (~1,000 files) to Globant Enterprise
+- [x] **Essential Cardano content upload** (~1,000 files) to Globant Enterprise
+- [x] **Cardano Documentation conversion and upload** (79 MDX→TXT files)
+- [x] **Two specialized RAG Assistants created**:
+  - Essential Cardano AI Assistant (community knowledge)
+  - Cardano Docs AI Assistant (technical documentation)
 - [x] Comprehensive workflow commands (`.claude/commands/`)
+- [x] **Website integration architecture design** (chatbot widget for essentialcardano.io)
 
 ### 🚧 In Progress
-- [ ] Essential Cardano RAG Assistant indexing completion (Globant Enterprise)
-- [ ] Initial testing and quality validation
+- [ ] Router Flow creation for intelligent query routing
+- [ ] Initial testing of both AI assistants with sample queries
+- [ ] Website widget integration preparation
 
-### 📋 Next Priorities
-- [ ] Test Essential Cardano AI Assistant once indexing completes
-- [ ] Create Intersect Governance Assistant (second RAG Assistant)
-- [ ] Upload Intersect knowledge base content
-- [ ] Implement multi-agent routing logic
-- [ ] Create additional specialized RAG Assistants (Technical, Research)
+### 📋 Next Priorities (Phase 1)
+- [ ] **Create Router Flow** in Globant Enterprise with conditional logic
+- [ ] **Generate website widget code** for Essential Cardano integration
+- [ ] **Test routing functionality** with diverse query types
+- [ ] **Deploy chatbot widget** to essentialcardano.io
+- [ ] **Quality validation** and performance optimization
+
+### 📋 Future Phases
+- [ ] **Phase 2**: Intersect Governance Assistant (docs.intersectmbo.org)
+- [ ] **Phase 3**: Developer Portal Assistant (developers.cardano.org) 
+- [ ] **Phase 4**: IOG Research Assistant (blog posts, research papers)
 
 ## Platform & Architecture
 
 ### Globant Enterprise Setup
 - **Platform**: Globant Enterprise AI (console.saia.ai)
 - **Project**: Content Team (IOG)
-- **Approach**: Multiple specialized RAG Assistants for different knowledge domains
-- **Current**: "Essential Cardano AI Assistant" with ~1,000 files uploaded
+- **Approach**: Multiple specialized RAG Assistants with intelligent routing
+- **Current RAG Assistants**: 2 active, fully configured with knowledge bases
 
-### Multi-Agent Architecture Strategy
+### **Website Integration Architecture**
 ```
-User Query → Intent Classification → Route to Appropriate RAG Assistant → Generate Response → Cite Sources
+essentialcardano.io → JavaScript Widget → Router Flow → Specialized RAG Assistant
 ```
 
-**Planned RAG Assistants**:
-1. **Essential Cardano AI Assistant** (current) - Community knowledge, basics, onboarding
-2. **Intersect Governance Assistant** (next) - All governance, voting, DRep education
-3. **Cardano Technical Assistant** (planned) - docs.cardano.org technical content  
-4. **IOG Research Assistant** (planned) - Blog posts, research papers
+**Deployment Strategy:**
+- **Single Entry Point**: Unified chatbot widget on Essential Cardano website
+- **Intelligent Routing**: Automatic query analysis and assistant selection
+- **Seamless UX**: Users interact with one interface, routed automatically
+- **Scalable Design**: Easy expansion for additional knowledge domains
+
+### **Multi-Agent Routing Strategy**
+```
+User Query Analysis → Intent Classification → Route to Specialized Assistant
+```
+
+**Current RAG Assistants (Phase 1)**:
+1. **Essential Cardano AI Assistant** - Community knowledge, basics, onboarding (~1,000 files)
+2. **Cardano Docs AI Assistant** - Technical documentation, SPO guides (79 files)
+
+**Planned Expansion**:
+3. **Intersect Governance Assistant** (Phase 2) - Voting, constitution, governance
+4. **Developer Portal Assistant** (Phase 3) - Coding tutorials, API documentation
+5. **IOG Research Assistant** (Phase 4) - Blog posts, research papers
 
 ## Key Documentation
 
