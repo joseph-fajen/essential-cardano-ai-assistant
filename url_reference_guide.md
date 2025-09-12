@@ -31,7 +31,7 @@ This document provides the AI assistant with a comprehensive list of key URLs to
 
 ### Intersect Knowledge Base
 - **Main Site**: https://docs.intersectmbo.org/
-- **Repository Access**: Contact Neil Burgess (neil.burgess@iohk.io)
+- **Repository Access**: Contact Lorenzo Bruno (lorenzo.bruno@intersectmbo.org)
 - **GitBook Link**: https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/sites/site_4XOCf
 - **Use for**: ALL governance-related questions, DRep education, Cardano's future
 - **Target audience**: Anyone interested in governance, voting, constitutional matters

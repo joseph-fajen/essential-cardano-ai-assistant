@@ -15,9 +15,10 @@ Users visiting essentialcardano.io will be able to engage with a sophisticated A
 ## Current Foundation
 
 ### ✅ Completed Infrastructure
-- **2 Specialized RAG Assistants** deployed on Globant Enterprise
+- **3 Specialized RAG Assistants** deployed on Globant Enterprise
 - **Essential Cardano AI Assistant**: Community knowledge, onboarding (~1,000 files)
 - **Cardano Docs AI Assistant**: Technical documentation, SPO guides (79 files)
+- **Deveoper Portal**: deployed on Globant Enterprise (~240 files)
 - **Conversion Pipeline**: MDX→TXT processing for future content updates
 - **Knowledge Base Architecture**: Multi-source, organized by domain expertise
 
@@ -220,7 +221,7 @@ Return to User via Widget Interface
 
 ---
 
-**Project Lead**: Joseph Fajen  
+**Project Lead**: JF
 **Platform**: Globant Enterprise AI  
 **Target Website**: https://essentialcardano.io  
 **Repository**: https://github.com/josephfajen/essential-cardano-ai-assistant  

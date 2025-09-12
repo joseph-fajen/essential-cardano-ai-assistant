@@ -23,19 +23,20 @@ Create an educational, community-focused AI assistant that provides accurate, we
 - [x] Content ingestion and management workflows (`content_ingestion_workflow.md`)
 - [x] **Essential Cardano content upload** (~1,000 files) to Globant Enterprise
 - [x] **Cardano Documentation conversion and upload** (79 MDX→TXT files)
-- [x] **Two specialized RAG Assistants created**:
+- [x] **Three specialized RAG Assistants created**:
   - Essential Cardano AI Assistant (community knowledge)
   - Cardano Docs AI Assistant (technical documentation)
+  - Developer Portal AI Assistant (technical documentation)
 - [x] Comprehensive workflow commands (`.claude/commands/`)
 - [x] **Website integration architecture design** (chatbot widget for essentialcardano.io)
 
 ### 🚧 In Progress
 - [ ] Router Flow creation for intelligent query routing
-- [ ] Initial testing of both AI assistants with sample queries
+- [ ] Initial testing of the three AI assistants with sample queries
 - [ ] Website widget integration preparation
 
 ### 📋 Next Priorities (Phase 1)
-- [ ] **Create Router Flow** in Globant Enterprise with conditional logic
+- [x] **Created Router Flow** in Globant Enterprise with conditional logic
 - [ ] **Generate website widget code** for Essential Cardano integration
 - [ ] **Test routing functionality** with diverse query types
 - [ ] **Deploy chatbot widget** to essentialcardano.io
@@ -43,8 +44,7 @@ Create an educational, community-focused AI assistant that provides accurate, we
 
 ### 📋 Future Phases
 - [ ] **Phase 2**: Intersect Governance Assistant (docs.intersectmbo.org)
-- [ ] **Phase 3**: Developer Portal Assistant (developers.cardano.org) 
-- [ ] **Phase 4**: IOG Research Assistant (blog posts, research papers)
+- [ ] **Phase 3**: IOG Research Assistant (blog posts, research papers)
 
 ## Platform & Architecture
 
@@ -52,7 +52,7 @@ Create an educational, community-focused AI assistant that provides accurate, we
 - **Platform**: Globant Enterprise AI (console.saia.ai)
 - **Project**: Content Team (IOG)
 - **Approach**: Multiple specialized RAG Assistants with intelligent routing
-- **Current RAG Assistants**: 2 active, fully configured with knowledge bases
+- **Current RAG Assistants**: 3 active, fully configured with knowledge bases
 
 ### **Website Integration Architecture**
 ```
@@ -73,11 +73,11 @@ User Query Analysis → Intent Classification → Route to Specialized Assistant
 **Current RAG Assistants (Phase 1)**:
 1. **Essential Cardano AI Assistant** - Community knowledge, basics, onboarding (~1,000 files)
 2. **Cardano Docs AI Assistant** - Technical documentation, SPO guides (79 files)
+3. **Developer Portal Assistant** - Coding tutorials, API documentation
 
 **Planned Expansion**:
-3. **Intersect Governance Assistant** (Phase 2) - Voting, constitution, governance
-4. **Developer Portal Assistant** (Phase 3) - Coding tutorials, API documentation
-5. **IOG Research Assistant** (Phase 4) - Blog posts, research papers
+4. **Intersect Governance Assistant** (Phase 2) - Voting, constitution, governance
+5. **IOG Research Assistant** (Phase 3) - Blog posts, research papers
 
 ## Key Documentation
 
@@ -109,14 +109,13 @@ User Query Analysis → Intent Classification → Route to Specialized Assistant
 ## Team & Stakeholders
 
 ### Core Team (from meeting transcript)
-- **Joseph Fajen** - Project lead, platform implementation
-- **Olga Hryniuk** - Content strategy, Essential Cardano domain expertise
-- **Neil Burgess** - Intersect knowledge base access coordination
-- **Allan Martínez** - Research AI collaboration (~250 IOG research papers)
-- **Lars Brünjes** - System prompt development consultation
+- **JF** - Project lead, platform implementation
+- **OH** - Content strategy, Essential Cardano domain expertise
+- **NB** - Intersect knowledge base access coordination
+- **AM** - Research AI collaboration (~250 IOG research papers)
+- **LB** - System prompt development consultation
 
 ### External Collaborations
-- **Allan's Research AI Project** - Integration opportunity for research paper queries
 - **Globant Enterprise Support** - Platform implementation assistance
 - **Intersect MBO** - Governance knowledge base access
 
@@ -245,7 +244,7 @@ cat .claude/commands/session-handoff.md
 
 ---
 
-**Last Updated**: 2025-09-10  
-**Project Lead**: Joseph Fajen  
+**Last Updated**: 2025-09-12
+**Project Lead**: JF
 **Platform**: Globant Enterprise AI  
 **Repository**: https://github.com/josephfajen/essential-cardano-ai-assistant
