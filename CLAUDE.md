@@ -30,17 +30,19 @@ Create an educational, community-focused AI assistant that provides accurate, we
 - [x] Comprehensive workflow commands (`.claude/commands/`)
 - [x] **Website integration architecture design** (chatbot widget for essentialcardano.io)
 
-### 🚧 In Progress
-- [ ] Router Flow creation for intelligent query routing
-- [ ] Initial testing of the three AI assistants with sample queries
-- [ ] Website widget integration preparation
+### 🚧 In Progress  
+- [x] **ARCHITECTURE SHIFT**: Migrating to unified web-crawled RAG Assistant approach
+- [x] **Essential Cardano Content Extractor Agent**: Created and published in Globant Enterprise Lab
+- [ ] **Content accuracy debugging**: Resolve content hallucination issue before systematic extraction
+- [ ] **Unified RAG Assistant creation**: Single assistant with web-crawled content
 
-### 📋 Next Priorities (Phase 1)
-- [x] **Created Router Flow** in Globant Enterprise with conditional logic
-- [ ] **Generate website widget code** for Essential Cardano integration
-- [ ] **Test routing functionality** with diverse query types
-- [ ] **Deploy chatbot widget** to essentialcardano.io
-- [ ] **Quality validation** and performance optimization
+### 📋 Next Priorities (Phase 1) - UPDATED APPROACH
+- [x] **Web crawling architecture validated** - solves broken link problem with complete URLs
+- [ ] **Debug and resolve content hallucination** in content extraction agent  
+- [ ] **Systematic content extraction** from essentialcardano.io with verified accuracy
+- [ ] **Create unified RAG Assistant** with web-crawled knowledge base
+- [ ] **Migrate from 3-assistant to 1-assistant** architecture
+- [ ] **Quality validation** and performance testing of unified approach
 
 ### 📋 Future Phases
 - [ ] **Phase 2**: Intersect Governance Assistant (docs.intersectmbo.org)
@@ -49,31 +51,36 @@ Create an educational, community-focused AI assistant that provides accurate, we
 ## Platform & Architecture
 
 ### Globant Enterprise Setup
-- **Platform**: Globant Enterprise AI (console.saia.ai)
+- **Platform**: Globant Enterprise AI (console.saia.ai + lab.saia.ai)
 - **Project**: Content Team (IOG)
-- **Approach**: Multiple specialized RAG Assistants with intelligent routing
-- **Current RAG Assistants**: 3 active, fully configured with knowledge bases
+- **NEW APPROACH**: Single unified RAG Assistant with web-crawled content
+- **Content Extraction**: Essential Cardano Content Extractor Agent (published)
 
-### **Website Integration Architecture**
+### **NEW: Unified Web-Crawled Architecture**
 ```
-essentialcardano.io → JavaScript Widget → Router Flow → Specialized RAG Assistant
-```
-
-**Deployment Strategy:**
-- **Single Entry Point**: Unified chatbot widget on Essential Cardano website
-- **Intelligent Routing**: Automatic query analysis and assistant selection
-- **Seamless UX**: Users interact with one interface, routed automatically
-- **Scalable Design**: Easy expansion for additional knowledge domains
-
-### **Multi-Agent Routing Strategy**
-```
-User Query Analysis → Intent Classification → Route to Specialized Assistant
+essentialcardano.io → JavaScript Widget → Single Unified RAG Assistant (Web-Crawled Content)
 ```
 
-**Current RAG Assistants (Phase 1)**:
-1. **Essential Cardano AI Assistant** - Community knowledge, basics, onboarding (~1,000 files)
-2. **Cardano Docs AI Assistant** - Technical documentation, SPO guides (79 files)
-3. **Developer Portal Assistant** - Coding tutorials, API documentation
+**Key Advantages of New Approach:**
+- **Accurate URLs**: Web crawling preserves complete URL structures with unique identifiers
+- **Simplified Architecture**: Single assistant eliminates routing complexity
+- **Content Freshness**: Regular web crawling ensures current information
+- **Eliminated Broken Links**: Solves core issue with GitHub source files missing unique IDs
+
+### **Web Crawling Content Strategy**
+```
+Live Sites → Content Extraction Agent → Unified Knowledge Base → Single RAG Assistant
+```
+
+**Target Content Sources:**
+1. **essentialcardano.io** - FAQ, Glossary, Articles, Guides (with proper URL IDs)
+2. **docs.cardano.org** - Technical specifications, network operations  
+3. **developers.cardano.org** - Development resources, API documentation
+
+**Legacy Setup (Being Migrated From):**
+- Essential Cardano AI Assistant - Community knowledge (~1,000 files from GitHub)
+- Cardano Docs AI Assistant - Technical documentation (79 files)
+- Developer Portal Assistant - Coding tutorials
 
 **Planned Expansion**:
 4. **Intersect Governance Assistant** (Phase 2) - Voting, constitution, governance
