@@ -1,0 +1,11 @@
+{
+  "url": "https://docs.cardano.org/pioneer-programs/community-education",
+  "content": "![Cardano logo](/assets/cardano-logo.svg)\n![Cardano logo](/assets/cardano-logo.svg)\n\n# Community education initiatives\n\nThis section aims to highlight the diverse educational efforts led by the Cardano community.\n\nThis space is dedicated to showcasing resources, programs, and projects that support learning and skill development across the ecosystem. Whether it’s tutorials, workshops, or other community-driven content, this section aims to reflect the collective knowledge and commitment to growing Cardano’s global reach.\n\nContributions are encouraged! Share your educational resources to expand this library and help others explore and understand Cardano. Please check the [contribution guidelines](/about-cardano/contributions) and submit a pull request.\n\n## Community education resources[​](#community-education-resources \"Direct link to Community education resources\")\n\n![Cardano Logo](/assets/cardano-logo-blue.svg)\n![Cardano Logo](/assets/cardano-logo.svg)\n\nCardano is an open-source project. Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange. Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks.\n\nThis work is licensed under CC BY 4.0\n\n© IOHK 2015-2025 - IOHK Supported Project",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 5,
+    "extraction_timestamp": "2025-09-19T13:29:20.689653",
+    "extraction_time": 0.9595048427581787,
+    "source": "tavily_api_raw"
+  }
+}

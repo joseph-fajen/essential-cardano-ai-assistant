@@ -1,0 +1,11 @@
+{
+  "url": "https://docs.cardano.org/developer-resources/scalability-solutions/hydra",
+  "content": "![Cardano logo](/assets/cardano-logo.svg)\n![Cardano logo](/assets/cardano-logo.svg)\n\n# Hydra\n\nHydra is a layer 2 scaling solution for Cardano rooted in peer-reviewed research that increases transaction throughput and ensures cost efficiency while maintaining rigorous security.\n\nHydra Head is the first protocol of the Hydra family of protocols, which\nembodies the foundation for more advanced deployment scenarios relying on\nisomorphic, multi-party state channels. Each Hydra Head works as an off-chain\nmini ledger shared between a small group of participants. Developers can use\nHydra Heads to add specialized, complex protocols on top of Cardano.\n\n### Developer documentation[​](#developer-documentation \"Direct link to Developer documentation\")\n\n### Further reading[​](#further-reading \"Direct link to Further reading\")\n\n![Cardano Logo](/assets/cardano-logo-blue.svg)\n![Cardano Logo](/assets/cardano-logo.svg)\n\nCardano is an open-source project. Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange. Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks.\n\nThis work is licensed under CC BY 4.0\n\n© IOHK 2015-2025 - IOHK Supported Project",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 4,
+    "extraction_timestamp": "2025-09-19T13:29:16.724160",
+    "extraction_time": 1.0242218971252441,
+    "source": "tavily_api_raw"
+  }
+}

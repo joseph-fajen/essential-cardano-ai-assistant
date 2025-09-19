@@ -1,0 +1,11 @@
+{
+  "url": "https://docs.cardano.org/",
+  "content": "Opens in a new window Opens an external website Opens an external website in a new window\n\nThis website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link:    [Privacy Policy](https://static.iohk.io/terms/iog-privacy-policy.pdf)[Cookie Policy](https://static.iohk.io/terms/iog-cookie-policy.pdf)\n\n[Skip to main content](#__docusaurus_skipToContent_fallback)\n\n# Documentation\n\n## Cardano ecosystem\n\nCardano is a decentralized, third-generation, proof-of-stake blockchain, native home to the ada cryptocurrency.\n\nExplore, learn, create\n\n## You can do wonderful things with Cardano\n\n[**Learn about Cardano**\n\nDive into Cardano's fundamentals, from beginner explainers to in-depth coverage of core concepts, architecture and networking, and the platform's evolution.](/about-cardano/introduction)[**Explore developer resources**\n\nLearn about Cardano’s features and find references to developer resources, including guides and tutorials, to kickstart your development journey.](/developer-resources/welcome)[**Stake pool operations**\n\nLearn about stake pool operation basics, including node connectivity, keys, operational certificates, maintenance, and more, with references to detailed developer tutorials.](/stake-pool-operators/operating-a-stake-pool)[**Testnets**\n\nGet started with Cardano's testnet environments and explore how to engage with them effectively.](/cardano-testnets/environments)[**Education**\n\nExplore learning opportunities on Cardano, including details about the Plutus Pioneer program and other educational resources.](/pioneer-programs/education)\n\n## Browse more documentation websites\n\nCore tech:\n\nSmart contracts:\n\nScalability:\n\nSustainability:[Intersect](https://docs.intersectmbo.org/)",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 1,
+    "extraction_timestamp": "2025-09-19T13:29:04.354369",
+    "extraction_time": 1.501661777496338,
+    "source": "tavily_api_raw"
+  }
+}
