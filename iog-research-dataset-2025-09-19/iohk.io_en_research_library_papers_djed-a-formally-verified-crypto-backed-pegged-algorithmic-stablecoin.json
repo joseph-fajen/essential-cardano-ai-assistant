@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/djed-a-formally-verified-crypto-backed-pegged-algorithmic-stablecoin/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Djed: A Formally Verified Crypto-Backed Pegged Algorithmic Stablecoin\n\n# [Djed: A Formally Verified Crypto-Backed Pegged Algorithmic Stablecoin](https://eprint.iacr.org/2021/1069.pdf)\n\nMay/2023, CBC '23\n\nSTABLECOIN\n\nThis paper describes Djed, an algorithmic stablecoin protocol that behaves like an autonomous bank that buys and sells stablecoins for a price in a range that is pegged to a target price. It is crypto-backed in the sense that the bank keeps a volatile cryptocurrency in its reserve. The reserve is used to buy stablecoins from users that want to sell them. And revenue from sales of stablecoins to users are stored in the reserve. Besides stablecoins, the bank also trades reservecoins in order to capitalize itself and maintain a reserve ratio significantly greater than one. To the best of our knowledge, this is the first stablecoin protocol where stability claims are precisely and mathematically stated and proven. Furthermore, the claims and their proofs are formally verified using two different techniques: bounded model checking, to exhaustively search for counter-examples to the claims; and interactive theorem proving, to build rigorous formal proofs using a proof assistant with automated theorem proving features.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T14:19:27.079445",
+    "extraction_time": 1.3148980140686035,
+    "source": "tavily_api_raw"
+  }
+}

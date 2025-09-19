@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/rpplns-pay-per-last-n-shares-with-a-randomised-twist/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > RPPLNS: Pay-per-last-N-shares with a Randomised Twist\n\n# [RPPLNS: Pay-per-last-N-shares with a Randomised Twist](https://arxiv.org/pdf/2102.07681.pdf)\n\nMay/2021, AAMAS 2021\n\nINCENTIVESPROOF-OF-WORK\n\n“Pay-per-last-N-shares” (PPLNS) is one of the most common payout strategies used by mining pools in Proof-of-Work (PoW) cryptocurrencies. As with any payment scheme, it is imperative to study issues of incentive compatibility of miners within the pool. For PPLNS this question has only been partially answered; we know that reasonably-sized miners within a PPLNS pool prefer following the pool protocol over employing specific deviations. In this paper, we present a novel modification to PPLNS where we randomise the protocol in a natural way. We call our protocol “Randomised pay-per-last-N-shares” (RPPLNS), and note that the randomised structure of the protocol greatly simplifies the study of its incentive compatibility. We show that RPPLNS maintains the strengths of PPLNS (i.e., fairness, variance reduction, and resistance to pool hopping), while also being robust against a richer class of strategic mining than what has been shown for PPLNS.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 30,
+    "extraction_timestamp": "2025-09-19T14:19:41.013043",
+    "extraction_time": 2.1391191482543945,
+    "source": "tavily_api_raw"
+  }
+}

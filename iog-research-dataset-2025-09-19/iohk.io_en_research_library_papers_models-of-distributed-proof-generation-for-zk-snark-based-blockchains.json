@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/models-of-distributed-proof-generation-for-zk-snark-based-blockchains/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Models of distributed proof generation for ZK-SNARK-based blockchains\n\n# [Models of distributed proof generation for ZK-SNARK-based blockchains](https://api.zotero.org/groups/478201/items/G7RSTUAC/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nOctober/2020, Theoretical and Applied Cryptography 2020, Minsk, Belarus\n\nBLOCKCHAINMERKLEZKSNARKS\n\nWe model distributed proof generation for ZK-SNARKs-based blockchains via discrete Markov chains. Two different types of proof construction models are considered: those in which all the proofs to be built are independent (they can be considered as leaves on the Merkle tree) and those in which the proofs are located at all nodes of the Merkle tree, and hence form a partially ordered set.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T14:19:50.573498",
+    "extraction_time": 1.2375829219818115,
+    "source": "tavily_api_raw"
+  }
+}

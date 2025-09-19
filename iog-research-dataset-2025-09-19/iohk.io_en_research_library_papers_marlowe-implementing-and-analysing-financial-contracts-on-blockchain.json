@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/marlowe-implementing-and-analysing-financial-contracts-on-blockchain/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Marlowe: implementing and analysing financial contracts on blockchain\n\n# [Marlowe: implementing and analysing financial contracts on blockchain](https://api.zotero.org/groups/478201/items/93VVH49W/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nFebruary/2020, Workshop on Trusted Smart Contracts (Financial Cryptography 2020)\n\nHASKELLMARLOWESMARTCONTRACT\n\nMarlowe is a DSL for financial contracts. We describe the implementation of Marlowe on the Cardano blockchain, and the Marlowe Playground web-based development and simulation environment.\n\nContracts in Marlowe can be exhaustively analysed prior to running them, thus providing strong guarantees to participants in the contract. The Marlowe system itself has been formally verified using the Isabelle theorem prover, establishing such properties as the conservation of money.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 33,
+    "extraction_timestamp": "2025-09-19T14:19:54.805104",
+    "extraction_time": 1.2208268642425537,
+    "source": "tavily_api_raw"
+  }
+}

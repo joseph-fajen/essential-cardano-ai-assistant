@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/a-layered-certifying-compiler-architecture/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > A Layered Certifying Compiler Architecture\n\n# [A Layered Certifying Compiler Architecture](https://api.zotero.org/groups/478201/items/E5NH4Z64/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nOctober/2025, To appear in: FUNARCH '25\n\nSMARTCONTRACT\n\nThe formal verification of an optimising compiler for a realistic programming language is no small task. Most verification efforts develop the compiler and its correctness proof hand in hand. Unfortunately, this approach is less suitable for today’s constantly evolving community-developed opensource compilers and languages. This paper discusses an alternative approach to high-assurance compilers, where a separate certifier uses translation validation to assess and certify the correctness of each individual compiler run. It also demonstrates that an incremental, layered architecture for the certifier improves assurance step-by-step and may be developed largely independently from the constantly changing main compiler code base. This approach to compiler correctness is practical, as witnessed by the development of a certifier for the deployed, in-production compiler for the Plinth smart contract language. Furthermore, this paper demonstrates that the use of functional languages in the compiler and proof assistant has a clear benefit: it becomes straightforward to integrate the certifier as an additional check in the compiler itself, leveraging the the Rocq prover’s program extraction.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 22,
+    "extraction_timestamp": "2025-09-19T14:19:04.385068",
+    "extraction_time": 1.2044498920440674,
+    "source": "tavily_api_raw"
+  }
+}

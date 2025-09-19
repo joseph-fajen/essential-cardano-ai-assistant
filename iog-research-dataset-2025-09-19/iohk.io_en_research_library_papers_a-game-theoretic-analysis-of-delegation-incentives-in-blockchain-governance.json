@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/a-game-theoretic-analysis-of-delegation-incentives-in-blockchain-governance/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > A Game-Theoretic Analysis of Delegation Incentives in Blockchain Governance\n\n# [A Game-Theoretic Analysis of Delegation Incentives in Blockchain Governance](https://api.zotero.org/groups/478201/items/CF7ZDQAK/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nSeptember/2022, CBT '22\n\nGOVERNANCEINCENTIVES\n\nThe paper presents a mathematical description of the vote delegation incentive process for funding proposals in a decentralized governance system using a blockchain-based voting. Two models of bribing a delegate by a proposer submitting proposals for funding are considered: \"Rational Delegates\" and \"Emotional Delegates\". In terms of parameters describing the voting process, a sufficient condition for a Nash equilibrium is found to be as follows: if both a proposer and a delegate do not intend to participate in bribery. Moreover, it is shown at what share of the briber's stake this condition is satisfied. The main practical result of the paper is the possibility to define what kind of an attacker (in terms of the bribing capability) we will be able to resist under certain parameters.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T14:19:31.364643",
+    "extraction_time": 1.2667536735534668,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/participatory-budgeting-with-donations-the-case-of-selective-voters/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Participatory Budgeting with Donations: The Case of Selective Voters\n\n# [Participatory Budgeting with Donations: The Case of Selective Voters](https://api.zotero.org/groups/478201/items/ZHUBN4XC/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nOctober/2025, To appear in: ECAI '25\n\nParticipatory budgeting allows citizens to decide how to allocate public funds among projects. Motivated by recent real-world applications in both municipal and blockchain environments, we propose and study a framework where voters can donate additional private funds to enhance their own satisfaction, using cumulative ballots to express preferences. We introduce the first mechanisms for this setting and evaluate them primarily based on the satisfaction of axioms, while also exploring their algorithmic and strategic aspects.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 22,
+    "extraction_timestamp": "2025-09-19T14:19:04.385068",
+    "extraction_time": 1.2044498920440674,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/privacy-preserving-blueprints/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Privacy-Preserving Blueprints\n\n# [Privacy-Preserving Blueprints](https://eprint.iacr.org/2022/1536.pdf)\n\nApril/2023, Eurocrypt '23\n\nPRIVACY\n\nIn a world where everyone uses anonymous credentials for all access control needs, it is impossible to trace wrongdoers, by design. This makes legitimate controls, such as tracing illicit trade and terror suspects, impossible to carry out. Here, we propose a privacy-preserving blueprint capability that allows an auditor to publish an encoding of the function f(x, ·) for a publicly known function f and a secret input x. For example, x may be a secret watchlist, and f(x, y) may return y if y ∈ x. On input her data y and the auditor’s pkA, a user can compute an escrow Z such that anyone can verify that Z was computed correctly from the user’s credential attributes, and moreover, the auditor can recover f(x, y) from Z. Our contributions are:\n\n– We define secure f-blueprint systems; our definition is designed to provide a modular extension to anonymous credential systems.\n\n– We show that secure f-blueprint systems can be constructed for all functions f from fully homomorphic encryption and NIZK proof systems, or from non-interactive secure computation and NIZK. These results are of theoretical interest but is not efficient enough for practical use.\n\n– We realize an optimal blueprint system under the DDH assumption in the random-oracle model for the watchlist function.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T14:19:27.079445",
+    "extraction_time": 1.3148980140686035,
+    "source": "tavily_api_raw"
+  }
+}

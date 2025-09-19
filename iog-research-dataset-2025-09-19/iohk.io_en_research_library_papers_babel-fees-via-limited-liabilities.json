@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/babel-fees-via-limited-liabilities/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Babel Fees via Limited Liabilities\n\n# [Babel Fees via Limited Liabilities](https://arxiv.org/pdf/2106.01161.pdf)\n\nJune/2022, ACNS '22\n\nTRANSACTION-FEES\n\nCustom currencies (ERC-20) on Ethereum are wildly popular, but they are second class to the primary currency Ether. Custom currencies are more complex and more expensive to handle than the primary currency as their accounting is not natively performed by the underlying ledger, but instead in user-defined contract code. Furthermore, and quite importantly, transaction fees can only be paid in Ether.\n\nIn this paper, we focus on being able to pay transaction fees in custom currencies. We achieve this by way of a mechanism permitting short term liabilities to pay transaction fees in conjunction with offers of custom currencies to compensate for those liabilities. This enables block producers to accept custom currencies in exchange for settling liabilities of transactions that they process.\n\nWe present formal ledger rules to handle liabilities together with the concept of babel fees to pay transaction fees in custom currencies. We also discuss how clients can determine what fees they have to pay, and we present a solution to the knapsack problem variant that block producers have to solve in the presence of babel fees to optimise their profits.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 29,
+    "extraction_timestamp": "2025-09-19T14:19:35.862517",
+    "extraction_time": 1.4846253395080566,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/embedded-pattern-matching/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Embedded Pattern Matching\n\n# [Embedded Pattern Matching](https://dl.acm.org/doi/pdf/10.1145/3546189.3549917)\n\nSeptember/2022, Haskell '22\n\nHASKELL\n\nHaskell is a popular choice for hosting deeply embedded languages. A recurring challenge for these embeddings is how to seamlessly integrate user defined algebraic data types. In particular, one important, convenient, and expressive feature for creating and inspecting data --pattern matching-- is not directly available on embedded terms. We present a novel technique, embedded pattern matching, which enables a natural and user friendly embedding of user defined algebraic data types into the embedded language, and allows programmers to pattern match on terms in the embedded language in much the same way they would in the host language.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T14:19:31.364643",
+    "extraction_time": 1.2667536735534668,
+    "source": "tavily_api_raw"
+  }
+}

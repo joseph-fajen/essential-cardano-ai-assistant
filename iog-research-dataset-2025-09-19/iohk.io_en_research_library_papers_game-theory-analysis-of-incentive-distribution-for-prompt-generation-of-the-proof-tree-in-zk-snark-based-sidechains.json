@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/game-theory-analysis-of-incentive-distribution-for-prompt-generation-of-the-proof-tree-in-zk-snark-based-sidechains/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Game theory analysis of incentive distribution for prompt generation of the proof tree in zk-SNARK based sidechains\n\n# [Game theory analysis of incentive distribution for prompt generation of the proof tree in zk-SNARK based sidechains](https://api.zotero.org/groups/478201/items/NUULF4AC/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nSeptember/2022, ICCST '22\n\nGAME-THEORY\n\nIn sidechains with Latus consensus, a block forger generates a block using SNARK-proofs, created by decentralized provers and organized in a perfect binary tree (proof tree). One of the most important questions is to assign incentives for these proofs. In this paper, the game theory instruments are used to investigate incentive distribution in proof trees for SNARK-based sidechains to provide stable and efficient block generation. Two different models are considered: when only one sidechain exists, and when there exist a lot of sidechains among which provers may switch any time, trying to get a higher incentive. Utilization of Stirling numbers with non-integer arguments turns out to be very efficient for the second model.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T14:19:31.364643",
+    "extraction_time": 1.2667536735534668,
+    "source": "tavily_api_raw"
+  }
+}

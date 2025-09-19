@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/blockchain-participation-games/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Blockchain Participation Games\n\n# [Blockchain Participation Games](https://arxiv.org/pdf/2312.02769.pdf)\n\nDecember/2023, WINE 2023\n\nGAME-THEORY\n\nWe study game-theoretic models for capturing participation in blockchain systems. Existing blockchains can be naturally viewed as games, where a set of potentially interested users is faced with the dilemma of whether to engage with the protocol or not. Engagement here implies that the user will be asked to complete certain tasks, whenever she is selected to contribute, according to some stochastic process. Apart from the basic dilemma of engaging or not, even more strategic considerations arise in systems where users may be able to declare participation and then retract (while still being able to receive rewards). We propose two models for studying such games, with the first one focusing on the basic dilemma of engaging or not, whereas the latter focuses on the retraction effects. In both models we provide characterization results or necessary conditions on the structure of Nash equilibria. Our findings reveal that appropriate reward mechanisms can be used to stimulate participation and avoid negative effects of free riding, results that are in line with real world blockchain system deployments.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 25,
+    "extraction_timestamp": "2025-09-19T14:19:18.452381",
+    "extraction_time": 1.9181861877441406,
+    "source": "tavily_api_raw"
+  }
+}

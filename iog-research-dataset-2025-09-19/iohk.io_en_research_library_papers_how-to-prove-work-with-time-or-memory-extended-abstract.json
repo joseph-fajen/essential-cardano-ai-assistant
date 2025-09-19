@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/how-to-prove-work-with-time-or-memory-extended-abstract/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > How to Prove Work: With Time or Memory (Extended Abstract)\n\n# [How to Prove Work: With Time or Memory (Extended Abstract)](https://api.zotero.org/groups/478201/items/77Z47JJT/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nMay/2021, ICBC '21\n\nPROOF-OF-WORK\n\nProposed by Dwork and Naor (Crypto’ 92) as an anti-spam technique, proof-of-work is attracting more attention with the boom of cryptocurrencies. A proof-of-work scheme involves two kinds of participants, provers and verifiers. Provers intend to solve a puzzle with a solution, while verifiers are in charge of checking the puzzle’s correctness and solution pair. The widely adopted hash-based construction achieves an optimal gap in computational complexity between provers and verifiers. However, in industry, proof-of-work is done by highly dedicated hardware, e.g., “ASIC”, which is not generally accessible, let alone the high energy consumption rates. In this work, we turn our eyes back on the original meaning of “proof of work”. Under a trusted setting, our proposed framework and its constructions are based on computationally hard problems and the unified definition of hard cryptographic primitives by Biryukov and Perrin (Asiacrypt’ 17). The new framework enables us to have a proof-of-work scheme with time-hardness or memory-hardness while cutting down power consumption and reducing the impact of dedicated hardwares.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 30,
+    "extraction_timestamp": "2025-09-19T14:19:41.013043",
+    "extraction_time": 2.1391191482543945,
+    "source": "tavily_api_raw"
+  }
+}

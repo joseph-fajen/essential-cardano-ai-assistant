@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/get-started/evolution-sdk/wallets",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Create & Choose Wallets\n\n## Create a wallet[​](#create-a-wallet \"Direct link to Create a wallet\")\n\nYou are provided with multiple options to create and import a wallet:\n\nGenerate a new private key:\n\n`import { generatePrivateKey } from \"@evolution-sdk/lucid\";  \n  \nconst privateKey = generatePrivateKey(); // Bech32 encoded private key  \n// console.log(privateKey);`\n\nGenerate a new seed phrase (mnemonic):\n\n`import { generateSeedPhrase } from \"@evolution-sdk/lucid\";  \n  \nconst seedPhrase = generateSeedPhrase(); // BIP-39  \n// console.log(seedPhrase);`\n\n## Choosing Wallet[​](#choosing-wallet \"Direct link to Choosing Wallet\")\n\nUse any suitable method to select a wallet and interact with the blockchain through it:\n\nSelect a wallet using a private key:\n\n`lucid.selectWallet.fromPrivateKey(privateKey);`\n\nSelect a wallet using a seed phrase (mnemonic):\n\n`const seedPhrase = \"your seed phrase here...\";  \nlucid.selectWallet.fromSeed(seedPhrase);`\n\nIf you're integrating with a wallet provider that exposes an API conforming to the `WalletApi` interface. This works for any [CIP-30](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0030) compliant wallet.\n\n`WalletApi`\n`// `externalWalletApi` is your wallet provider's API  \nconst walletApi: WalletApi = externalWalletApi;  \nlucid.selectWallet.fromAPI(walletApi);`\n\nThis method will create a limited wallet that can still query the address and its UTxOs. You can use it to build transactions that **others will sign**, as it cannot sign transactions (no private key).\n\n`const address = \"addr_test...\";  \nconst utxos = await lucid.utxosAt(address);  \nlucid.selectWallet.fromAddress(address, utxos);`\n\nTransactions built with an address-only wallet will need to be signed by a wallet with the actual private keys before they can be submitted.",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 5,
+    "extraction_timestamp": "2025-09-19T14:04:40.000976",
+    "extraction_time": 1.9930140972137451,
+    "source": "tavily_api_raw"
+  }
+}

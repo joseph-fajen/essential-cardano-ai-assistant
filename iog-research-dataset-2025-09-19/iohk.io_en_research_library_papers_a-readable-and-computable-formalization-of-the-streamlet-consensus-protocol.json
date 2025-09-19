@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/a-readable-and-computable-formalization-of-the-streamlet-consensus-protocol/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > A readable and computable formalization of the Streamlet consensus protocol\n\n# [A readable and computable formalization of the Streamlet consensus protocol](https://drops.dagstuhl.de/storage/01oasics/oasics-vol129-fmbc2025/OASIcs.FMBC.2025.7/OASIcs.FMBC.2025.7.pdf)\n\nMay/2025, FMBC '25\n\nAGDACONSENSUSFORMAL VERIFICATION\n\nConsensus protocols are the fundamental building block of blockchain technology. Hence, correctness of the consensus protocol is essential for the construction of a reliable system. In the past few years, we saw the introduction of a myriad of new protocols of the BFT family of consensus protocols. The Streamlet protocol is one of these new protocols, which while not the fastest, it is certainly the simplest one.\n\nIn order to have strong guarantees for the protocol and its implementations we want to obtain formalizations that are readable enough to be used to communicate between formalizers and implementors, that have a mechanized proof of correctness and that can support the testing of implementations.\n\nWe present a readable and computable formalization of the Streamlet protocol in Agda, providea mechanization of its proof of consistency, and show how one may use the formalization for testing implementations of it.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 23,
+    "extraction_timestamp": "2025-09-19T14:19:09.290919",
+    "extraction_time": 1.8959262371063232,
+    "source": "tavily_api_raw"
+  }
+}

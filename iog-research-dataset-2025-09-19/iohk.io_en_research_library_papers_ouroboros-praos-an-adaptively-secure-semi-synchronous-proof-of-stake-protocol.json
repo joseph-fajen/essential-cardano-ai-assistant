@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/ouroboros-praos-an-adaptively-secure-semi-synchronous-proof-of-stake-protocol/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol\n\n# [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](https://eprint.iacr.org/2017/573.pdf)\n\nApril/2018, EUROCRYPT 2018\n\nCONSENSUSCRYPTOCURRENCYPROOF-OF-STAKE\n\nWe present “Ouroboros Praos”, a proof-of-stake blockchain protocol that, for the first time, provides security against fully-adaptive corruption in the semi-synchronous setting: Specifically, the adversary can corrupt any participant of a dynamically evolving population of stakeholders at any moment as long the stakeholder distribution maintains an honest majority of stake; furthermore, the protocol tolerates an adversarially-controlled message delivery delay unknown to protocol participants.\n\nTo achieve these guarantees we formalize and realize in the universal composition setting a suitable form of forward secure digital signatures and a new type of verifiable random function that maintains unpredictability under malicious key generation. Our security proof develops a general combinatorial framework for the analysis of semi-synchronous blockchains that may be of independent interest. We prove our protocol secure under standard cryptographic assumptions in the random oracle model.\n\nhttps://www.youtube.com/playlist?list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 34,
+    "extraction_timestamp": "2025-09-19T14:19:59.350485",
+    "extraction_time": 1.5324459075927734,
+    "source": "tavily_api_raw"
+  }
+}

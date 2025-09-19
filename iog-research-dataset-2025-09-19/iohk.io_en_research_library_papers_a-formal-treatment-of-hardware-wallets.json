@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/a-formal-treatment-of-hardware-wallets/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > A Formal Treatment of Hardware Wallets\n\n# [A Formal Treatment of Hardware Wallets](https://eprint.iacr.org/2019/034.pdf)\n\nFebruary/2019, Financial Cryptography 2019\n\nBITCOINHARDWARE-WALLETS\n\nBitcoin, being the most successful cryptocurrency, has been repeatedly attacked with many users losing their funds. The industry's response to securing the user's assets is to offer tamper-resistant hardware wallets. Although such wallets are considered to be the most secure means for managing an account, no formal attempt has been previously done to identify, model and formally verify their properties. This paper provides the first formal model of the Bitcoin hardware wallet operations. We identify the properties and security parameters of a Bitcoin wallet and formally define them in the Universal Composition (UC) Framework. We present a modular treatment of a hardware wallet ecosystem, by realizing the wallet functionality in a hybrid setting defined by a set of protocols. This approach allows us to capture in detail the wallet's components, their interaction and the potential threats. We deduce the wallet's security by proving that it is secure under common cryptographic assumptions, provided that there is no deviation in the protocol execution. Finally, we define the attacks that are successful under a protocol deviation, and analyze the security of commercially available wallets.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 34,
+    "extraction_timestamp": "2025-09-19T14:19:59.350485",
+    "extraction_time": 1.5324459075927734,
+    "source": "tavily_api_raw"
+  }
+}

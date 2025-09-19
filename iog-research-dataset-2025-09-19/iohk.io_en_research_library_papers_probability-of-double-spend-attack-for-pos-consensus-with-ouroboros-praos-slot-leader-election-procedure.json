@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/probability-of-double-spend-attack-for-pos-consensus-with-ouroboros-praos-slot-leader-election-procedure/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Probability of Double Spend Attack for PoS Consensus with Ouroboros Praos Slot Leader Election Procedure\n\n# [Probability of Double Spend Attack for PoS Consensus with Ouroboros Praos Slot Leader Election Procedure](https://api.zotero.org/groups/478201/items/9EINXXJZ/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nJune/2024, CECC '24\n\nOUROBOROSPROOF-OF-STAKE\n\nThe paper obtains upper estimates for the probability of a double spend attack on Proof-of- Stake consensus with Ouroboros Praos protocol for slot leader election. In compare with simplified models of PoS consensus, considered before in [2], we investigate two models (named Model 1 and Model 2), taking into account all features of Ouroboros Praos protocol [1]: slot creation function, active slot coefficient, possibility of empty slots and slots with multiple slot leaders (both honest and malicious), non-linear dependence between stake ratio and probability to become slot leader in some timeslot, end even non-zero synchronization time (for Model 2), measured in timeslots. In Model 1 (with zero synchronization time), we obtain explicit formulas for the exact double spend attack probability value. In Model 2 (with non-zero synchronization time), we have to make some simplification assumption in favor of the adversary. As a result, we get an upper probability estimation, using so-called dominated distribution.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 25,
+    "extraction_timestamp": "2025-09-19T14:19:18.452381",
+    "extraction_time": 1.9181861877441406,
+    "source": "tavily_api_raw"
+  }
+}

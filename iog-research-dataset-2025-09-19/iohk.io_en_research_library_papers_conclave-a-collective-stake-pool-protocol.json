@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/conclave-a-collective-stake-pool-protocol/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Conclave: A Collective Stake Pool Protocol\n\n# [Conclave: A Collective Stake Pool Protocol](https://eprint.iacr.org/2021/742.pdf)\n\nOctober/2021, ESORICS 2021\n\nBLOCKCHAINPROOF-OF-STAKESTAKE-POOL\n\nProof-of-Stake (PoS) distributed ledgers are the most common alternative to Bitcoin’s Proof-of-Work (PoW) paradigm, replacing the hardware dependency with stake, i.e., assets that a party controls. Similar to PoW’s mining pools, PoS’s stake pools, i.e., collaborative entities comprising of multiple stakeholders, allow a party to earn rewards more regularly, compared to participating on an individual basis. However, stake pools tend to increase centralization, since they are typically managed by a single party that acts on behalf of the pool’s members. In this work we propose Conclave, a formal design of a Collective Stake Pool, i.e., a decentralized pool with no single point of authority. We formalize Conclave as an ideal functionality and implement it as a distributed protocol, based on standard cryptographic primitives. Among Conclave’s building blocks is a weighted threshold signature scheme (WTSS); to that end, we define a WTSS ideal functionality — which might be of independent interest — and propose two constructions based on threshold ECDSA, which enable (1) fast trustless setup and (2) identifiable aborts.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 29,
+    "extraction_timestamp": "2025-09-19T14:19:35.862517",
+    "extraction_time": 1.4846253395080566,
+    "source": "tavily_api_raw"
+  }
+}

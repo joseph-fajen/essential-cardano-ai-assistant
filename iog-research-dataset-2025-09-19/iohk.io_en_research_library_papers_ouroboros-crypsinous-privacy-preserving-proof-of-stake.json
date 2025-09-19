@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/ouroboros-crypsinous-privacy-preserving-proof-of-stake/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake\n\n# [Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake](https://eprint.iacr.org/2018/1132.pdf)\n\nMay/2019, IEEE Symposium on Security and Privacy\n\nPROOF-OF-STAKEPROTOCOL\n\nWe present Ouroboros Crypsinous, the first formally analyzed privacy-preserving proof-of-stake blockchain protocol. To model its security we give a thorough treatment of private ledgers in the (G)UC setting that might be of independent interest. To prove our protocol secure against adaptive attacks, we introduce a new coin evolution technique relying on SNARKs, and key-private forward-secure encryption. The latter primitive—and the associated construction—can be of independent interest. We stress that existing approaches to private blockchain, such as the proof-of-work-based Zerocash are analyzed only against static corruptions.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 33,
+    "extraction_timestamp": "2025-09-19T14:19:54.805104",
+    "extraction_time": 1.2208268642425537,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/proofs-about-network-communication-for-humans-and-machines/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Proofs about Network Communication: For Humans and Machines\n\n# [Proofs about Network Communication: For Humans and Machines](https://arxiv.org/pdf/2308.10652v1.pdf)\n\nJune/2023, ICE '23\n\nMany concurrent and distributed systems are safety-critical and therefore have to provide a high degree of assurance. Important properties of such systems are frequently proved on the specification level, but implementations typically deviate from specifications for practical reasons. Machine-checked proofs of bisimilarity statements are often useful for guaranteeing that properties of specifications carry over to implementations. In this paper, we present a way of conducting such proofs with a focus on network communication. The proofs resulting from our approach are not just machine-checked but also intelligible for humans.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 26,
+    "extraction_timestamp": "2025-09-19T14:19:22.752368",
+    "extraction_time": 1.294140100479126,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/fait-accompli-committee-selection-improving-the-size-security-tradeoff-of-stake-based-committees/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees\n\n# [Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees](https://eprint.iacr.org/2023/1273.pdf)\n\nNovember/2023, ACM CCS '23\n\nWe study the problem of committee selection in the context of proof-of-stake consensus mechanisms or distributed ledgers. These settings determine a family of participating parties---each of which has been assigned a non-negative \"stake\"---and are subject to an adversary that may corrupt a subset of the parties. The challenge is to select a committee of participants that accurately reflects the proportion of corrupt and honest parties, as measured by stake, in the full population. The trade-off between committee size and the probability of selecting a committee that over-represents the corrupt parties is a fundamental factor in both security and efficiency of proof-of-stake consensus, as well as committee-run layer-two protocols.\n\nWe propose and analyze several new committee selection schemes that improve upon existing techniques by adopting low-variance assignment of certain committee members that hold significant stake. These schemes provide notable improvements to the size--security trade-off arising from the stake distributions of many deployed ledgers.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 26,
+    "extraction_timestamp": "2025-09-19T14:19:22.752368",
+    "extraction_time": 1.294140100479126,
+    "source": "tavily_api_raw"
+  }
+}

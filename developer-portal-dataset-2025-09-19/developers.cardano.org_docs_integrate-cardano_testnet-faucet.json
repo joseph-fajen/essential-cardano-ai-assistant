@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/integrate-cardano/testnet-faucet",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Testnet Faucet\n\nThe Testnet Faucet is a service that provides test ada (tAda) to users of the Cardano testnets. These tokens have no value, but they enable users to experiment with Cardano testnet features without spending real ada on the Mainnet. You can use test ada to [mint native tokens](/docs/native-tokens/minting), to [play around with Cardano wallets](/docs/integrate-cardano/creating-wallet-faucet) or to [learn how to operate a stake pool](/docs/operate-a-stake-pool/).\n\n## Testnets faucet[​](#testnets-faucet \"Direct link to Testnets faucet\")\n\nThis portal allows you to send test ada to your wallet. You can access it [here](https://docs.cardano.org/cardano-testnet/tools/faucet).\n\nSend your test tokens to this address: `addr_test1qqr585tvlc7ylnqvz8pyqwauzrdu0mxag3m7q56grgmgu7sxu2hyfhlkwuxupa9d5085eunq2qywy7hvmvej456flknswgndm3`\n\n`addr_test1qqr585tvlc7ylnqvz8pyqwauzrdu0mxag3m7q56grgmgu7sxu2hyfhlkwuxupa9d5085eunq2qywy7hvmvej456flknswgndm3`\n\n## How to get test ada[​](#how-to-get-test-ada \"Direct link to How to get test ada\")\n\n`preview`\n`preprod`\n`Receive test ADA`\n`pool delegation`\n`I'm not a robot`\n`Request`",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 7,
+    "extraction_timestamp": "2025-09-19T14:04:49.862174",
+    "extraction_time": 2.4011168479919434,
+    "source": "tavily_api_raw"
+  }
+}

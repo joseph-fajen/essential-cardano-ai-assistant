@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/get-started/blockfrost/secure-webhooks",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Secure Webhooks\n\nInstead of repeatedly retrieving and processing potentially irrelevant blockchain data (polling), Blockfrost Secure Webhooks can be set up to streamline the process. Secure Webhooks notify your application only when relevant events occur, enhancing efficiency and reducing effort on your part.\n\nWebhooks empower Blockfrost to deliver real-time notifications to your application. Utilizing HTTP POST requests, Blockfrost Secure Webhooks transmit events to your application endpoint in JSON format. These events can subsequently be used to trigger actions within your backend systems.\n\nOptionally, you can create up to 5 trigger conditions for a webhook. Only events that meet all of the conditions will be sent to your endpoint. A condition rule consist of a field, a value, and an operator. You can choose from predefined condition fields or create a custom JSONPath query extracting the field you want to match.\n\n![Blockfrost.io JSONPath](/assets/images/secure-webhooks-1_webhooks_jsonpath-f51a96776b2546830b1d994eb1b0e228.png)\n\n![Blockfrost.io JSONPath](/assets/images/secure-webhooks-1_webhooks_jsonpath-f51a96776b2546830b1d994eb1b0e228.png)\n\nWebhooks are both powerful and complex. To learn more, have a look at the [official Blockfrost documentation](https://blockfrost.dev/docs/start-building/webhooks/)",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 4,
+    "extraction_timestamp": "2025-09-19T14:04:34.999822",
+    "extraction_time": 3.8223392963409424,
+    "source": "tavily_api_raw"
+  }
+}

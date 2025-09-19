@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/a-decentralized-information-marketplace-preserving-input-and-output-privacy/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > A Decentralized Information Marketplace Preserving Input and Output Privacy\n\n# [A Decentralized Information Marketplace Preserving Input and Output Privacy](https://api.zotero.org/groups/478201/items/GE44GTF6/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nJune/2023, DEC '23\n\nData-driven applications are engines of economic growth and essential for progress in many domains. The data involved is often of a personal nature. We propose a decentralized information marketplace where data held by data providers, such as individual users can be made available for computation to data consumers, such as government agencies, research institutes, or companies who want to derive actionable insights or train machine learning models with the data while (1) protecting input privacy, (2) protecting output privacy, and (3) compensating data providers for making their sensitive information available for secure computation. We enable this privacy-preserving data exchange through a novel and carefully designed combination of a blockchain that supports smart contracts and two privacy-enhancing technologies: (1) secure multi-party computations, and (2) robust differential privacy guarantees.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 26,
+    "extraction_timestamp": "2025-09-19T14:19:22.752368",
+    "extraction_time": 1.294140100479126,
+    "source": "tavily_api_raw"
+  }
+}

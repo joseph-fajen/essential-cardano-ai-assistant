@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/translation-certification-for-smart-contracts/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Translation Certification for Smart Contracts\n\n# [Translation Certification for Smart Contracts](https://arxiv.org/pdf/2201.04919.pdf)\n\nMay/2022, FLOPS '22\n\nPLUTUSSMARTCONTRACT\n\nCompiler correctness is an old problem, but with the emergence of smart contracts on blockchains that problem presents itself in a new light. Smart contracts are self-contained pieces of software that control assets, which are often of high financial value, in an adversarial environment and, once committed to the blockchain, they cannot be changed anymore. Smart contracts are typically developed in a high-level contract language and compiled to low-level virtual machine code before being committed to the blockchain. For a smart contract user to trust a given piece of low-level code on the blockchain, they must convince themselves that (a) they are in possession of the matching source code and (b) that the compiler faithfully translated the source code's semantics.\n\nClassic approaches to compiler correctness tackle the second point. We argue that translation certification also addresses the first. We describe the proof architecture of a novel translation certification framework, implemented in Coq, for a functional smart contract language. We demonstrate that we can model the compilation pipeline as a sequence of translation relations that facilitate a modular proof approach and are robust in the face of an evolving compiler implementation.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 29,
+    "extraction_timestamp": "2025-09-19T14:19:35.862517",
+    "extraction_time": 1.4846253395080566,
+    "source": "tavily_api_raw"
+  }
+}

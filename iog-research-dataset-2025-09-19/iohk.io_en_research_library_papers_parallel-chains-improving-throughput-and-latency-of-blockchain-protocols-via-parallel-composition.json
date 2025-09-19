@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/parallel-chains-improving-throughput-and-latency-of-blockchain-protocols-via-parallel-composition/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Parallel Chains: Improving Throughput and Latency of Blockchain Protocols via Parallel Composition\n\n# [Parallel Chains: Improving Throughput and Latency of Blockchain Protocols via Parallel Composition](https://eprint.iacr.org/2018/1119.pdf)\n\nNovember/2018, EPrint Archive\n\nBLOCKCHAINDISTRIBUTEDPROTOCOLSCALABILITY\n\nTwo of the most significant challenges in the design of blockchain protocols is increasing their transaction processing throughput and minimising latency in terms of transaction settlement. In this work we put forth for the first time a formal execution model that enables to express transac- tion throughput while supporting formal security arguments regarding safety and liveness. We then introduce parallel-chains, a simple yet powerful non-black-box composition technique for blockchain protocols. We showcase our technique by providing two parallel-chains protocol variants, one for the PoS and one for PoW setting, that exhibit optimal throughput under adaptive fail-stop corruptions while they retain their resiliency in the face of Byzantine adversity assuming honest majority of stake or computational power, respectively. We also apply our parallel-chains composition method to improve settlement latency; combining parallel composition with a novel transaction weighing mechanism we show that it is possible to scale down the time required for a transaction to settle by any given constant while maintaining the same level of security.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 34,
+    "extraction_timestamp": "2025-09-19T14:19:59.350485",
+    "extraction_time": 1.5324459075927734,
+    "source": "tavily_api_raw"
+  }
+}

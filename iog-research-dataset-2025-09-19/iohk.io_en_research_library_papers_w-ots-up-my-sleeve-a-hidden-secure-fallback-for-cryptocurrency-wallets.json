@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/w-ots-up-my-sleeve-a-hidden-secure-fallback-for-cryptocurrency-wallets/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > W-OTS(+) up my Sleeve! A Hidden Secure Fallback for Cryptocurrency Wallets\n\n# [W-OTS(+) up my Sleeve! A Hidden Secure Fallback for Cryptocurrency Wallets](https://eprint.iacr.org/2021/872.pdf)\n\nJune/2021, ACNS '21\n\nDIGITAL SIGNATURESHASHPOSTQUANTUM\n\nWe introduce a new key generation mechanism where users can generate a \"back up key\", securely nested inside the secret key of a signature scheme. Our main motivation is that in case of leakage of the secret key, established techniques based on zero-knowledge proofs of knowledge are void since the key becomes public. On the other hand, the \"back up key\", which is secret, can be used to generate a \"proof of ownership\", i.e., only the real owner of this secret key can generate such a proof. To the best of our knowledge, this extra level of security is novel, and could have already been used in practice, if available, in digital wallets for cryptocurrencies that suffered massive leakage of account private keys. In this work, we formalize the notion of \"Proof of Ownership\" and \"Fallback\" as new properties. Then, we introduce our construction, which is compatible with major designs for wallets based on ECDSA, and adds a W-OTS+ signing key as a \"back up key\". Thus offering a quantum secure fallback. This design allows the hiding of any quantum secure signature key pair, and is not exclusive to W-OTS+. Finally, we briefly discuss the construction of multiple generations of proofs of ownership.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 30,
+    "extraction_timestamp": "2025-09-19T14:19:41.013043",
+    "extraction_time": 2.1391191482543945,
+    "source": "tavily_api_raw"
+  }
+}

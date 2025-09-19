@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/a-composable-security-treatment-of-the-lightning-network/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > A Composable Security Treatment of the Lightning Network\n\n# [A Composable Security Treatment of the Lightning Network](https://eprint.iacr.org/2019/778.pdf)\n\nJune/2020, CSF '20\n\nBLOCKCHAINLIGHTNING-NETWORK\n\nThe high latency and low throughput of blockchain protocols constitute one of the fundamental barriers for their wider adoption. Overlay protocols, notably the lightning network, have been touted as the most viable direction for rectifying this in practice. In this work we present for the first time a full formalisation and security analysis of the lightning network in the (global) universal composition setting that takes into account a global ledger functionality for which previous work [Badertscher et al., Crypto’17] has demonstrated its realisability by the Bitcoin blockchain protocol. As a result, our treatment delineates exactly how the security guarantees of the protocol depend on the properties of the underlying ledger. Moreover, we provide a complete and modular description of the core of the lightning protocol that highlights precisely its dependency to underlying basic cryptographic primitives such as digital signatures, pseudorandom functions, identity-based signatures and a less common two-party primitive, which we term a combined digital signature, that were originally hidden within the lightning protocol’s implementation.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T14:19:50.573498",
+    "extraction_time": 1.2375829219818115,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/the-brave-new-world-of-global-generic-groups-and-uc-secure-zero-overhead-snarks/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > The Brave New World of Global Generic Groups and UC-Secure Zero-Overhead SNARKs\n\n# [The Brave New World of Global Generic Groups and UC-Secure Zero-Overhead SNARKs](https://eprint.iacr.org/2024/818.pdf)\n\nDecember/2024, TCC '24\n\nUNIVERSAL COMPOSITION\n\nThe universal composability (UC) model provides strong security guarantees for protocols used in arbitrary contexts. While these guarantees are highly desirable, in practice, schemes with a standalone proof of security, such as the Groth16 proof system, are preferred. This is because UC security typically comes with undesirable overhead, sometimes making UC-secure schemes significantly less efficient than their standalone counterparts. We establish the UC security of Groth16 without any significant overhead. In the spirit of global random oracles, we design a global (restricted) observable generic group functionality that models a natural notion of observability: computations that trace back to group elements derived from generators of other sessions are observable. This notion turns out to be surprisingly subtle to formalize. We provide a general framework for proving protocols secure in the presence of global generic groups, which we then apply to Groth16.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 23,
+    "extraction_timestamp": "2025-09-19T14:19:09.290919",
+    "extraction_time": 1.8959262371063232,
+    "source": "tavily_api_raw"
+  }
+}

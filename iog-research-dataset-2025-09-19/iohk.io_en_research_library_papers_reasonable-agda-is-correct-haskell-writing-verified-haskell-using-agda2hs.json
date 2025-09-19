@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/reasonable-agda-is-correct-haskell-writing-verified-haskell-using-agda2hs/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Reasonable Agda Is Correct Haskell: Writing Verified Haskell using agda2hs\n\n# [Reasonable Agda Is Correct Haskell: Writing Verified Haskell using agda2hs](https://dl.acm.org/doi/pdf/10.1145/3546189.3549920)\n\nSeptember/2022, Haskell '22\n\nAGDAFORMAL VERIFICATION\n\nModern dependently typed languages such as Agda can be used to statically enforce the correctness of programs. However, they still lack the large ecosystem of a more popular language like Haskell. To combine the strength of both approaches, we present agda2hs, a tool that translates an expressive subset of Agda to readable Haskell, erasing dependent types and proofs in the process. Thanks to Agda’s support for erasure annotations, this process is both safe and transparent to the user. Compared to other tools for program extraction, agda2hs uses a syntax that is already familiar to functional programmers, allows for both intrinsic and extrinsic approaches to verification, and produces Haskell code that is easy to read and audit by programmers with no knowledge of Agda.\n\nWe present a practical use case of agda2hs at IOG to verify properties of a program generator. While both agda2hs and its ecosystem are still young, our experiences so far show that this is a viable approach to make verified functional programming available to a broader audience.\n\nThis paper is a literate Agda script, hence all rendered (Agda) code has been typechecked.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T14:19:31.364643",
+    "extraction_time": 1.2667536735534668,
+    "source": "tavily_api_raw"
+  }
+}

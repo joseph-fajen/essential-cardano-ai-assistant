@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/impossibility-on-tamper-resilient-cryptography-with-uniqueness-properties/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Impossibility on Tamper-Resilient Cryptography with Uniqueness Properties\n\n# [Impossibility on Tamper-Resilient Cryptography with Uniqueness Properties](https://eprint.iacr.org/2018/564.pdf)\n\nApril/2021, EPrint Archive\n\nCRYPTOGRAPHY\n\nIn this work, we show negative results on the tamper-resilience of a wide class of cryptographic primitives with uniqueness properties, such as unique signatures, verifiable random functions, signatures with unique keys, injective one-way functions, and encryption schemes with a property we call unique-message property. Concretely, we prove that for these primitives, it is impossible to derive their (even extremely weak) tamper-resilience from any common assumption, via black-box reductions. Our proofs exploit the simulatable attack paradigm proposed by Wichs (ITCS ’13), and the tampering model we treat is the plain model, where public parameters and public/secret key pairs are potentially tampered with.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 30,
+    "extraction_timestamp": "2025-09-19T14:19:41.013043",
+    "extraction_time": 2.1391191482543945,
+    "source": "tavily_api_raw"
+  }
+}

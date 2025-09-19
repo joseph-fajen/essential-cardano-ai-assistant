@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/double-auction-meets-blockchain-consensus-from-scored-bid-assignment/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Double Auction Meets Blockchain: Consensus from Scored Bid-Assignment\n\n# [Double Auction Meets Blockchain: Consensus from Scored Bid-Assignment](https://eprint.iacr.org/2022/1471.pdf)\n\nJune/2025, ACNS '25\n\nAUCTIONS\n\nA double auction system, where buyers and sellers trade through bids, requires a transparent and immutable mechanism to record allocation results. This demand can be met with robust ledgers that ensure persistence and liveness, as exemplified by the Bitcoin blockchain (EuroCrypt '15). While existing blockchain-aided auction systems often rely on secure smart contracts or layer-2 techniques, this work proposes a more fundamental approach by constructing a provably secure blockchain protocol directly from the computation of bid allocations. The core component is an alternative proof-of-work (PoW) scheme based on a scored generalized multiple assignment problem (SGMAP), integrated into a tailored blockchain protocol. Unlike conventional PoW-based protocols, our leader selection is driven by block scores derived from the SGMAP scoring function, which is designed to be flexible enough to define the difficulty level and accommodate real-life requirements of the underlying double auction system. We prove persistence and a modified liveness property for our design, and present implementation results to validate its robustness and practicality.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 23,
+    "extraction_timestamp": "2025-09-19T14:19:09.290919",
+    "extraction_time": 1.8959262371063232,
+    "source": "tavily_api_raw"
+  }
+}

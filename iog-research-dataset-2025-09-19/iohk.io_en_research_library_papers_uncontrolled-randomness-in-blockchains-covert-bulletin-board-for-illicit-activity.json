@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/uncontrolled-randomness-in-blockchains-covert-bulletin-board-for-illicit-activity/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Uncontrolled Randomness in Blockchains: Covert Bulletin Board for Illicit Activity\n\n# [Uncontrolled Randomness in Blockchains: Covert Bulletin Board for Illicit Activity](https://api.zotero.org/groups/478201/items/YRDY38EL/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nJune/2020, IWQoS 2020\n\nSTEGANOGRAPHY\n\nPublic blockchains can be abused to covertly store and disseminate potentially harmful digital content which poses a serious regulatory issue. In this work, we show the severity of the problem by demonstrating that blockchains can be exploited to surreptitiously distribute arbitrary content. More specifically, all major blockchain systems use randomized cryptographic primitives, such as digital signatures and non-interactive zeroknowledge proofs; we illustrate how the uncontrolled randomness in such primitives can be maliciously manipulated to enable covert communication and hidden persistent storage. To clarify the potential risk, we design, implement and evaluate our technique against the widely-used ECDSA signature scheme, the CryptoNote’s ring signature scheme, and Monero’s ring confidential transactions. Importantly, the significance of the demonstrated attacks stems from their undetectability, their adverse effect on the future of decentralized blockchains, and their serious repercussions on users’ privacy and crypto funds. Finally, we present a generic framework to immunize blockchains against these attacks.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T14:19:50.573498",
+    "extraction_time": 1.2375829219818115,
+    "source": "tavily_api_raw"
+  }
+}

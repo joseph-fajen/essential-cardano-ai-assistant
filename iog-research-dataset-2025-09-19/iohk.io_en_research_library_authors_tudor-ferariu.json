@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/authors/tudor-ferariu/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n# Library\n\n[Library](/en/research/library/) > Tudor Ferariu\n\n### Tudor Ferariu\n\n### [Validity, Liquidity, and Fidelity: Formal Verification for Smart Contracts in Cardano](/en/research/library/papers/validity-liquidity-and-fidelity-formal-verification-for-smart-contracts-in-cardano/ \"Validity, Liquidity, and Fidelity: Formal Verification for Smart Contracts in Cardano\")\n\n[Tudor Ferariu,](/en/research/library/authors/tudor-ferariu/)[Prof Philip Wadler,](/en/research/library/authors/philip-wadler/)[Orestis Melkonian](/en/research/library/authors/orestis-melkonian/)\n\nMay/2025, FMBC '25\n\n[AGDA](# \"AGDA\")[FORMAL VERIFICATION](# \"FORMAL VERIFICATION\")[SMARTCONTRACT](# \"SMARTCONTRACT\")\n\n### [Structured Contracts in the EUTxO Ledger Model](/en/research/library/papers/structured-contracts-in-the-eutxo-ledger-model/ \"Structured Contracts in the EUTxO Ledger Model\")\n\n[Polina Vinogradova,](/en/research/library/authors/polina-vinogradova/)[Orestis Melkonian,](/en/research/library/authors/orestis-melkonian/)[Prof Philip Wadler,](/en/research/library/authors/philip-wadler/)[Manuel Chakravarty,](/en/research/library/authors/manuel-chakravarty/)[Jacco Krijnen,](/en/research/library/authors/jacco-krijnen/)[Michael Peyton Jones,](/en/research/library/authors/michael-peyton-jones/)[James Chapman,](/en/research/library/authors/james-chapman/)[Tudor Ferariu](/en/research/library/authors/tudor-ferariu/)\n\nApril/2024, FMBC 2024\n\n[UTXO](# \"UTXO\")\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 39,
+    "extraction_timestamp": "2025-09-19T14:20:22.661825",
+    "extraction_time": 1.4351871013641357,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/turn-based-communication-channels/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Turn-Based Communication Channels\n\n# [Turn-Based Communication Channels](https://eprint.iacr.org/2021/1126.pdf)\n\nNovember/2021, ProvSec '21\n\nHASH FUNCTIONSTIME PUZZLE\n\nWe introduce the concept of turn-based communication channel between two mutually distrustful parties with communication consistency, i.e. both parties have the same message history, and happens in sets of exchanged messages across a limited number of turns. Our construction leverages on timed primitives. Namely, we introduce a novel Delta-delay hash function definition in order to establish turns in the channel. Concretely, we introduce the one-way turn-based communication scheme and the two-way turn-based communication protocol and provide a concrete instantiation that achieves communication consistency.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 29,
+    "extraction_timestamp": "2025-09-19T14:19:35.862517",
+    "extraction_time": 1.4846253395080566,
+    "source": "tavily_api_raw"
+  }
+}

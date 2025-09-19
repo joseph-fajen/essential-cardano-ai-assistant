@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/blog/2025-02-28-media-cardano-developer-office-hours",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n### 2025\n\n### 2024\n\n### 2023\n\n### 2022\n\n### 2021\n\n### 2020\n\n# Presenting Reeve\n\n![Cardano Foundation](/img/authors/cardano-foundation.png)\n\nThis installment of the Cardano Developer Office Hours explores Reeve, a next-generation accountability tool for delivering tamper-proof and transparent financial insights. Reeve integrates traditional accounting systems with blockchain technology, ensuring transparency, immutability, and security for financial records. Built on Cardano, the platform offers a decentralized approach to financial data management. Designed for accountants, auditors, non-profits, and enterprises, Reeve helps streamline audits, improve efficiency, and build trust in financial processes. The session provides an overview of the project, its architecture, and current development.\n\n[**Watch now**](https://www.youtube.com/watch?v=UqQsAej0CLE)",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 2,
+    "extraction_timestamp": "2025-09-19T14:04:24.068277",
+    "extraction_time": 1.4548687934875488,
+    "source": "tavily_api_raw"
+  }
+}

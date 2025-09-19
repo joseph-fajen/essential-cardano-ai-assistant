@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/practical-settlement-bounds-for-longest-chain-consensus/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Practical Settlement Bounds for Longest-Chain Consensus\n\n# [Practical Settlement Bounds for Longest-Chain Consensus](https://eprint.iacr.org/2022/1571.pdf)\n\nAugust/2023, Crypto '23\n\nBITCOINPROOF-OF-STAKEPROOF-OF-WORK\n\nNakamoto's longest-chain consensus paradigm now powers the bulk of the world's cryptocurrencies and distributed finance infrastructure. An emblematic property of longest-chain consensus is that it provides probabilistic settlement guarantees that strengthen over time. This makes the exact relationship between settlement error and settlement latency a critical aspect of the protocol that both users and system designers must understand to make informed decisions. A recent line of work has finally provided a satisfactory rigorous accounting of this relationship for proof-of-work longest-chain protocols, but those techniques do not appear to carry over to the proof-of-stake setting.\n\nThis article develops explicit, rigorous settlement bounds for proof-of-stake longest-chain protocols, placing them on equal footing with their proof-of-work counterparts. Our techniques apply with some adaptations also to the proof-of-work setting where they provide improvements to the state-of-the-art settlement bounds for proof-of-work protocols.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 26,
+    "extraction_timestamp": "2025-09-19T14:19:22.752368",
+    "extraction_time": 1.294140100479126,
+    "source": "tavily_api_raw"
+  }
+}

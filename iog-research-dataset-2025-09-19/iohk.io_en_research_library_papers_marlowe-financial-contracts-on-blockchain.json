@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/marlowe-financial-contracts-on-blockchain/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Marlowe: financial contracts on blockchain\n\n# [Marlowe: financial contracts on blockchain](https://api.zotero.org/groups/478201/items/L65KWDLX/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nNovember/2018, ISoLA 2018\n\nHASKELLSMARTCONTRACT\n\nBlockchains allow the specification of contracts in the form of programs that guarantee their fulfilment. Nevertheless, errors in those programs can cause important, and often irretrievable, monetary loss. General-purpose languages provide a platform on which contracts can be built, but by their very generality they have the potential to exhibit behaviours of an unpredictable kind, and are also not easy to read or comprehend for general users.\n\nAn alternative solution is provided by domain-specific languages (DSLs), which are designed to express programs in a particular field. This paper explores the design of one DSL, Marlowe, targeted at the execution of financial contracts in the style of Peyton Jones et al on blockchains. We present an executable semantics of Marlowe in Haskell, an example of Marlowe in practice, and describe the Meadow tool that allows users to interact in-browser with simulations of Marlowe contracts.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 34,
+    "extraction_timestamp": "2025-09-19T14:19:59.350485",
+    "extraction_time": 1.5324459075927734,
+    "source": "tavily_api_raw"
+  }
+}

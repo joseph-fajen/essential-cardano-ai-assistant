@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/a-complete-mechanically-verified-proof-of-the-banach-tarski-theorem-in-acl2r/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > A Complete, Mechanically-Verified Proof of the Banach-Tarski Theorem in ACL2(R)\n\n# [A Complete, Mechanically-Verified Proof of the Banach-Tarski Theorem in ACL2(R)](https://drops.dagstuhl.de/opus/volltexte/2022/16714/pdf/LIPIcs-ITP-2022-5.pdf)\n\nAugust/2022, ITP '22\n\nThis paper presents a formal proof of the Banach-Tarski theorem in ACL2(r). The Banach-Tarski theorem states that a unit ball can be partitioned into a finite number of pieces that can be rotated to form two identical copies of the ball. We have formalized 3D rotations and generated a free group of 3D rotations of rank 2. In prior work, the non-denumerability of the reals was proved in ACL2(r), and a version of the Axiom of Choice that can consistently select a representative element from an equivalence class was introduced in ACL2 version 3.1. Using the free group of rotations, and this prior work, we show that the unit sphere can be decomposed into two sets, each equivalent to the original sphere. Then we show that the unit ball except for the origin can be decomposed into two sets each equivalent to the original ball by mapping the points of the unit ball to the points on the sphere. Finally, we handle the origin by rotating the unit ball around an axis such that the origin falls inside the sphere. Seemingly paradoxically, the construction results in two copies of the unit ball.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T14:19:31.364643",
+    "extraction_time": 1.2667536735534668,
+    "source": "tavily_api_raw"
+  }
+}

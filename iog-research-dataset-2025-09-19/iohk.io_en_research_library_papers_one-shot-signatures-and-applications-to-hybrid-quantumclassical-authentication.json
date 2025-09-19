@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/one-shot-signatures-and-applications-to-hybrid-quantumclassical-authentication/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > One-shot Signatures and Applications to Hybrid Quantum/Classical Authentication\n\n# [One-shot Signatures and Applications to Hybrid Quantum/Classical Authentication](https://eprint.iacr.org/2020/107.pdf)\n\nJune/2020, STOC '20\n\nCRYPTOGRAPHYQUANTUM\n\nWe define the notion of one-shot signatures, which are signatures where any secret key can be used to sign only a single message, and then self-destructs. While such signatures are of course impossible classically, we construct one-shot signatures using quantum no-cloning. In particular, we show that such signatures exist relative to a classical oracle, which we can then heuristically obfuscate using known indistinguishability obfuscation schemes.\n\nWe show that one-shot signatures have numerous applications for hybrid quantum/classical cryptographic tasks, where all communication is required to be classical, but local quantum operations are allowed. Applications include one-time signature tokens, quantum money with classical communication, decentralized blockchain-less cryptocurrency, signature schemes with unclonable secret keys, non-interactive certifiable min-entropy, and more. We thus position one-shot signatures as a powerful new building block for novel quantum cryptographic protocols.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T14:19:50.573498",
+    "extraction_time": 1.2375829219818115,
+    "source": "tavily_api_raw"
+  }
+}

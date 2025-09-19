@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/secure-and-practical-cold-and-hot-staking/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Secure and Practical Cold (and Hot) Staking\n\n# [Secure and Practical Cold (and Hot) Staking](https://eprint.iacr.org/2025/1075.pdf)\n\nJune/2025, SECRYPT '25\n\nThe stake delegation technique is what turns the general Proof of Stake (PoS) into a practical protocol for a large number of participants, ensuring the security of the distributed system, in what is known as Delegated PoS (DPoS). Karakostas et al. (SCN ’20) formalized the delegation method paving the way for a whole industry of stake pools by proposing a formal definition for wallet as a universal composable (UC) functionality and introducing a corresponding protocol. On the other hand, a widely used technique named hot/cold wallet was formally studied by Das et al. (CCS ’19 and ’21), and Groth and Shoup (Eurocrypt ’22) for different key derivation methods in the Proof of Work (PoW) setting, but not PoS. Briefly, while hot wallets are exposed to the risks of the network, the cold wallet is kept offline, thus more secure. However this may impair some capabilities given that the cold wallet is kept indefinitely offline. It is straightforward to observe that this “double wallet” design is not naturally portable to the setting where delegation is paramount, i.e., DPoS. This work identifies challenges for PoS Hot/Cold Wallet and proposes a secure and practical protocol.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 23,
+    "extraction_timestamp": "2025-09-19T14:19:09.290919",
+    "extraction_time": 1.8959262371063232,
+    "source": "tavily_api_raw"
+  }
+}

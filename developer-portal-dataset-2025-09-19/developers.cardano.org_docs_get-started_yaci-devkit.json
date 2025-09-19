@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/get-started/yaci-devkit",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Introduction to Yaci DevKit\n\nYaci DevKit offers a customizable Cardano devnet that quickly launches and resets via the Yaci CLI, enabling faster iterations for developers.\n\n## Overview[​](#overview \"Direct link to Overview\")\n\nYaci DevKit is a comprehensive development toolkit that provides a complete Cardano blockchain environment for testing and development purposes. It's designed to help developers build, test, and iterate on Cardano applications quickly and efficiently.\n\n## Key Features[​](#key-features \"Direct link to Key Features\")\n\n## Distribution Types[​](#distribution-types \"Direct link to Distribution Types\")\n\n### 1. Docker Distribution (Recommended)[​](#1-docker-distribution-recommended \"Direct link to 1. Docker Distribution (Recommended)\")\n\nThe Docker distribution includes all required components and provides a full installation via Docker Compose. This is the easiest way to get started with Yaci DevKit.\n\n### 2. Yaci CLI Zip (Non-Docker)[​](#2-yaci-cli-zip-non-docker \"Direct link to 2. Yaci CLI Zip (Non-Docker)\")\n\nThe ZIP distribution includes only the Yaci CLI and allows selective downloading of components as needed. This option is ideal for users who prefer a non-Docker setup or require more control over individual components.\n\n**Supported Environments:**\n\n### 3. NPM Distribution[​](#3-npm-distribution \"Direct link to 3. NPM Distribution\")\n\nThe NPM distribution offers an alternative installation method, especially beneficial for CI/CD pipelines and automated testing environments.\nIt includes the Yaci CLI non-Docker zip bundle and enables straightforward installation via NPM.\n\nSupported environments include: Linux x64, MacOS arm64\n\n**Supported Environments:**\n\n## Getting Started[​](#getting-started \"Direct link to Getting Started\")\n\n### Setup[​](#setup \"Direct link to Setup\")\n\n### Commands[​](#commands \"Direct link to Commands\")\n\n## Resources[​](#resources \"Direct link to Resources\")",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 7,
+    "extraction_timestamp": "2025-09-19T14:04:49.862174",
+    "extraction_time": 2.4011168479919434,
+    "source": "tavily_api_raw"
+  }
+}

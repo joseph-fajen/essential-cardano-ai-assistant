@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/balancing-participation-and-decentralization-in-proof-of-stake-cryptocurrencies/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Balancing Participation and Decentralization in Proof-of-Stake Cryptocurrencies\n\n# [Balancing Participation and Decentralization in Proof-of-Stake Cryptocurrencies](https://arxiv.org/pdf/2407.08686)\n\nSeptember/2024, SAGT '24\n\nDECENTRALIZATION\n\nProof-of-stake blockchain protocols have emerged as a compelling paradigm for organizing distributed ledger systems. In proof-of-stake (PoS), a subset of stakeholders participate in validating a growing ledger of transactions. For the safety and liveness of the underlying system, it is desirable for the set of validators to include multiple independent entities as well as represent a non-negligible percentage of the total stake issued. In this paper, we study a secondary form of participation in the transaction validation process, which takes the form of stake delegation, whereby an agent delegates their stake to an active validator who acts as a stake pool operator. We study reward sharing schemes that reward agents as a function of their collective actions regarding stake pool operation and delegation. Such payment schemes serve as a mechanism to incentivize participation in the validation process while maintaining decentralization. We observe natural trade-offs between these objectives and the total expenditure required to run the relevant reward schemes. Ultimately, we provide a family of reward schemes which can strike different balances between these competing objectives at equilibrium in a Bayesian game theoretic framework.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 24,
+    "extraction_timestamp": "2025-09-19T14:19:13.524198",
+    "extraction_time": 1.2174389362335205,
+    "source": "tavily_api_raw"
+  }
+}

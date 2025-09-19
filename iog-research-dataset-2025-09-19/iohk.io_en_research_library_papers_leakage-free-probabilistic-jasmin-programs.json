@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/leakage-free-probabilistic-jasmin-programs/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Leakage-Free Probabilistic Jasmin Programs\n\n# [Leakage-Free Probabilistic Jasmin Programs](https://api.zotero.org/groups/478201/items/5TX3X4HV/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nJanuary/2025, CPP '25\n\nCRYPTOGRAPHYFORMALMETHODS\n\nThis paper presents a semantic characterization of leakage-freeness through timing side-channels for Jasmin programs. Our characterization covers probabilistic Jasmin programs that are not constant-time. In addition, we provide a characterization in terms of probabilistic relational Hoare logic and prove the equivalence between both definitions. We also prove that our new characterizations are compositional and relate our new definitions to existing ones from prior work, which could only be applied to deterministic programs. To provide practical evidence, we use the Jasmin framework to develop a rejection sampling algorithm and provide an EasyCrypt proof that ensures the algorithm’s implementation is leakage-free while not being constant-time.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 23,
+    "extraction_timestamp": "2025-09-19T14:19:09.290919",
+    "extraction_time": 1.8959262371063232,
+    "source": "tavily_api_raw"
+  }
+}

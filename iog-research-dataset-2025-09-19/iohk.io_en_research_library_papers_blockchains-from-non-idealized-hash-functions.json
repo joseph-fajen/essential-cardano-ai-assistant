@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/blockchains-from-non-idealized-hash-functions/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Blockchains from Non-Idealized Hash Functions\n\n# [Blockchains from Non-Idealized Hash Functions](https://eprint.iacr.org/2019/315.pdf)\n\nNovember/2020, TCC '20\n\nBLOCKCHAIN\n\nThe formalization of concrete, non-idealized hash function properties sufficient to prove the security of Bitcoin and related protocols has been elusive, as all previous security analyses of blockchain protocols have been performed in the random oracle model. In this paper we identify three such properties, and then construct a blockchain protocol whose security can be reduced to them in the standard model assuming a common reference string (CRS).\n\nThe three properties are: collision resistance, computational randomness extraction and iterated hardness. While the first two properties have been extensively studied, iterated hardness has been empirically stress-tested since the rise of Bitcoin; in fact, as we demonstrate in this paper, any attack against it (assuming the other two properties hold) results in an attack against Bitcoin.\n\nIn addition, iterated hardness puts forth a new class of search problems which we term iterated search problems (ISP). ISPs enable the concise and modular specification of blockchain protocols, and may be of independent interest.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 31,
+    "extraction_timestamp": "2025-09-19T14:19:46.325765",
+    "extraction_time": 2.292677879333496,
+    "source": "tavily_api_raw"
+  }
+}

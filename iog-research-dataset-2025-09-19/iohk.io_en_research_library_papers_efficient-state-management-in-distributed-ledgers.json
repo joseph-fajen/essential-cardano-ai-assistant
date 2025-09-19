@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/efficient-state-management-in-distributed-ledgers/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Efficient State Management in Distributed Ledgers\n\n# [Efficient State Management in Distributed Ledgers](https://eprint.iacr.org/2021/183.pdf)\n\nMarch/2021, Financial Cryptography 2021\n\nUTXO\n\nDistributed ledgers implement a storage layer, on top of which a shared state is maintained in a decentralized manner. In UTxO based ledgers, like Bitcoin, the shared state is the set of all unspent outputs (UTxOs), which serve as inputs to future transactions. The continuously increasing size of this shared state will gradually render its maintenance unaffordable. Our work investigates techniques that minimize the shared state of the distributed ledger, i.e., the in-memory UTxO set. To this end, we follow two directions: a) we propose novel transaction optimization techniques to be followed by wallets, so as to create transactions that reduce the shared state cost and b) propose a novel fee scheme that incentivizes the creation of “state-friendly” transactions. We devise an abstract ledger model, expressed via a series of algebraic operators, and define the transaction optimization problem of minimizing the shared state; we also propose a multi-layered algorithm that approximates the optimal solution to this problem. Finally, we define the necessary conditions such that a ledger’s fee scheme incentivizes proper state management and propose a state efficient fee function for Bitcoin.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 31,
+    "extraction_timestamp": "2025-09-19T14:19:46.325765",
+    "extraction_time": 2.292677879333496,
+    "source": "tavily_api_raw"
+  }
+}

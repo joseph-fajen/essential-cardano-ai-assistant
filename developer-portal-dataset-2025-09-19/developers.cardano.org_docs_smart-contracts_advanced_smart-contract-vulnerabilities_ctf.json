@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/smart-contracts/advanced/smart-contract-vulnerabilities/ctf",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Cardano Capture The Flag (CTF)\n\n## Cardano CTF: Learn Security by Breaking Things[​](#cardano-ctf-learn-security-by-breaking-things \"Direct link to Cardano CTF: Learn Security by Breaking Things\")\n\nThe Cardano Capture The Flag (CTF) is an interactive security game where developers exploit purposely vulnerable smart contracts to learn about common security issues and prevention techniques. The game is completely open-source and designed for developers, auditors, and security researchers.\n\n### What You'll Learn[​](#what-youll-learn \"Direct link to What You'll Learn\")\n\n### How It Works[​](#how-it-works \"Direct link to How It Works\")\n\nEach level presents a vulnerable smart contract with a sample interaction. Your goal is to:\n\nChallenges progress from basic to advanced, covering the most critical smart contract security issues on Cardano.\n\n### Get Started[​](#get-started \"Direct link to Get Started\")\n\n**Repository**: [cardano-ctf](https://github.com/Invariant-0/cardano-ctf)\n\n**Community**: Join the [Discord server](https://discord.com/invite/5XVW2MUdWu) to discuss solutions and get help.\n\n**Hints & Solutions**: Need a nudge in the right direction? Check out the [Cardano CTF Hints and Solutions blog](https://medium.com/@invariant0/cardano-ctf-hints-and-solutions-e3991ce6a944) with spoiler-free hints and detailed solution explanations for all challenges.",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 10,
+    "extraction_timestamp": "2025-09-19T14:05:05.551444",
+    "extraction_time": 2.0458879470825195,
+    "source": "tavily_api_raw"
+  }
+}

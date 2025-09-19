@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/authors/david-smith/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n# Library\n\n[Library](/en/research/library/) > David Smith\n\n### David Smith\n\nSoftware Engineer\n\nTweag\n\n### [Efficient static analysis of Marlowe contracts](/en/research/library/papers/efficient-static-analysis-of-marlowe-contracts/ \"Efficient static analysis of Marlowe contracts\")\n\n[Pablo Lamela,](/en/research/library/authors/pablo-lamela-seijas/)[David Smith,](/en/research/library/authors/david-smith/)[Prof Simon Thompson](/en/research/library/authors/simon-thompson/)\n\nOctober/2020, ISoLA 2020\n\n[MARLOWE](# \"MARLOWE\")[SMARTCONTRACT](# \"SMARTCONTRACT\")\n\n### [Marlowe: implementing and analysing financial contracts on blockchain](/en/research/library/papers/marlowe-implementing-and-analysing-financial-contracts-on-blockchain/ \"Marlowe: implementing and analysing financial contracts on blockchain\")\n\n[Pablo Lamela,](/en/research/library/authors/pablo-lamela-seijas/)[Alexander Nemish,](/en/research/library/authors/alexander-nemish/)[David Smith,](/en/research/library/authors/david-smith/)[Prof Simon Thompson](/en/research/library/authors/simon-thompson/)\n\nFebruary/2020, Workshop on Trusted Smart Contracts (Financial Cryptography 2020)\n\n[HASKELL](# \"HASKELL\")[MARLOWE](# \"MARLOWE\")[SMARTCONTRACT](# \"SMARTCONTRACT\")\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 51,
+    "extraction_timestamp": "2025-09-19T14:21:19.258388",
+    "extraction_time": 1.902536392211914,
+    "source": "tavily_api_raw"
+  }
+}

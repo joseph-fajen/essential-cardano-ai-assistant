@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/differential-liquidity-provision-in-uniswap-v3-and-implications-forcontract-design/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Differential Liquidity Provision in Uniswap v3 and Implications forContract Design\n\n# [Differential Liquidity Provision in Uniswap v3 and Implications forContract Design](https://arxiv.org/pdf/2204.00464.pdf)\n\nNovember/2022, ICAIF '22\n\nDECENTRALISED FINANCEGAME-THEORY\n\nDecentralized exchanges (DEXs) provide a means for users to trade pairs of assets on-chain without the need of a trusted third party to effectuate a trade. Amongst these, constant function market maker (CFMM) DEXs such as Uniswap handle the most volume of trades between ERC-20 tokens. With the introduction of Uniswap v3, liquidity providers are given the option to differentially allocate liquidity to be used for trades that occur within specific price intervals. In this paper, we formalize the profit and loss that liquidity providers can earn when providing specific liquidity positions to a contract. With this in hand, we are able to compute optimal liquidity allocations for liquidity providers who hold beliefs over how prices evolve over time. Ultimately, we use this tool to shed light on the design question regarding how v3 contracts should partition price space for permissible liquidity allocations. Our results show that a richer space of potential partitions can simultaneously benefit both liquidity providers and traders.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T14:19:27.079445",
+    "extraction_time": 1.3148980140686035,
+    "source": "tavily_api_raw"
+  }
+}

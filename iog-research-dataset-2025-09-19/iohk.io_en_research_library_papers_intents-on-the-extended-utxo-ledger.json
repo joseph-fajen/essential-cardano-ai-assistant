@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/intents-on-the-extended-utxo-ledger/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Intents on the Extended UTxO Ledger\n\n# [Intents on the Extended UTxO Ledger](https://api.zotero.org/groups/478201/items/KWD8QJWK/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nAugust/2024, WiFM Workshop\n\nUTXOINTENTS\n\nThe extended (i.e. smart contract-enabled) UTxO cryptocurrency ledger comes with strong formal guarantees. However, this comes at the cost of inflexibility of specification of what a transaction does to the ledger state. We discuss a kind of application procedure for partially valid transactions, called \"intent processing\", to address this inflexibility but maintain certain formal guarantees.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 24,
+    "extraction_timestamp": "2025-09-19T14:19:13.524198",
+    "extraction_time": 1.2174389362335205,
+    "source": "tavily_api_raw"
+  }
+}

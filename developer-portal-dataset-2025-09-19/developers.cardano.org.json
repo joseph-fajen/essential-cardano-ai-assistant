@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/",
+  "content": "[Skip to main content](#__docusaurus_skipToContent_fallback)\n\n# Cardano Developer Portal\n\nLet’s build together\n\n[Get Started](/docs/get-started/)\n\n[### Get Started\n\nGet an overview of Cardano, understand the components, discover builder tools, learn technical concepts and connect to the developer community.](/docs/get-started/)\n\n[### Integrate Cardano\n\nExplore Cardano wallets and learn how to integrate Cardano into applications and websites.](/docs/integrate-cardano/)\n\n[### Build with Transaction Metadata\n\nLearn what transaction metadata is, how to add it to a transaction, how to view the metadata and what potential use cases are.](/docs/transaction-metadata/)\n\n[### Discover Native Tokens\n\nRead what native tokens are, how to mint them, ways to create NFT and why you don't need smart contracts for all this.](/docs/native-tokens/)\n\n[### Create Smart Contracts\n\nDiscover Marlowe and Plutus and learn how to create smart contracts on Cardano.](/docs/smart-contracts/)\n\n[### Participate in Governance\n\nGovernance is an essential topic that includes Cardano Improvement Proposals (CIP), project funding, voting, and network parameters.](/docs/governance/)\n\n[### Operate a Stake Pool\n\nLearn what it takes to become a Cardano stake pool operator from a technical and marketing perspective.](/docs/operate-a-stake-pool/)",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 13,
+    "extraction_timestamp": "2025-09-19T14:05:20.866384",
+    "extraction_time": 0.7005529403686523,
+    "source": "tavily_api_raw"
+  }
+}

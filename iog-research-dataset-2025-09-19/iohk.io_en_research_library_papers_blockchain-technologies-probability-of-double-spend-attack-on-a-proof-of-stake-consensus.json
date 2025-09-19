@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/blockchain-technologies-probability-of-double-spend-attack-on-a-proof-of-stake-consensus/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Blockchain Technologies: Probability of Double-Spend Attack on a Proof-of-Stake Consensus\n\n# [Blockchain Technologies: Probability of Double-Spend Attack on a Proof-of-Stake Consensus](https://www.mdpi.com/1424-8220/21/19/6408)\n\nSeptember/2021, Sensors 2021, 21(19), 6408\n\nCONSENSUSPROOF-OF-STAKE\n\nTwo double-spend attack strategies on a proof-of-stake consensus are considered. For each strategy, the probability of its success is obtained, which depends on the network parameters and the number of confirmation blocks. These results can be used to define how many confirmation blocks a vendor should wait after a correspondent transaction before sending goods or services.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 30,
+    "extraction_timestamp": "2025-09-19T14:19:41.013043",
+    "extraction_time": 2.1391191482543945,
+    "source": "tavily_api_raw"
+  }
+}

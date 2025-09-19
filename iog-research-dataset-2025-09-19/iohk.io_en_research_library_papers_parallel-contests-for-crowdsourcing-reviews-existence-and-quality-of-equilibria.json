@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/parallel-contests-for-crowdsourcing-reviews-existence-and-quality-of-equilibria/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Parallel Contests for Crowdsourcing Reviews: Existence and Quality of Equilibria\n\n# [Parallel Contests for Crowdsourcing Reviews: Existence and Quality of Equilibria](https://arxiv.org/pdf/2202.04064.pdf)\n\nSeptember/2022, AFT '22\n\nINCENTIVES\n\nMotivated by the intricacies of allocating treasury funds in blockchain settings, we study the problem of crowdsourcing reviews for many different proposals, in parallel. During the reviewing phase, every reviewer can select the proposals to write reviews for, as well as the quality of each review. The quality levels follow certain very coarse community guidelines and can have values such as ‘excellent’ or ‘good’. Based on these scores and the distribution of reviews, every reviewer will receive some reward for their efforts. In this paper, we design a reward scheme and show that it always has pure Nash equilibria, for any set of proposals and reviewers. In addition, we show that these equilibria guarantee constant factor approximations for two natural metrics: the total quality of all reviews, as well as the fraction of proposals that received at least one review, compared to the optimal outcome.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T14:19:31.364643",
+    "extraction_time": 1.2667536735534668,
+    "source": "tavily_api_raw"
+  }
+}

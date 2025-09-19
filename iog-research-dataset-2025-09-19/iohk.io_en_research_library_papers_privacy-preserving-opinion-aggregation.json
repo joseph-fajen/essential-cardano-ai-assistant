@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/privacy-preserving-opinion-aggregation/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Privacy Preserving Opinion Aggregation\n\n# [Privacy Preserving Opinion Aggregation](https://eprint.iacr.org/2022/760.pdf)\n\nJune/2022, ePrint Archive\n\nPRIVACYSMARTCONTRACT\n\nThere are numerous settings in which people's preferences are aggregated outside of formal elections, and where privacy and verification are important but the stringent authentication and coercion-resistant properties of government elections do not apply, a prime example being social media platforms. These systems are often iterative and have no trusted authority, in contrast to the centrally organised, single-shot elections on which most of the literature is focused. Moreover, they require a continuous flow of aggregation to take place and become available even as input is still collected from the participants which is in contrast to \"fairness\" in classical elections where partial results should never be revealed.\n\nIn this work, we explore opinion aggregation in a decentralised, iterative setting by proposing a novel protocol in which randomly-chosen participants take turns to act in an incentive-driven manner as decryption authorities. Our construction provides public verifiability, robust vote privacy and liveness guarantees, while striving to minimise the resources each participant needs to contribute.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 29,
+    "extraction_timestamp": "2025-09-19T14:19:35.862517",
+    "extraction_time": 1.4846253395080566,
+    "source": "tavily_api_raw"
+  }
+}

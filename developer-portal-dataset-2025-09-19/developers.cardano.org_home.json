@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/home",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Cardano Developer Portal\n\nLet’s build together\n\n![Get Started](/img/card-get-started.svg)\n\n### Get Started\n\nGet an overview of Cardano, understand the components, discover builder tools, learn technical concepts and connect to the developer community.\n\n![Integrate Cardano](/img/card-integrate-cardano.svg)\n\n### Integrate Cardano\n\nExplore Cardano wallets and learn how to integrate Cardano into applications and websites.\n\n![Build with Transaction Metadata](/img/card-transaction-metadata.svg)\n\n### Build with Transaction Metadata\n\nLearn what transaction metadata is, how to add it to a transaction, how to view the metadata and what potential use cases are.\n\n![Discover Native Tokens](/img/card-native-tokens.svg)\n\n### Discover Native Tokens\n\nRead what native tokens are, how to mint them, ways to create NFT and why you don't need smart contracts for all this.\n\n![Create Smart Contracts](/img/card-smart-contracts.svg)\n\n### Create Smart Contracts\n\nDiscover Marlowe and Plutus and learn how to create smart contracts on Cardano.\n\n![Participate in Governance](/img/card-governance.svg)\n\n### Participate in Governance\n\nGovernance is an essential topic that includes Cardano Improvement Proposals (CIP), project funding, voting, and network parameters.\n\n![Operate a Stake Pool](/img/card-operate-a-stake-pool.svg)\n\n### Operate a Stake Pool\n\nLearn what it takes to become a Cardano stake pool operator from a technical and marketing perspective.",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 3,
+    "extraction_timestamp": "2025-09-19T14:04:28.170127",
+    "extraction_time": 1.090296983718872,
+    "source": "tavily_api_raw"
+  }
+}

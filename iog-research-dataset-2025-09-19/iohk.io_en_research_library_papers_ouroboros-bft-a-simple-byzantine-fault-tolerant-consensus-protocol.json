@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/ouroboros-bft-a-simple-byzantine-fault-tolerant-consensus-protocol/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Ouroboros-BFT: A Simple Byzantine Fault Tolerant Consensus Protocol\n\n# [Ouroboros-BFT: A Simple Byzantine Fault Tolerant Consensus Protocol](https://eprint.iacr.org/2018/1049.pdf)\n\nOctober/2018, EPrint Archive\n\nBFTBLOCKCHAINCONSENSUSDISTRIBUTEDPROTOCOL\n\nWe present a simple, deterministic protocol for ledger consensus that tolerates Byzantine faults. The protocol is executed by n servers over a synchronous network and can tolerate any number t of Byzantine faults with t < n/3. Furthermore, the protocol can offer (i) transaction processing at full network speed, in the optimistic case where no faults occur, (ii) instant con- firmation: the client can be assured in a single round-trip time that a submitted transaction will be settled, (iii) instant proof of settlement: the client can obtain a receipt that a submitted transaction will be settled. A derivative, equally simple, binary consensus protocol can be easily derived as well. We also analyze the protocol in case of network splits and temporary loss of synchrony arguing the safety of the protocol when synchrony is restored. Finally, we examine the covert adversarial model showing that Byzantine resilience is increased to t < n/2.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 34,
+    "extraction_timestamp": "2025-09-19T14:19:59.350485",
+    "extraction_time": 1.5324459075927734,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/a-dynamic-approach-to-collaborative-document-writing/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > A Dynamic Approach to Collaborative Document Writing\n\n# [A Dynamic Approach to Collaborative Document Writing](https://arxiv.org/pdf/2508.17489)\n\nOctober/2025, To appear in: ECAI '25\n\nWe introduce a model for collaborative text aggregation in which an agent community coauthors a document (modeled as an unordered collection of paragraphs) using a dynamic mechanism: agents propose paragraphs and vote on those suggested by others. We formalize the setting and explore its realizations, concentrating on voting mechanisms that aggregate votes into a single, dynamic document. We focus on two desiderata: the eventual stability of the process and its expected social welfare. Following an impossibility result, we describe several aggregation methods and report on agentbased simulations that utilize natural language processing (NLP) and large-language models (LLMs) to model agents. Using these simulations, we demonstrate promising results regarding the possibility of rapid convergence to a high social welfare collaborative text.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 22,
+    "extraction_timestamp": "2025-09-19T14:19:04.385068",
+    "extraction_time": 1.2044498920440674,
+    "source": "tavily_api_raw"
+  }
+}

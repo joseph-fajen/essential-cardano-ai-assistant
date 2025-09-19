@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/watermarkable-public-key-encryption-with-efficient-extraction-under-standard-assumptions/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Watermarkable Public key Encryption With Efficient Extraction Under Standard Assumptions\n\n# [Watermarkable Public key Encryption With Efficient Extraction Under Standard Assumptions](https://eprint.iacr.org/2022/876.pdf)\n\nSeptember/2022, SCN '22\n\nPUBLIC KEY ENCRYPTION\n\nThe current state of the art in watermarked public-key encryption schemes under standard cryptographic assumptions suggests that extracting the embedded message requires either linear time in the number of marked keys or the a-priori knowledge of the marked key employed in the decoder.\n\nWe present the first scheme that obviates these restrictions in the secret-key marking model, i.e., the setting where extraction is performed using a private extraction key. Our construction offers constant time extraction complexity with constant size keys and ciphertexts and is secure under standard assumptions, namely the Decisional Composite Residuosity Assumption [Eurocrypt '99] and the Decisional Diffie Hellman in prime order subgroups of square higher order residues.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T14:19:31.364643",
+    "extraction_time": 1.2667536735534668,
+    "source": "tavily_api_raw"
+  }
+}

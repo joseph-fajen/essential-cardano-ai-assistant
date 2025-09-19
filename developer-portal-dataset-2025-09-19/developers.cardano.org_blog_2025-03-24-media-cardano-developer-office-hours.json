@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/blog/2025-03-24-media-cardano-developer-office-hours",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n### 2025\n\n### 2024\n\n### 2023\n\n### 2022\n\n### 2021\n\n### 2020\n\n# Java Tooling for dApps Development\n\n![Cardano Foundation](/img/authors/cardano-foundation.png)\n\nSatya Ranjan, Lead Blockchain Architect at the Cardano Foundation, presents Java tools for building on Cardano. The session covers `cardano-client-lib`, writing off-chain code, building transactions, and integrating governance and staking. Satya also demos Yaci DevKit for local dev environments, Yaci Store for indexing, and shows how to build lightweight apps using tailored data. Ideal for developers and exchanges exploring Java’s role in Cardano infrastructure.\n\n`cardano-client-lib`\n\n[**Watch now**](https://www.youtube.com/watch?v=L1_E9Bc-f_Y)",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 2,
+    "extraction_timestamp": "2025-09-19T14:04:24.068277",
+    "extraction_time": 1.4548687934875488,
+    "source": "tavily_api_raw"
+  }
+}

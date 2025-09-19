@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/multi-mode-cryptocurrency-systems/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Multi-mode Cryptocurrency Systems\n\n# [Multi-mode Cryptocurrency Systems](https://eprint.iacr.org/2018/129.pdf)\n\nJune/2018, BCC 2018\n\nBLOCKCHAINDISTRIBUTEDSCALABILITY\n\nIn the past years, the security of Bitcoin-like protocols has been intensively studied. However, previous investigations are mainly focused on the single-mode version of Bitcoin protocol, where the protocol is running among full nodes (miners). In this paper, we initiate the study of multi-mode cryptocurrency protocols. We generalize the recent framework by Garay et al. (Eurocrypt 2015) with new security definitions that capture the security of realistic cryptocurrency systems (e.g. Bitcoin with full and lightweight nodes). We provide the rst rigorous security model for addressing the “blockchain bloat” issue. As an immediate application of our new framework, we analyze the security of existing blockchain pruning proposals for Bitcoin aiming to improve the storage efficiency of network nodes by pruning unnecessary information from the ledger.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 34,
+    "extraction_timestamp": "2025-09-19T14:19:59.350485",
+    "extraction_time": 1.5324459075927734,
+    "source": "tavily_api_raw"
+  }
+}

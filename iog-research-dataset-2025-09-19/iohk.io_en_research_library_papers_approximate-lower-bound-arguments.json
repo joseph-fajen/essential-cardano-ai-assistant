@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/approximate-lower-bound-arguments/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Approximate Lower Bound Arguments\n\n# [Approximate Lower Bound Arguments](https://eprint.iacr.org/2023/1655.pdf)\n\nMay/2024, Eurocrypt '24\n\nSuppose a prover, in possession of a large body of valuable evidence, wants to quickly convince a verifier by presenting only a small portion of the evidence.\n\nWe define an Approximate Lower Bound Argument, or ALBA, which allows the prover to do just that: to succinctly prove knowledge of a large number of elements satisfying a predicate (or, more generally, elements of a sufficient total weight when a predicate is generalized to a weight function). The argument is approximate because there is a small gap between what the prover actually knows and what the verifier is convinced the prover knows. This gap enables very efficient schemes.\n\nWe present noninteractive constructions of ALBA in the random oracle and uniform reference string models and show that our proof sizes are nearly optimal. We also show how our constructions can be made particularly communication-efficient when the evidence is distributed among multiple provers, which is of practical importance when ALBA is applied to a decentralized setting.\n\nWe demonstrate two very different applications of ALBAs: for large-scale decentralized signatures and for proving universal composability of succinct proofs.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 25,
+    "extraction_timestamp": "2025-09-19T14:19:18.452381",
+    "extraction_time": 1.9181861877441406,
+    "source": "tavily_api_raw"
+  }
+}

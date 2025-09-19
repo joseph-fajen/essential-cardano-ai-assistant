@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/decentralised-update-selection-with-semi-strategic-experts/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Decentralised Update Selection with Semi-Strategic Experts\n\n# [Decentralised Update Selection with Semi-Strategic Experts](https://arxiv.org/pdf/2205.08407.pdf)\n\nSeptember/2022, SAGT '22\n\nGAME-THEORYINCENTIVESUPDATE\n\nMotivated by governance models adopted in blockchain applications, we study the problem of selecting appropriate system updates in a decentralised way. Contrary to most existing voting approaches, we use the input of a set of motivated experts of varying levels of expertise. In particular, we develop an approval voting inspired selection mechanism through which the experts approve or disapprove the different updates according to their perception of the quality of each alternative. Given their opinions, and weighted by their expertise level, a single update is then implemented and evaluated, and the experts receive rewards based on their choices. We show that this mechanism always has approximate pure Nash equilibria and that these achieve a constant factor approximation with respect to the quality benchmark of the optimal alternative. Finally, we study the repeated version of the problem, where the weights of the experts are adjusted after each update, according to their performance. Under mild assumptions about the weights, the extension of our mechanism still has approximate pure Nash equilibria in this setting.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T14:19:31.364643",
+    "extraction_time": 1.2667536735534668,
+    "source": "tavily_api_raw"
+  }
+}

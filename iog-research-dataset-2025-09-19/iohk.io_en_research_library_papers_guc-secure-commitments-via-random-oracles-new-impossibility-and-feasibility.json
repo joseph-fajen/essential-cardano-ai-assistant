@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/guc-secure-commitments-via-random-oracles-new-impossibility-and-feasibility/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > GUC-Secure Commitments via Random Oracles: New Impossibility and Feasibility\n\n# [GUC-Secure Commitments via Random Oracles: New Impossibility and Feasibility](https://eprint.iacr.org/2022/1127.pdf)\n\nDecember/2022, Asiacrypt '22\n\nUNIVERSAL COMPOSITION\n\nIn the UC framework, protocols must be subroutine respecting; therefore, shared trusted setup might cause security issues. To address this drawback, Generalized UC (GUC) framework is introduced by Canetti et al. (TCC 2007). In this work, we investigate the impossibility and feasibility of GUC-secure commitments using global random oracles (GRO) as the trusted setup. In particular, we show that it is impossible to have a 2-round (1-round committing and 1-round opening) GUC-secure commitment in the global observable RO model by Canetti et al. (CCS 2014). We then give a new round-optimal GUC-secure commitment that uses only Minicrypt assumptions (i.e. the existence of one-way functions) in the global observable RO model. Furthermore, we also examine the complete picture on round complexity of the GUC-secure commitments in various global RO models.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T14:19:27.079445",
+    "extraction_time": 1.3148980140686035,
+    "source": "tavily_api_raw"
+  }
+}

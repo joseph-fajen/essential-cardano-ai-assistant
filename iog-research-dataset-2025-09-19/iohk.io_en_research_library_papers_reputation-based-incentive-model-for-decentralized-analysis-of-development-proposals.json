@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/reputation-based-incentive-model-for-decentralized-analysis-of-development-proposals/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Reputation-Based Incentive Model for Decentralized Analysis of Development Proposals\n\n# [Reputation-Based Incentive Model for Decentralized Analysis of Development Proposals](https://api.zotero.org/groups/478201/items/C8WLNYL8/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nSeptember/2023, IDAACS 2023\n\nREPUTATION\n\nIn this paper we present a reputation-based incentive model for community-driven decentralized analysis of cryptocurrency platform development proposals. Firstly, we consider how the rewards of Proposal Assessors (who write assessments on proposals) and Veteran Proposal Assessors (who rank assessments) depend on the different types of work they’ve done. Then, we consider the definition and properties of the reputation function and present a rationale for selecting coefficients for different types of work.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 26,
+    "extraction_timestamp": "2025-09-19T14:19:22.752368",
+    "extraction_time": 1.294140100479126,
+    "source": "tavily_api_raw"
+  }
+}

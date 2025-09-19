@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/reward-sharing-schemes-for-stake-pools/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Reward Sharing Schemes for Stake Pools\n\n# [Reward Sharing Schemes for Stake Pools](https://arxiv.org/ftp/arxiv/papers/1807/1807.11218.pdf)\n\nSeptember/2020, Euro S&P 2020\n\nGAME-THEORYINCENTIVESPROOF-OF-STAKEREWARDSSTAKE-POOL\n\nWe introduce and study reward sharing schemes that promote the fair formation of stake pools in collaborative projects that involve a large number of stakeholders such as the maintenance of a proof-of-stake (PoS) blockchain. Our mechanisms are parameterised by a target value for the desired number of pools. We show that by properly incentivising participants, the desired number of stake pools is a non-myopic Nash equilibrium arising from rational play. Our equilibria also exhibit an efficiency / security tradeoff via a parameter that allows them to be calibrated and include only the pools with the smallest possible cost or provide protection against Sybil attacks, the setting where a single stakeholder creates a large number of pools in the hopes to dominate the collaborative project. We also experimentally demonstrate the reachability of such equilibria in dynamic environments where players react to each others strategic moves over an indefinite period of interactive play, while showing how simple reward sharing schemes, such that inspired by Bitcoin, converge to centralisation.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T14:19:50.573498",
+    "extraction_time": 1.2375829219818115,
+    "source": "tavily_api_raw"
+  }
+}

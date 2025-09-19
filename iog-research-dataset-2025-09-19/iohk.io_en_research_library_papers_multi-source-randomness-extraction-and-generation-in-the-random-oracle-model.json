@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/multi-source-randomness-extraction-and-generation-in-the-random-oracle-model/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Multi-Source Randomness Extraction and Generation in the Random-Oracle Model\n\n# [Multi-Source Randomness Extraction and Generation in the Random-Oracle Model](https://eprint.iacr.org/2025/1258.pdf)\n\nAugust/2025, ITC '25\n\nWe study the multi-source randomness extraction and generation properties of the monolithic random oracle (RO), whereby one is tasked with extracting or generating uniform random bits from multiple arbitrary unpredictable sources. We formalize this problem according to the query complexities of the involved parties—sources, distinguishers, and predictors, where the latter are used to define unpredictability.\n\nWe show both positive and negative results. On the negative side, we rule out definitions where the predictor is not at least as powerful as the source or the distinguisher. On the positive side, we show that the RO is a multi-source extractor when the query complexity of the distinguisher is bounded. Our main positive result in this setting is with respect to arbitrary unpredictable sources, which we establish via a combination of a compression argument (Dodis, Guo, and Katz, EUROCRYPT'17) and the decomposition of high min-entropy sources into flat sources.\n\nOur work opens up a rich set of problems, ranging from statistical multi-source extraction with respect to unbounded distinguishers to novel decomposition techniques (Unruh, CRYPTO'07; Coretti et al., EUROCRYPT'18) and multi-source extraction for non-monolithic constructions.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 23,
+    "extraction_timestamp": "2025-09-19T14:19:09.290919",
+    "extraction_time": 1.8959262371063232,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/utxo-vs-account-based-smart-contract-blockchain-programming-paradigms/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > UTxO- vs account-based smart contract blockchain programming paradigms\n\n# [UTxO- vs account-based smart contract blockchain programming paradigms](https://arxiv.org/pdf/2003.14271.pdf)\n\nOctober/2020, ISoLA 2020\n\nUTXOACCOUNT-BASEDSMARTCONTRACT\n\nWe implement two versions of a simple but illustrative smart contract: one in Solidity on the Ethereum blockchain platform, and one in Plutus on the Cardano platform, with annotated code excerpts and with source code attached. We get a clearer view of the Cardano programming model in particular by introducing a novel mathematical abstraction which we call Idealised EUTxO. For each version of the contract, we trace how the architectures of the underlying platforms and their mathematics affects the natural programming styles and natural classes of errors. We prove some simple but novel results about alpha-conversion and observational equivalence for Cardano, and explain why Ethereum does not have them. We conclude with a wide-ranging and detailed discussion in the light of the examples, mathematical model, and mathematical results so far.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T14:19:50.573498",
+    "extraction_time": 1.2375829219818115,
+    "source": "tavily_api_raw"
+  }
+}

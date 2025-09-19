@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/authors/mikhail-volkhov/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n# Library\n\n[Library](/en/research/library/) > Mikhail Volkhov\n\n### Mikhail Volkhov\n\n### [Zswap: zk-SNARK Based Non-Interactive Multi-Asset Swaps](/en/research/library/papers/zswap-zk-snark-based-non-interactive-multi-asset-swaps/ \"Zswap: zk-SNARK Based Non-Interactive Multi-Asset Swaps\")\n\n[Felix Engelmann,](/en/research/library/authors/felix-engelmann/)[Thomas Kerber,](/en/research/library/authors/thomas-kerber/)[Markulf Kohlweiss,](/en/research/library/authors/markulf-kohlweiss/)[Mikhail Volkhov](/en/research/library/authors/mikhail-volkhov/)\n\nJuly/2022, PoPETs '22\n\n[NIZK](# \"NIZK\")[MULTI-ASSET](# \"MULTI-ASSET\")[PRIVACY](# \"PRIVACY\")\n\n### [Another Look at Extraction and Randomization of Groth's zk-SNARK](/en/research/library/papers/another-look-at-extraction-and-randomization-of-groths-zk-snark/ \"Another Look at Extraction and Randomization of Groth's zk-SNARK\")\n\n[Karim Baghery,](/en/research/library/authors/karim-baghery/)[Markulf Kohlweiss,](/en/research/library/authors/markulf-kohlweiss/)[Janno Siim,](/en/research/library/authors/janno-siim/)[Mikhail Volkhov](/en/research/library/authors/mikhail-volkhov/)\n\nMarch/2021, Financial Cryptography 2021\n\n[SIMULATION EXTRACTABILITY](# \"SIMULATION EXTRACTABILITY\")[UNIVERSAL COMPOSITION](# \"UNIVERSAL COMPOSITION\")[ZKSNARKS](# \"ZKSNARKS\")\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 47,
+    "extraction_timestamp": "2025-09-19T14:21:00.472774",
+    "extraction_time": 1.856997013092041,
+    "source": "tavily_api_raw"
+  }
+}

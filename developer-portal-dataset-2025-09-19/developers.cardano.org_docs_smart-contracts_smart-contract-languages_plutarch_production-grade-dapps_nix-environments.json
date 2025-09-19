@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/smart-contracts/smart-contract-languages/plutarch/production-grade-dapps/nix-environments",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Nix Environments\n\nBefore you begin, ensure you have [Nix](https://nixos.org/download.html) installed on your system. Nix is used for package management and to provide a consistent development environment.\nTo install run the following command:\n\n`sh <(curl -L https://nixos.org/nix/install) --daemon`\n\nand follow the instructions.\n\n`$ nix --version  \nnix (Nix) 2.18.1`\n\nMake sure to enable [Nix Flakes](https://nixos.wiki/wiki/Flakes#Enable_flakes) by editing either `~/.config/nix/nix.conf` or `/etc/nix/nix.conf` on\nyour machine and add the following configuration entries:\n\n`~/.config/nix/nix.conf`\n`/etc/nix/nix.conf`\n`experimental-features = nix-command flakes ca-derivations  \nallow-import-from-derivation = true`\n\nOptionally, to improve build speed, it is possible to set up binary caches\nmaintained by IOHK and Plutonomicon by setting additional configuration entries:\n\n`substituters = https://cache.nixos.org https://iohk.cachix.org https://cache.iog.io  \ntrusted-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY= hydra.iohk.io:f/Ea+s+dFdN+3Y/G+FDgSq+a5NEWhJGzdjvKNGv0/EQ= iohk.cachix.org-1:DpRUyj7h7V830dp/i6Nti+NEO2/nhblbov/8MW7Rqoo=`\n\nTo facilitate seamlessly moving between directories and associated Nix development shells we use [direnv](https://direnv.net) and [nix-direnv](https://github.com/nix-community/nix-direnv):\n\nYour shell and editors should pick up on the `.envrc` files in different directories and prepare the environment accordingly. Use `direnv allow` to enable the direnv environment and `direnv reload` to reload it when necessary. Otherwise, the `.envrc` file contains a proper Nix target you can use with the `nix develop` command.\n\n`.envrc`\n`direnv allow`\n`direnv reload`\n`.envrc`\n`nix develop`\n\nTo install both using `nixpkgs`:\n\n`nixpkgs`\n`nix profile install nixpkgs#direnv  \nnix profile install nixpkgs#nix-direnv`",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 12,
+    "extraction_timestamp": "2025-09-19T14:05:17.156321",
+    "extraction_time": 1.6163160800933838,
+    "source": "tavily_api_raw"
+  }
+}

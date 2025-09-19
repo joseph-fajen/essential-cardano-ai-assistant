@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/stretching-the-glasgow-haskell-compiler-nourishing-ghc-with-domain-driven-design/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Stretching the Glasgow Haskell Compiler: Nourishing GHC with Domain-Driven Design.\n\n# [Stretching the Glasgow Haskell Compiler: Nourishing GHC with Domain-Driven Design.](https://dl.acm.org/doi/10.1145/3609025.3609476)\n\nSeptember/2023, FUNARCH '23\n\nGHC\n\nOver the last decade Haskell has been productized; transitioning from a research language to an industrial strength language ready for large-scale systems. However, the literature on architecting such systems with a pure functional language is scarce. In this paper we contribute to that discourse, by using a large-scale system: the Glasgow Haskell Compiler (GHC), as a guide to more maintainable, flexible and effective, pure functional architectures. We describe, from experience, how GHC as a system, violates the desirable properties that make pure functional programming attractive: immutability, modularity, and composability. With these violations identified, we provide guidance for other functional system architectures; drawing heavily on Domain-Driven Design. We write from an engineering perspective, with the hope that our experience may provide insight into best practices for other pure functional software architects.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 26,
+    "extraction_timestamp": "2025-09-19T14:19:22.752368",
+    "extraction_time": 1.294140100479126,
+    "source": "tavily_api_raw"
+  }
+}

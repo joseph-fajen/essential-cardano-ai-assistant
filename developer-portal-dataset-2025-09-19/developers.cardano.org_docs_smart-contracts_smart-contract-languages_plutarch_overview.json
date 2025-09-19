@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/smart-contracts/smart-contract-languages/plutarch/overview",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Plutarch\n\nPlutarch is a typed eDSL in Haskell for writing efficient Plutus Core validators.\n\n## Why Plutarch?[​](#why-plutarch \"Direct link to Why Plutarch?\")\n\nPlutarch written validators are often significantly more efficient validators. With Plutarch, you have much more fine gained control of the Plutus Core you generate, without giving up any type information.\n\nTo put things into perspective, one validator script from a large production contract was rewritten in Plutarch, changed from Plinth. Here's the comparison between the Plutarch script's execution cost compared to the Plutus Tx script's execution cost. These numbers were gathered by simulating the whole contract flow on a testnet:\n\n| Version | CPU | Memory | Script Size |\n| --- | --- | --- | --- |\n| PlutusTx (current) | 198,505,651 | 465,358 | 2013 |\n| Plutarch | 51,475,605 | 99,992 | 489 |\n\nMore benchmarks, with reproducible code, soon to follow.\n\n## Installation[​](#installation \"Direct link to Installation\")\n\n`cabal.project`\n`plutarch`\n\n## Benchmarks[​](#benchmarks \"Direct link to Benchmarks\")\n\nSee the [`plutarch-test`](https://github.com/Plutonomicon/plutarch-plutus/tree/master/plutarch-testlib/test) for testing and golden files containing benchmarks and UPLCs.\n\n`plutarch-test`\n\n## Usage[​](#usage \"Direct link to Usage\")\n\nAlongside the [User guide](#usage) above, you may also find the [Developers' guide](https://plutonomicon.github.io/plutarch-plutus/DEVGUIDE.html) useful for understanding the codebase.\n\n## Community[​](#community \"Direct link to Community\")\n\n[Plutonomicon Discord](https://discord.gg/722KnTC8jF)\n\n[**Continue to Plutarch website**](https://plutonomicon.github.io/plutarch-plutus/)",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 12,
+    "extraction_timestamp": "2025-09-19T14:05:17.156321",
+    "extraction_time": 1.6163160800933838,
+    "source": "tavily_api_raw"
+  }
+}

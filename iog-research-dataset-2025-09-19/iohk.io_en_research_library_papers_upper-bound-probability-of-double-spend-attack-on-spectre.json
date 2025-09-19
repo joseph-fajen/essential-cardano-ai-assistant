@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/upper-bound-probability-of-double-spend-attack-on-spectre/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Upper Bound Probability of Double Spend Attack on SPECTRE\n\n# [Upper Bound Probability of Double Spend Attack on SPECTRE](https://api.zotero.org/groups/478201/items/5GEP8HFA/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nSeptember/2020, CryBlock '20\n\nDAGPROOF-OF-WORK\n\nWe obtained analytical expressions of upper estimates for success probability of a double spend attack on DAG-based consensus protocol SPECTRE, depending on network parameters. Using such estimates, it is possible to evaluate the number of confirmation blocks that is sufficient for prevention of such attacks.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T14:19:50.573498",
+    "extraction_time": 1.2375829219818115,
+    "source": "tavily_api_raw"
+  }
+}

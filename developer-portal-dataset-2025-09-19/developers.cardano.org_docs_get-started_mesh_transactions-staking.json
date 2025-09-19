@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/get-started/mesh/transactions-staking",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Staking Transactions\n\nIn this section, we will learn to create to stake ADA in stake pools. If you are new to transactions, be sure to check out how to create transactions to [send lovelace and assets](/docs/get-started/mesh/transactions-basic).\n\nIn this section, we will explore the following:\n\n## Register Stake Address[​](#register-stake-address \"Direct link to Register Stake Address\")\n\nNew address must \"register\" before they can delegate to stake pools.\n\n`import { Transaction } from \"@meshsdk/core\";  \n  \nconst rewardAddress = \"stake1qdzmqvfdnxsn4a3hd57x435madswynt4hqw8n7f2pdq05g4995re\";  \nconst poolId = \"pool1mhww3q6d7qssj5j2add05r7cyr7znyswe2g6vd23anpx5sh6z8d\";  \n  \nconst tx = new Transaction({ initiator: wallet });  \ntx.registerStake(rewardAddress);  \ntx.delegateStake(rewardAddress, poolId);  \n  \nconst unsignedTx = await tx.build();  \nconst signedTx = await wallet.signTx(unsignedTx);  \nconst txHash = await wallet.submitTx(signedTx);`\n\n## Delegate ADA to Stake pool[​](#delegate-ada-to-stake-pool \"Direct link to Delegate ADA to Stake pool\")\n\nDelegation is the process by which ADA holders delegate the stake associated with their ADA to a stake pool. Doing so, this allows ADA holders to participate in the network and be rewarded in proportion to the amount of stake delegated.\n\n`import { Transaction } from \"@meshsdk/core\";  \n  \nconst rewardAddress = \"stake1qdzmqvfdnxsn4a3hd57x435madswynt4hqw8n7f2pdq05g4995re\";  \nconst poolId = \"pool1mhww3q6d7qssj5j2add05r7cyr7znyswe2g6vd23anpx5sh6z8d\";  \n  \nconst tx = new Transaction({ initiator: wallet });  \ntx.delegateStake(rewardAddress, poolId);  \n  \nconst unsignedTx = await tx.build();  \nconst signedTx = await wallet.signTx(unsignedTx);  \nconst txHash = await wallet.submitTx(signedTx);`\n\nCheck out the [Mesh Playground](https://meshjs.dev/apis/transaction/staking) for live demo and full explanation.",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 6,
+    "extraction_timestamp": "2025-09-19T14:04:44.452431",
+    "extraction_time": 1.4428989887237549,
+    "source": "tavily_api_raw"
+  }
+}

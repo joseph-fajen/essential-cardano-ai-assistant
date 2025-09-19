@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/learning-structure-aware-representations-of-dependent-types/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Learning Structure-Aware Representations of Dependent Types\n\n# [Learning Structure-Aware Representations of Dependent Types](https://arxiv.org/pdf/2402.02104)\n\nDecember/2024, NeurIPS '24\n\nAIAGDAFORMALMETHODSNEURAL NETWORKS\n\nAgda is a dependently-typed programming language and a proof assistant, pivotal in proof formalization and programming language theory. This paper extends the Agda ecosystem into machine learning territory, and, vice versa, makes Agda related resources available to machine learning practitioners. We introduce and release a novel dataset of Agda program-proofs that is elaborate and extensive enough to support various machine learning applications – the first of its kind. Leveraging the dataset’s ultra-high resolution, which details proof states at the sub-type level, we propose a novel neural architecture targeted at faithfully representing dependently-typed programs on the basis of structural rather than nominal principles. We instantiate and evaluate our architecture in a premise selection setup, where it achieves promising initial results, surpassing strong baselines.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 24,
+    "extraction_timestamp": "2025-09-19T14:19:13.524198",
+    "extraction_time": 1.2174389362335205,
+    "source": "tavily_api_raw"
+  }
+}

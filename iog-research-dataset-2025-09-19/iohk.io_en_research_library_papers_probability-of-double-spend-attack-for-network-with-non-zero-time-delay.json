@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/probability-of-double-spend-attack-for-network-with-non-zero-time-delay/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Probability of double spend attack for network with non-zero time delay\n\n# [Probability of double spend attack for network with non-zero time delay](https://api.zotero.org/groups/478201/items/8Q5DP9W8/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nDecember/2022\n\nPROOF-OF-WORK\n\nThe paper presents the formulas for probability of a double spend attack on blockchain with Proof-of-Work consensus protocol for a network with a non-zero synchronization time. The results show that probability of a double spend attack depends essentially on the block delivery time and intensity of block generation. More precisely, the probability of such attack increases when the product of these two values increases. The analytical results obtained in this paper allow not only to calculate the exact value of attack probability, but also to define the minimal number of confirmation\n\nblocks sufficient to guarantee the security against this attack with an arbitrary preset probability value\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T14:19:27.079445",
+    "extraction_time": 1.3148980140686035,
+    "source": "tavily_api_raw"
+  }
+}

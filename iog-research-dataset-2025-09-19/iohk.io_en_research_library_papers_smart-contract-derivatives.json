@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/smart-contract-derivatives/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Smart Contract Derivatives\n\n# [Smart Contract Derivatives](https://eprint.iacr.org/2020/138.pdf)\n\nAugust/2020, Marble 2020\n\nSMARTCONTRACT\n\nThe abilities of smart contracts today are confined to reading from their own state. It is useful for a smart contract to be able to react to events and read the state of other smart contracts. In this paper, we devise a mechanism by which a derivative smart contract can read data, observe the state evolution, and react to events that take place in one or more underlying smart contracts of its choice. Our mechanism works even if the underlying smart contract is not designed to operate with the derivative smart contract. Like in traditional finance, derivatives derive their value (and more generally state) through potentially complex dependencies. We show how derivative smart contracts can be deployed in practice on the Ethereum blockchain without any forks or additional assumptions. We leverage any NIPoPoWs mechanism (such as FlyClient or superblocks) to obtain succinct proofs for arbitrary events, making proving them inexpensive for users. The latter construction is of particular interest, as it forms the first introspective SPV client: an SPV client for Ethereum in Ethereum. Last, we describe applications of smart contract derivatives which were not possible prior to our work, in particular the ability to create decentralized insurance smart contracts which insure an underlying on-chain security such as an ICO, as well as futures and options.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T14:19:50.573498",
+    "extraction_time": 1.2375829219818115,
+    "source": "tavily_api_raw"
+  }
+}

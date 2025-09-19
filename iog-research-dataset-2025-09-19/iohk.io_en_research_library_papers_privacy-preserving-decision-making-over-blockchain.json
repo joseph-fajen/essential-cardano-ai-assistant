@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/privacy-preserving-decision-making-over-blockchain/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Privacy-Preserving Decision-Making Over Blockchain\n\n# [Privacy-Preserving Decision-Making Over Blockchain](https://clok.uclan.ac.uk/45105/1/TDSC_Manuscript.pdf)\n\nDecember/2022, IEEE Transactions on Dependable and Secure Computing\n\nVOTING\n\nMany blockchain applications require democratic on-chain decision-making. In this work, we propose a community-inclusive decentralised collaborative decision-making system with privacy assurance. Its key component is a two-stage voting scheme inspired by choice architecture. Our decision-making system is compatible with most existing blockchain infrastructures. In addition, it supports liquid democracy/delegative voting for better collaborative intelligence. Namely, stake holders can either vote directly on proposals or delegate their voting power to experts. When majority of voting committee members are honest, no one can derive voters’ voting preferences or delegations with non-negligible probability. To support concurrent multiple voting events, we design a distributed batch key generation protocol that can generate multiple keys simultaneously by voting committee members with amortised communication cost of O(n) per key, where n is the number of participants. Besides, our system supports “evolving committee”, i.e., voting committee members can be changed during the voting period. We implemented a pilot system in Scala, benchmark results indicate that our system can support large number of participants with high efficiency.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T14:19:27.079445",
+    "extraction_time": 1.3148980140686035,
+    "source": "tavily_api_raw"
+  }
+}

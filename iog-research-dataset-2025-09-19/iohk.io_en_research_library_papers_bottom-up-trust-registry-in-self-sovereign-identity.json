@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/bottom-up-trust-registry-in-self-sovereign-identity/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Bottom-up Trust Registry in Self Sovereign Identity\n\n# [Bottom-up Trust Registry in Self Sovereign Identity](https://arxiv.org/pdf/2208.04624.pdf)\n\nJuly/2022, BLOCKCHAIN '22\n\nSSI\n\nSelf sovereign identity is a form of decentralised credential management. During credential verification, data exchange only happens between the data owner and the verifier without passing through any third parties. While this approach offers a privacy-centric solution, it poses a challenge. How do verifiers trust that the credential is vouched by a trusted source? More specifically, how do verifiers know that the issuer has the reputation or is authorised to issue the credential? In this paper, we propose a trust registry design that handles the aspect of human trust in self sovereign identity. We also introduce an incentivisation mechanism for the trust registry in order to motivate each stakeholder to participate actively and honestly.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 29,
+    "extraction_timestamp": "2025-09-19T14:19:35.862517",
+    "extraction_time": 1.4846253395080566,
+    "source": "tavily_api_raw"
+  }
+}

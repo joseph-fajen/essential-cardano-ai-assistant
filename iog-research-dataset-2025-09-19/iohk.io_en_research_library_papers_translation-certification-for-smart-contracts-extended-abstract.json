@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/translation-certification-for-smart-contracts-extended-abstract/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Translation Certification for Smart Contracts (Extended Abstract)\n\n# [Translation Certification for Smart Contracts (Extended Abstract)](https://api.zotero.org/groups/478201/items/2YENIXJP/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nAugust/2021, TyDe 2021\n\nPLUTUSSMARTCONTRACT\n\nCompiler correctness is an old problem that has received renewed interest in the context of smart contracts — that is, compiled code on public blockchains, such as Ethereum or Cardano, that often controls significant amounts of financial assets and can no longer be updated once it is committed to the blockchain. This paper discusses the design and implementation of a certifying compiler for the Plutus smart contract system using the Coq proof assistant.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 30,
+    "extraction_timestamp": "2025-09-19T14:19:41.013043",
+    "extraction_time": 2.1391191482543945,
+    "source": "tavily_api_raw"
+  }
+}

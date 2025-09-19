@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/operate-a-stake-pool/monitoring-gLiveView",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Monitoring with gLiveView\n\nGuild LiveView, often known as gLiveView, is a local bash CLI monitoring utility with an easy-to-use interface for monitoring node status. It connects to the locally running node via the specified EKG/Prometheus node endpoints to collect and show node metrics, network information, and other information in real time. The program recognizes whether the node is being used as a relay or a block producer and adjusts the output accordingly.\n\nTo install gLiveView:\n\n`curl -s -o gLiveView.sh https://raw.githubusercontent.com/cardano-community/guild-operators/master/scripts/cnode-helper-scripts/gLiveView.sh  \ncurl -s -o env https://raw.githubusercontent.com/cardano-community/guild-operators/master/scripts/cnode-helper-scripts/env`\n`gLiveView.sh`\n`chmod 755 gLiveView.sh`\n\nFor most setups, it's enough to set `CNODE_PORT` in the `env` file.\n\n`CNODE_PORT`\n`env`\n\nDetailed guide and more information can be found on [Guild Operators Page](https://cardano-community.github.io/guild-operators/Scripts/gliveview/)",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 9,
+    "extraction_timestamp": "2025-09-19T14:05:00.496633",
+    "extraction_time": 2.430634021759033,
+    "source": "tavily_api_raw"
+  }
+}

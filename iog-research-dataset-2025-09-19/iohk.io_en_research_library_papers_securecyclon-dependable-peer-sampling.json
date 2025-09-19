@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/securecyclon-dependable-peer-sampling/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > SecureCyclon: Dependable Peer Sampling\n\n# [SecureCyclon: Dependable Peer Sampling](https://arxiv.org/pdf/2309.02952.pdf)\n\nJuly/2023, ICDCS '23\n\nGOSSIPNETWORKING\n\nOverlay management is the cornerstone of building robust and dependable Peer-to-Peer systems. A key component for building such overlays is the peer-sampling service, a mechanism that continuously supplies each node with a set of up-to-date peers randomly selected across all alive nodes. Arguably, the most pernicious malicious action against such mechanisms is the provision of arbitrarily created links that point at malicious nodes. This paper proposes SecureCyclon, a peer-sampling protocol that deterministically eliminates the ability of malicious nodes to overrepresent themselves in Peer-to-Peer overlays. To the best of our knowledge, this is the first protocol to offer this property, as previous works were able to only bound the proportion of excessive links to malicious nodes, without completely eliminating them. SecureCyclon redefines the concept of node descriptors from just being containers of information that enable communication with specific nodes, to being communication certificates that traverse the network and enable nodes to provably discover malicious nodes. We evaluate our solution with the conduction of extended simulations, and we demonstrate that it provides resilience even at the extreme condition of 40% malicious node participation.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 26,
+    "extraction_timestamp": "2025-09-19T14:19:22.752368",
+    "extraction_time": 1.294140100479126,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/probability-of-double-spend-attack-for-network-with-non-zero-synchronization-time/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Probability of double spend attack for network with non-zero synchronization time\n\n# [Probability of double spend attack for network with non-zero synchronization time](https://api.zotero.org/groups/478201/items/V4UMYXH8/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nJune/2021, CECC '21\n\nPROOF-OF-WORK\n\nIn this paper, we obtained for the first time mathematically substantiated formulas for probability of a double spend attack on blockchain that is based upon Proof-of-Work consensus protocol and longest chain rule, for a network with a non-zero time of block propagation in the model with continuous time. Also, for the first time, it was shown that probability of such attack depends on the value equal to the product of the block propagation time and of the block generation intensity. The larger is this value, the larger is the attack success probability. Formulas obtained allow not only calculating of the attack success probability at various network parameters, but also to determine the number of confirmation blocks allowing reduction of the attack probability below some given small threshold, e.g. 10-3.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 30,
+    "extraction_timestamp": "2025-09-19T14:19:41.013043",
+    "extraction_time": 2.1391191482543945,
+    "source": "tavily_api_raw"
+  }
+}

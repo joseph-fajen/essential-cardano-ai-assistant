@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/decreasing-security-threshold-against-double-spend-attack-in-networks-with-slow-synchronization/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Decreasing Security Threshold Against Double Spend Attack in Networks with Slow Synchronization\n\n# [Decreasing Security Threshold Against Double Spend Attack in Networks with Slow Synchronization](https://api.zotero.org/groups/478201/items/PX7QCMUI/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nApril/2019, CryBlock'19\n\nBITCOINBLOCKCHAINCONSENSUS\n\nWe study probability change of double spend attack on Proof-of-Work consensus protocol depending on network parameters in the model with continuous time. We analyze effect of block generation intensity on the network vulnerability to the attack, and provide analytical expressions for the network security threshold and for the upper bound of block generation intensity.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 33,
+    "extraction_timestamp": "2025-09-19T14:19:54.805104",
+    "extraction_time": 1.2208268642425537,
+    "source": "tavily_api_raw"
+  }
+}

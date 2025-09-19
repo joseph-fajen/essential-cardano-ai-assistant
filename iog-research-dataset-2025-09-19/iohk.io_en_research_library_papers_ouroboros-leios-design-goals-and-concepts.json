@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/ouroboros-leios-design-goals-and-concepts/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Ouroboros Leios: design goals and concepts\n\n# [Ouroboros Leios: design goals and concepts](https://api.zotero.org/groups/478201/items/IPPEVAGG/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nNovember/2022, IOHK\n\nCARDANOOUROBOROS\n\nThe motivation for Ouroboros Leios – a new Ouroboros family variant – is to substantially increase throughput, while achieving at least as good security properties as previous Ouroboros variants.\n\nExisting variants of the Ouroboros blockchain algorithm are limited in the throughput they can achieve – both data throughput and CPU processing throughput. They are not primarily limited by the resources available to each node (network capacity or CPU performance), but by the nature of the data dependencies and communication dependencies within the distributed algorithm. Improving this requires a new algorithm design – which is what Ouroboros Leios is intended to be.\n\nIn addition, a new design provides an opportunity to incorporate other useful modern features: tiered transaction fees with corresponding levels of service priority, and faster chain synchronisation by removing the need to execute every smart contract.\n\nThere are of course trade-offs in the design, in particular increased resource use and increased transaction latency, and these are discussed.\n\nThe new Ouroboros Leios design is not a small or modular extension however. It is a substantial extension of the Ouroboros Praos and Genesis designs, and the changes to a practical implementation will also be substantial.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T14:19:27.079445",
+    "extraction_time": 1.3148980140686035,
+    "source": "tavily_api_raw"
+  }
+}

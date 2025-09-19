@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/an-ontology-for-smart-contracts/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > An Ontology for Smart Contracts\n\n# [An Ontology for Smart Contracts](https://cryptochainuni.com/wp-content/uploads/Darryl-McAdams-An-Ontology-for-Smart-Contracts.pdf)\n\nMarch/2017\n\nSMARTCONTRACT\n\nThis paper introduces a basic ontology that attempts to capture the essential features of many smart contracts, in order to aid in formal reasoning about their behavior. Section II gives a general overview of the proposed ontology, and Section III gives analyses of a number of interesting smart contracts from the literature, through the lens of this ontology. The proposals here are not intended to be the One True Ontology, but rather a useful ontology. A well-designed blockchain should be able to support arbitrary such ontologies\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 35,
+    "extraction_timestamp": "2025-09-19T14:20:04.186825",
+    "extraction_time": 1.8284108638763428,
+    "source": "tavily_api_raw"
+  }
+}

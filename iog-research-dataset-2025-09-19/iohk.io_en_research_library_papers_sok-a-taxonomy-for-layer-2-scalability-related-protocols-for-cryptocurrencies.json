@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/sok-a-taxonomy-for-layer-2-scalability-related-protocols-for-cryptocurrencies/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > SoK: A Taxonomy for Layer-2 Scalability Related Protocols for Cryptocurrencies\n\n# [SoK: A Taxonomy for Layer-2 Scalability Related Protocols for Cryptocurrencies](https://eprint.iacr.org/2019/352.pdf)\n\nApril/2019, ePrint Archive\n\nBITCOINBLOCKCHAINCRYPTOCURRENCYMICROPAYMENTPROTOCOLSURVEY\n\nBlockchain based systems, in particular cryptocurrencies, face a serious limitation: scalability. This holds, especially, in terms of number of transactions per second. Several alternatives are currently being pursued by both the research and practitioner communities. One venue for exploration is on protocols that do not constantly add transactions on the blockchain and therefore do not consume the blockchain’s resources. This is done using off-chain transactions, i.e., protocols that minimize the interaction with the blockchain, also commonly known as Layer-2 approaches. This work relates several existing off-chain channel methods, also known as payment and state channels, channel network constructions methods, and other components as channel and network management protocols, e.g., routing nodes. All these components are crucial to keep the usability of the channel, and are often overlooked. For the best of our knowledge, this work is the first to propose a taxonomy for all the components of the Layer-2. We provide an extensive coverage on the state-of-art protocols available. We also outline their respective approaches, and discuss their advantages and disadvantages.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 33,
+    "extraction_timestamp": "2025-09-19T14:19:54.805104",
+    "extraction_time": 1.2208268642425537,
+    "source": "tavily_api_raw"
+  }
+}

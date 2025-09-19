@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/operate-a-stake-pool/node-operations/cardano-components",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Cardano Components\n\nThe Cardano blockchain is powered by a flock of inter-connected nodes. The [`cardano-node`](https://github.com/IntersectMBO/cardano-node) is the software capable of running as a core block producer, as a relay or as a local entry-point to the network. The node itself is made out of several inter-connected component parts:\n\n`cardano-node`\n\n[`The settlement layer`](https://github.com/IntersectMBO/cardano-ledger#cardano-ledger): a multi-era ledger implementation derived from a set of formal specifications. This is where the core Cardano entities are defined as well as the rules for using them. This is the bedrock on top of which all other components build upon.\n\n`The settlement layer`\n\n[`The consensus layer`](https://github.com/IntersectMBO/ouroboros-consensus#ouroboros-consensus): an implementation of the consensus layer of the Ouroboros family of protocols. If you've heard about *\"The Hard-Fork Combinator\"*, this is where you can find it. For a high-level − albeit technical − introduction, have a look at [The Abstract Nature of The Consensus Layer](https://iohk.io/en/blog/posts/2020/05/28/the-abstract-nature-of-the-consensus-layer/).\n\n`The consensus layer`\n\n[`The networking layer`](https://github.com/IntersectMBO/ouroboros-network/#ouroboros-network): a peer-to-peer networking stack geared towards Proof-of-Stake systems. This includes a framework for writing typed protocols with supports for pipelining, multiplexing and various protections against adversarial peers.\n\n`The networking layer`\n\n[`The scripting layer`](https://github.com/IntersectMBO/plutus#plutus-core): also known as *Plutus*, it is a scripting language embedded in the Cardano ledger to provide smart-contract capabilities to the network. At its core, it is a typed Lambda-Calculus which acts as low-level interpreted assembly code.\n\n`The scripting layer`",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 9,
+    "extraction_timestamp": "2025-09-19T14:05:00.496633",
+    "extraction_time": 2.430634021759033,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/message-passing-in-the-extended-utxo-ledger-model/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Message-passing in the Extended UTxO Ledger Model\n\n# [Message-passing in the Extended UTxO Ledger Model](https://fc24.ifca.ai/wtsc/WTSC24_2.pdf)\n\nMarch/2024, WTSC 2024\n\nUTXOSMARTCONTRACT\n\nA notable problem faced by developers of smart contracts running on an extended UTxO (EUTxO) ledger is double satisfaction: interacting contracts that make payouts may validate with insufficient payments made to some recipients.\n\nIn this work, we formalize the notion of a stateful contract constraint being vulnerable to double satisfaction. Next, we formalize interaction among scripts and stateful contracts via message-passing, consisting of a specification and an implementation of a stateful distributed message-passing contract, together with a proof of the integrity of its implementation. Messages specify sender and receiver outputs, as well as the data and assets being communicated, which are recorded on the ledger in the form of special NFT tokens distributed across UTxO entries that also contain the sent assets.\n\nWe give two applications of our design by considering a message: (1) as a record of a successful script computation, akin to memoization, and (2) as a mechanism for asynchronous structured contracts communication that enables a principled separation of contract communication from its computation. Building on this application of message-passing, we present a result stating that making payouts from stateful contracts using message-passing is not vulnerable to double satisfaction.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 25,
+    "extraction_timestamp": "2025-09-19T14:19:18.452381",
+    "extraction_time": 1.9181861877441406,
+    "source": "tavily_api_raw"
+  }
+}

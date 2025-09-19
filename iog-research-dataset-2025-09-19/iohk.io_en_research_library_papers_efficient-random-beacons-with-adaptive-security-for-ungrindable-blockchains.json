@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/efficient-random-beacons-with-adaptive-security-for-ungrindable-blockchains/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Efficient Random Beacons with Adaptive Security for Ungrindable Blockchains\n\n# [Efficient Random Beacons with Adaptive Security for Ungrindable Blockchains](https://eprint.iacr.org/2021/1698.pdf)\n\nJuly/2023, ICDCS '23\n\nPSEUDORANDOMNESS\n\nWe describe and analyze a simple protocol for n parties that implements a randomness beacon: a sequence of high entropy values, continuously emitted at regular intervals, with sub-linear communication per value. The algorithm can tolerate a (1−ϵ)/2 fraction of the n players to be controlled by an adaptive adversary that may deviate arbitrarily from the protocol. The randomness mechanism relies on verifiable random functions (VRF), modeled as random functions, and effectively stretches an initial λ-bit seed to an arbitrarily long public sequence so that (i) with overwhelming probability in k--the security parameter--each beacon value has high min-entropy conditioned on the full history of the algorithm, and (ii) the total work and communication required per value is O(k) cryptographic operations.\n\nThe protocol can be directly applied to provide a qualitative improvement in the security of several proof-of-stake blockchain algorithms, rendering them safe from \"grinding'\" attacks.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 26,
+    "extraction_timestamp": "2025-09-19T14:19:22.752368",
+    "extraction_time": 1.294140100479126,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/airdrop-games/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Airdrop Games\n\n# [Airdrop Games](https://arxiv.org/pdf/2505.03428)\n\nAugust/2025, IJCAI '25\n\nGAME-THEORY\n\nLaunching a new blockchain system or application is frequently facilitated by a so called airdrop, where the system designer chooses a pre-existing set of potentially interested parties and allocates newly minted tokens to them with the expectation that they will participate in the system - such engagement, especially if it is of significant level, facilitates the system and raises its value and also the value of its newly minted token, hence benefiting the airdrop recipients. A number of challenging questions befuddle designers in this setting, such as how to choose the set of interested parties and how to allocate tokens to them. To address these considerations we put forward a game-theoretic model for such airdrop games. Our model can be used to guide the designer's choices based on the way the system's value depends on participation (modeled by a ''technology function'' in our framework) and the costs that participants incur. We identify both bad and good equilibria and identify the settings and the choices that can be made where the designer can influence the players towards good equilibria in an expedient manner.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 23,
+    "extraction_timestamp": "2025-09-19T14:19:09.290919",
+    "extraction_time": 1.8959262371063232,
+    "source": "tavily_api_raw"
+  }
+}

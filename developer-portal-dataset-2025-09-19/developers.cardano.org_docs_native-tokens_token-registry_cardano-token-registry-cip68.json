@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/native-tokens/token-registry/cardano-token-registry-cip68",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# CIP-68: Cardano On-Chain Metadata Standard\n\n[CIP-68](https://cips.cardano.org/cip/CIP-0068) is an on-chain metadata standard for Cardano native assets, designed to provide a flexible and programmable way to manage metadata directly on the blockchain. Unlike CIP-26, which relies on off-chain storage, CIP-68 uses **datums**—on-chain data structures in Cardano’s extended UTxO model—to store metadata. This standard introduces two types of tokens: a **reference NFT** that holds the metadata and a **user token** that represents the asset in a user’s wallet. The reference NFT points to the metadata, which can be updated without minting new tokens.\n\nCIP-68 also incorporates **asset name labels** (defined in CIP-67) to classify tokens, making it easier for third-party tools like wallets and decentralized exchanges (DEXs) to identify their purpose. The metadata is stored in a structured format, allowing for fields such as:\n\nThis standard supports dynamic metadata updates, making it suitable for advanced use cases like evolving NFTs or fractionalized assets.\n\n## Use Cases[​](#use-cases \"Direct link to Use Cases\")\n\nCIP-68 is well-suited for:\n\n## Pros of CIP-68[​](#pros-of-cip-68 \"Direct link to Pros of CIP-68\")\n\n## Cons of CIP-68[​](#cons-of-cip-68 \"Direct link to Cons of CIP-68\")\n\n## Summary[​](#summary \"Direct link to Summary\")\n\nCIP-68 is a powerful standard for developers seeking to create dynamic, programmable, and decentralized native assets on Cardano. Its on-chain approach enables integration with smart contracts and supports innovative use cases, but it comes at the cost of higher transaction fees and increased complexity. Developers should consider CIP-68 for projects requiring flexibility and on-chain functionality, while being mindful of its cost and compatibility trade-offs.",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 8,
+    "extraction_timestamp": "2025-09-19T14:04:55.057544",
+    "extraction_time": 2.1853792667388916,
+    "source": "tavily_api_raw"
+  }
+}

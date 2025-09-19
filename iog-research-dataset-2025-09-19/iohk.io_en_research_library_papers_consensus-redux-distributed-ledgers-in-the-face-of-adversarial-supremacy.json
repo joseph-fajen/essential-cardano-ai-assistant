@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/consensus-redux-distributed-ledgers-in-the-face-of-adversarial-supremacy/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Consensus Redux: Distributed Ledgers in the Face of Adversarial Supremacy\n\n# [Consensus Redux: Distributed Ledgers in the Face of Adversarial Supremacy](https://eprint.iacr.org/2020/1021.pdf)\n\nJuly/2024, CSF '24\n\nPROOF-OF-STAKEPROOF-OF-WORKSELF-HEALING\n\nDistributed ledgers, such as those arising from blockchain protocols, have been touted as the centerpiece of an upcoming security-critical information technology infrastructure. Their basic properties---consistency and liveness---can be guaranteed under specific constraints about the resources of an adversary relative to the resources of the nodes that follow the protocol. Given the intended long-livedness of these protocols, perhaps the most fundamental open security question currently is their behavior and potential resilience to temporary spikes in adversarial resources.\n\nIn this work we give the first thorough treatment of self-healing properties of distributed ledgers covering both proof-of-work (PoW) and proof-of-stake (PoS) protocols. Our results quantify the vulnerability period that corresponds to an adversarial spike and classify three types of currently deployed protocols with respect to their self-healing ability: PoW-based blockchains, PoS-based blockchains, and iterated Byzantine Fault Tolerant (iBFT) protocols.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 25,
+    "extraction_timestamp": "2025-09-19T14:19:18.452381",
+    "extraction_time": 1.9181861877441406,
+    "source": "tavily_api_raw"
+  }
+}

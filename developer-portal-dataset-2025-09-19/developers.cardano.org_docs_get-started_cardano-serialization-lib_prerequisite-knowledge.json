@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/get-started/cardano-serialization-lib/prerequisite-knowledge",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Pre-requisite knowledge\n\nThis library assumes a certain amount of knowledge about how Cardano works (want to avoid re-documenting the wheel).\n\nYou can find the specifications of Cardano's ledger [here](https://github.com/input-output-hk/cardano-ledger-specs) which we suggest consulting as you use this library. Notably, the `Shelley ledger formal specification` covers the core concepts.\n\n`Shelley ledger formal specification`\n\n## Serialization-Lib Information[​](#serialization-lib-information \"Direct link to Serialization-Lib Information\")\n\nThis page was generated automatically from: [https://github.com/Emurgo/cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib/tree/master/doc/getting-started/prerequisite-knowledge.md).",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 4,
+    "extraction_timestamp": "2025-09-19T14:04:34.999822",
+    "extraction_time": 3.8223392963409424,
+    "source": "tavily_api_raw"
+  }
+}

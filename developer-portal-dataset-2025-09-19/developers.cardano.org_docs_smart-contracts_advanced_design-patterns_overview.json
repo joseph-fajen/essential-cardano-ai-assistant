@@ -1,0 +1,11 @@
+{
+  "url": "https://developers.cardano.org/docs/smart-contracts/advanced/design-patterns/overview",
+  "content": "![Cardano Logo](/img/cardano-black.svg)\n![Cardano Logo](/img/cardano-white.svg)\n\n# Design Patterns\n\nThis project is dedicated to simplifying complex Plutus smart contract design patterns on the Cardano blockchain through the creation of two distinct libraries:\n\nThese libraries are designed to abstract away some of the more unintuitive and lesser-known design patterns, making them more accessible to developers. Below is an overview of the key features and design patterns these libraries address:\n\n## Key Features[​](#key-features \"Direct link to Key Features\")\n\n**Transaction Level Validation**: Abstracts the intricacies of spending validator validation through:\n\n**Input/Output Indexing with Redeemers**: Simplifies the management of input/output indexing, streamlining the process of associating redeemers with their respective inputs or outputs.\n\n**Strict Boolean Validation Checks**: Offers a robust framework for implementing boolean binary operators, ensuring strict validation checks across Plutus, Plutarch, and Aiken.\n\n**PlutusTypeEnum Redeemers**: Introduces an efficient data encoding method for simple redeemers, utilizing Enums to minimize complexity and optimize performance.\n\n**Normalization Techniques**: Enhances data integrity and contract reliability through:",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 10,
+    "extraction_timestamp": "2025-09-19T14:05:05.551444",
+    "extraction_time": 2.0458879470825195,
+    "source": "tavily_api_raw"
+  }
+}

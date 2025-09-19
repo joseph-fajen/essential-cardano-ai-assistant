@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/parscoin-a-privacy-preserving-auditable-and-regulation-friendly-stablecoin/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > PARScoin: A Privacy-preserving, Auditable, and Regulation-friendly Stablecoin\n\n# [PARScoin: A Privacy-preserving, Auditable, and Regulation-friendly Stablecoin](https://eprint.iacr.org/2023/1908.pdf)\n\nSeptember/2024, CANS '24\n\nSTABLECOIN\n\nStablecoins are digital assets designed to maintain a consistent value relative to a reference point, serving as a vital component in Blockchain, and Decentralized Finance (DeFi) ecosystem. Typical implementations of stablecoins via smart contracts come with important downsides such as a questionable level of privacy, potentially high fees, and lack of scalability. We put forth a new design, PARScoin, for a Privacy-preserving, Auditable, and Regulation-friendly Stablecoin that mitigates these issues while enabling high performance both in terms of speed of settlement and for scaling to large numbers of users as our performance analysis demonstrates. Our construction is blockchain-agnostic and is analyzed in the Universal Composition (UC) framework, offering a secure and modular approach for its integration into the broader blockchain ecosystem.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 24,
+    "extraction_timestamp": "2025-09-19T14:19:13.524198",
+    "extraction_time": 1.2174389362335205,
+    "source": "tavily_api_raw"
+  }
+}

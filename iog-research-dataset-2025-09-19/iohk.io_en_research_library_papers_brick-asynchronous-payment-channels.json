@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/brick-asynchronous-payment-channels/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > BRICK: Asynchronous Payment Channels\n\n# [BRICK: Asynchronous Payment Channels](https://fc21.ifca.ai/papers/168.pdf)\n\nMarch/2021, Financial Cryptography 2021\n\nPAYMENT-CHANNELS\n\nOff-chain protocols (channels) are a promising solution to the scalability and privacy challenges of blockchain payments. Current proposals, however, require synchrony assumptions to preserve the safety of a channel, leaking to an adversary the exact amount of time needed to control the network for a successful attack. In this paper, we introduce Brick, the first payment channel that remains secure under network asynchrony and concurrently provides correct incentives. The core idea is to incorporate the conflict resolution process within the channel by introducing a rational committee of external parties, called wardens. Hence, if a party wants to close a channel unilaterally, it can only get the committee’s approval for the last valid state.\n\nAdditionally, Brick provides sub-second latency because it does not employ heavy-weight consensus. Instead, Brick uses consistent broadcast to announce updates and close the channel, a light-weight abstraction that is powerful enough to preserve safety and liveness to any rational parties. We formally define and prove for Brick the properties a payment channel construction should fulfill. We also design incentives for Brick such that honest and rational behavior aligns. Finally, we provide a reference implementation of the smart contracts in Solidity.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 31,
+    "extraction_timestamp": "2025-09-19T14:19:46.325765",
+    "extraction_time": 2.292677879333496,
+    "source": "tavily_api_raw"
+  }
+}

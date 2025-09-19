@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/filling-the-tax-gap-via-programmable-money/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Filling the Tax Gap via Programmable Money\n\n# [Filling the Tax Gap via Programmable Money](https://arxiv.org/pdf/2107.12069.pdf)\n\nOctober/2021, CBT '21\n\nPROGRAMMABLE MONEY\n\nWe discuss the problem of facilitating tax auditing assuming \"programmable money\", i.e., digital monetary instruments that are managed by an underlying distributed ledger. We explore how a taxation authority can verify the declared returns of its citizens and create a counter-incentive to tax evasion by two distinct mechanisms. First, we describe a design which enables auditing it as a built-in feature with minimal changes on the underlying ledger's consensus protocol. Second, we offer an application-layer extension, which requires no modification in the underlying ledger's design. Both solutions provide a high level of privacy, ensuring that, apart from specific limited data given to the taxation authority, no additional information - beyond the information already published on the underlying ledger - is leaked.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 29,
+    "extraction_timestamp": "2025-09-19T14:19:35.862517",
+    "extraction_time": 1.4846253395080566,
+    "source": "tavily_api_raw"
+  }
+}

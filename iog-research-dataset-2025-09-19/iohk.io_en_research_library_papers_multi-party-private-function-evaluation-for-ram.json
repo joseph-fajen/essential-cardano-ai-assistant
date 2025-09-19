@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/multi-party-private-function-evaluation-for-ram/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > Multi-party Private Function Evaluation for RAM\n\n# [Multi-party Private Function Evaluation for RAM](https://eprint.iacr.org/2022/939.pdf)\n\nJanuary/2023, IEEE Transactions on Information Forensics and Security\n\nMPC\n\nPrivate function evaluation (PFE) is a special type of MPC protocols that, in addition to the input privacy, can preserve the function privacy. In this work, we propose a PFE scheme for RAM. In particular, we first design an efficient 4-server distributed ORAM scheme with amortized communication O(log n) per access (both reading and writing). We then simulate a RISC RAM machine over the MPC platform, hiding (i) the memory access pattern, (ii) the machine state (including registers, program counter, condition flag, etc.), and (iii) the executed instructions. Our scheme can naturally support a simplified TinyRAM instruction set; if a public RAM program P with given inputs x needs to execute z instruction cycles, our PFE scheme is able to securely evaluate P(x) on private P and x within 5z + 1 online rounds. We prototype and benchmark our system for set intersection, binary search, quicksort, and heapsort algorithms. For instance, to obliviously perform the binary search algorithm on a 210 array takes 5.81s with function privacy.\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T14:19:27.079445",
+    "extraction_time": 1.3148980140686035,
+    "source": "tavily_api_raw"
+  }
+}

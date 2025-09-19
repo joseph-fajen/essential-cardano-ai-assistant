@@ -1,0 +1,11 @@
+{
+  "url": "https://iohk.io/en/research/library/papers/system-f-in-agda-for-fun-and-profit/",
+  "content": "![IOHK logo](https://ucarecdn.com/a3d997dc-1781-445f-ad59-ad0e58c24cf3/-/resize/200/)\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)English\n\n![English](https://ucarecdn.com/c7b0ab3c-801b-48c4-af03-9ddee986dba6/-/resize/10/)\n\n[Library](/en/research/library/) > System F in Agda, for fun and profit\n\n# [System F in Agda, for fun and profit](https://api.zotero.org/groups/478201/items/VZ87REAV/file/view?key=PnpP8O1NApZMMF0LVNh7I4I5)\n\nOctober/2019, MPC'19\n\nBLOCKCHAINPLUTUSSMARTCONTRACTSYSTEMF\n\nSystem F, also known as the polymorphic λ-calculus, is a typed λ-calculus independently discovered by the logician Jean-Yves Girard and the computer scientist John Reynolds. We consider Fωµ, which adds higher-order kinds and iso-recursive types. We present the first complete, intrinsically typed, executable, formalisation of System Fωµ that we are aware of. The work is motivated by verifying the core language of a smart contract system based on System Fωµ. The paper is a literate Agda script [14].\n\nView full paper\n\n![IOHK logo black and white](https://ucarecdn.com/306dc384-d0ae-479a-9b7e-2814fbeaea9b/-/resize/200/)\n\n##### Products\n\n##### Media\n\n##### Courses\n\n##### Legal\n\n##### Social",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 33,
+    "extraction_timestamp": "2025-09-19T14:19:54.805104",
+    "extraction_time": 1.2208268642425537,
+    "source": "tavily_api_raw"
+  }
+}
