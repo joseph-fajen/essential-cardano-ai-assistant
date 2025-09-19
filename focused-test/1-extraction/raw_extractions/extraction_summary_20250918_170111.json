@@ -1,0 +1,75 @@
+{
+  "extraction_summary": {
+    "started_at": "2025-09-18T17:00:32.437746",
+    "total_targets": 7,
+    "successful_extractions": 7,
+    "failed_extractions": 0,
+    "extracted_files": [
+      "essentialcardano.io_www.essentialcardano.io_faq_20250918_170037.json",
+      "essentialcardano.io_www.essentialcardano.io_glossary_20250918_170045.json",
+      "docs.cardano.org_docs.cardano.org_about-cardano_introduction_20250918_170048.json",
+      "docs.cardano.org_docs.cardano.org_new-to-cardano_what-is-a-blockchain_20250918_170057.json",
+      "docs.cardano.org_docs.cardano.org_learn_what-is-cardano_20250918_170102.json",
+      "developers.cardano.org_developers.cardano.org_docs_get-started__20250918_170106.json",
+      "developers.cardano.org_developers.cardano.org_docs_integrate-cardano__20250918_170109.json"
+    ],
+    "completed_at": "2025-09-18T17:01:11.225753"
+  },
+  "results_by_site": {
+    "essentialcardano.io": [
+      {
+        "url": "https://www.essentialcardano.io/faq",
+        "status": "success",
+        "file": "essentialcardano.io_www.essentialcardano.io_faq_20250918_170037.json",
+        "content_length": 19160,
+        "quality_score": "high"
+      },
+      {
+        "url": "https://www.essentialcardano.io/glossary",
+        "status": "success",
+        "file": "essentialcardano.io_www.essentialcardano.io_glossary_20250918_170045.json",
+        "content_length": 16771,
+        "quality_score": "high"
+      }
+    ],
+    "docs.cardano.org": [
+      {
+        "url": "https://docs.cardano.org/about-cardano/introduction",
+        "status": "success",
+        "file": "docs.cardano.org_docs.cardano.org_about-cardano_introduction_20250918_170048.json",
+        "content_length": 7579,
+        "quality_score": "high"
+      },
+      {
+        "url": "https://docs.cardano.org/new-to-cardano/what-is-a-blockchain",
+        "status": "success",
+        "file": "docs.cardano.org_docs.cardano.org_new-to-cardano_what-is-a-blockchain_20250918_170057.json",
+        "content_length": 8667,
+        "quality_score": "high"
+      },
+      {
+        "url": "https://docs.cardano.org/learn/what-is-cardano",
+        "status": "success",
+        "file": "docs.cardano.org_docs.cardano.org_learn_what-is-cardano_20250918_170102.json",
+        "content_length": 3778,
+        "quality_score": "high"
+      }
+    ],
+    "developers.cardano.org": [
+      {
+        "url": "https://developers.cardano.org/docs/get-started/",
+        "status": "success",
+        "file": "developers.cardano.org_developers.cardano.org_docs_get-started__20250918_170106.json",
+        "content_length": 12331,
+        "quality_score": "high"
+      },
+      {
+        "url": "https://developers.cardano.org/docs/integrate-cardano/",
+        "status": "success",
+        "file": "developers.cardano.org_developers.cardano.org_docs_integrate-cardano__20250918_170109.json",
+        "content_length": 7311,
+        "quality_score": "high"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "processing_info": {
+    "created_at": "2025-09-18T17:42:57.885938",
+    "total_documents": 7,
+    "approach": "individual_files_for_better_citations"
+  },
+  "upload_instructions": {
+    "method": "upload_each_file_separately",
+    "location": "/Users/josephfajen/git/essential-cardano-ai-assistant/focused-test/3-upload/globant_ready",
+    "files": [
+      "Cardano_Docs_What_is_Blockchain.json",
+      "Cardano_Docs_What_is_Cardano.json",
+      "Essential_Cardano_Glossary.json",
+      "Essential_Cardano_FAQ.json",
+      "Developer_Portal_Getting_Started.json",
+      "Cardano_Docs_Introduction.json",
+      "Developer_Portal_Integration_Guide.json"
+    ],
+    "expected_citations": [
+      "Cardano_Docs_What_is_Blockchain",
+      "Cardano_Docs_What_is_Cardano",
+      "Essential_Cardano_Glossary",
+      "Essential_Cardano_FAQ",
+      "Developer_Portal_Getting_Started",
+      "Cardano_Docs_Introduction",
+      "Developer_Portal_Integration_Guide"
+    ]
+  },
+  "documents": [
+    {
+      "citation_name": "Cardano_Docs_What_is_Blockchain",
+      "display_title": "Cardano Documentation - What is a Blockchain",
+      "source_url": "https://docs.cardano.org/new-to-cardano/what-is-a-blockchain",
+      "file_size": 6284,
+      "word_count": 505
+    },
+    {
+      "citation_name": "Cardano_Docs_What_is_Cardano",
+      "display_title": "Cardano Documentation - What is Cardano",
+      "source_url": "https://docs.cardano.org/learn/what-is-cardano",
+      "file_size": 2037,
+      "word_count": 91
+    },
+    {
+      "citation_name": "Essential_Cardano_Glossary",
+      "display_title": "Essential Cardano Glossary",
+      "source_url": "https://www.essentialcardano.io/glossary",
+      "file_size": 17886,
+      "word_count": 1370
+    },
+    {
+      "citation_name": "Essential_Cardano_FAQ",
+      "display_title": "Essential Cardano FAQ",
+      "source_url": "https://www.essentialcardano.io/faq",
+      "file_size": 20303,
+      "word_count": 1874
+    },
+    {
+      "citation_name": "Developer_Portal_Getting_Started",
+      "display_title": "Cardano Developer Portal - Getting Started",
+      "source_url": "https://developers.cardano.org/docs/get-started/",
+      "file_size": 10743,
+      "word_count": 944
+    },
+    {
+      "citation_name": "Cardano_Docs_Introduction",
+      "display_title": "Cardano Documentation - Introduction",
+      "source_url": "https://docs.cardano.org/about-cardano/introduction",
+      "file_size": 5200,
+      "word_count": 468
+    },
+    {
+      "citation_name": "Developer_Portal_Integration_Guide",
+      "display_title": "Cardano Developer Portal - Integration Guide",
+      "source_url": "https://developers.cardano.org/docs/integrate-cardano/",
+      "file_size": 6141,
+      "word_count": 357
+    }
+  ]
+}

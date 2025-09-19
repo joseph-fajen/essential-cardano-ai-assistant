@@ -1,0 +1,55 @@
+{
+  "source_info": {
+    "original_url": "https://docs.cardano.org/learn/what-is-cardano",
+    "site_category": "docs.cardano.org",
+    "extraction_date": "2025-09-18T17:01:02.720228",
+    "processing_date": "2025-09-18T17:02:21.622997"
+  },
+  "metadata": {
+    "title": "Cardano Docs",
+    "description": "",
+    "canonical_url": "https://docs.cardano.org/learn/what-is-cardano",
+    "content_type": "introduction",
+    "content_quality": "high"
+  },
+  "content": {
+    "title": "Page Not Found",
+    "introduction": "We could not find what you were looking for.\nPlease contact the owner of the site that linked you to the original URL and let them know their link is broken.\n![Cardano Logo](https://docs.cardano.org/assets/cardano-logo-blue.svg)\nMore About Cardano\n- [Cardano Explorer](https://cardanoexplorer.com/)\n- [Cardano Foundation](https://cardanofoundation.org/)\n- [Cardano.org](https://www.cardano.org/)\n- [Daedalus](https://daedaluswallet.io/)\nJoin the community\n- [Cardano Community](https://cardano.org/)\n- [Cardano Telegram](https://t.me/CardanoAnnouncements/)\n- [Cardano Forum](https://forum.cardano.org/)\n- [Cardano Blog](https://www.reddit.com/r/cardano/)\n- [IOHK](https://www.iohk.io/)\n- [IOHK blog](https://www.iohk.io/blog/)\n- [IOHK YouTube](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)\n- [Cardano Foundation YouTube](https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg)\n- [Cardano Foundation Twitter](https://twitter.com/Cardano_CF)\n- [IOG Academy](https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw)\nFollow us\n- [X](https://twitter.com/inputoutputHK)\n- [Facebook](https://www.facebook.com/iohk.io/)\n- [Youtube](https://www.youtube.com/c/IohkIo)\n- [Reddit](https://www.reddit.com/r/cardano/)",
+    "full_content": "[![Cardano logo](https://docs.cardano.org/assets/cardano-logo.svg)](https://docs.cardano.org/)[About](https://docs.cardano.org/about-cardano/introduction) [Developer resources](https://docs.cardano.org/developer-resources/welcome) [Stake pool operations](https://docs.cardano.org/stake-pool-operators/operating-a-stake-pool) [Testnets](https://docs.cardano.org/cardano-testnets/environments) [Education](https://docs.cardano.org/pioneer-programs/community-education)\n\n[Community](https://docs.cardano.org/learn/what-is-cardano#)\n\n- [Support](https://iohk.zendesk.com/hc/en-us/requests/new)\n- [Essential Cardano](https://www.essentialcardano.io/)\n- [Cardano Stack Exchange](https://cardano.stackexchange.com/)\n- [Ambassadors program](https://cardano.org/ambassadors/)\n- [Cardano Improvement Proposals (CIPs)](https://cips.cardano.org/)\n\n[Developer portal](https://developers.cardano.org/)  [Github](https://github.com/input-output-hk/cardano-documentation)\n\n# Page Not Found\n\nWe could not find what you were looking for.\n\nPlease contact the owner of the site that linked you to the original URL and let them know their link is broken.\n\n![Cardano Logo](https://docs.cardano.org/assets/cardano-logo-blue.svg)\n\nMore About Cardano\n\n- [Cardano Explorer](https://cardanoexplorer.com/)\n- [Cardano Foundation](https://cardanofoundation.org/)\n- [Cardano.org](https://www.cardano.org/)\n- [Daedalus](https://daedaluswallet.io/)\n\nJoin the community\n\n- [Cardano Community](https://cardano.org/)\n- [Cardano Telegram](https://t.me/CardanoAnnouncements/)\n- [Cardano Forum](https://forum.cardano.org/)\n- [Cardano Blog](https://www.reddit.com/r/cardano/)\n- [IOHK](https://www.iohk.io/)\n- [IOHK blog](https://www.iohk.io/blog/)\n- [IOHK YouTube](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)\n- [Cardano Foundation YouTube](https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg)\n- [Cardano Foundation Twitter](https://twitter.com/Cardano_CF)\n- [IOG Academy](https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw)\n\nFollow us\n\n- [X](https://twitter.com/inputoutputHK)\n- [Facebook](https://www.facebook.com/iohk.io/)\n- [Youtube](https://www.youtube.com/c/IohkIo)\n- [Reddit](https://www.reddit.com/r/cardano/)",
+    "word_count": 124,
+    "char_count": 2201
+  },
+  "links": {
+    "internal_links": [
+      "https://docs.cardano.org/learn/what-is-cardano#__docusaurus_skipToContent_fallback",
+      "https://docs.cardano.org/",
+      "https://docs.cardano.org/about-cardano/introduction",
+      "https://docs.cardano.org/developer-resources/welcome",
+      "https://docs.cardano.org/stake-pool-operators/operating-a-stake-pool",
+      "https://docs.cardano.org/cardano-testnets/environments",
+      "https://docs.cardano.org/pioneer-programs/community-education",
+      "https://docs.cardano.org/learn/what-is-cardano#",
+      "https://www.essentialcardano.io/",
+      "https://developers.cardano.org/"
+    ],
+    "external_links": [
+      "https://iohk.zendesk.com/hc/en-us/requests/new",
+      "https://cardano.stackexchange.com/",
+      "https://cardano.org/ambassadors/",
+      "https://cips.cardano.org/",
+      "https://github.com/input-output-hk/cardano-documentation",
+      "https://cardanoexplorer.com/",
+      "https://cardanofoundation.org/",
+      "https://www.cardano.org/",
+      "https://daedaluswallet.io/",
+      "https://cardano.org/"
+    ],
+    "source_url": "https://docs.cardano.org/learn/what-is-cardano"
+  },
+  "rag_optimization": {
+    "chunk_size": "optimal",
+    "contains_faq": false,
+    "contains_glossary": false,
+    "priority": "high"
+  }
+}

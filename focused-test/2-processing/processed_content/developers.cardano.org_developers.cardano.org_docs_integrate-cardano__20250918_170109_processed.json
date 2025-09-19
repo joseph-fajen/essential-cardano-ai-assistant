@@ -1,0 +1,70 @@
+{
+  "source_info": {
+    "original_url": "https://developers.cardano.org/docs/integrate-cardano/",
+    "site_category": "developers.cardano.org",
+    "extraction_date": "2025-09-18T17:01:09.218643",
+    "processing_date": "2025-09-18T17:02:21.626663"
+  },
+  "metadata": {
+    "title": "Integrate Cardano | Cardano Developer Portal",
+    "description": "How to integrate Cardano into existing websites and services.",
+    "canonical_url": "https://developers.cardano.org/docs/integrate-cardano/",
+    "content_type": "integration_guide",
+    "content_quality": "high"
+  },
+  "content": {
+    "title": "Integrate Cardano",
+    "introduction": "![Integrate Cardano](<Base64-Image-Removed>)",
+    "full_content": "[![Cardano Logo](https://developers.cardano.org/img/cardano-black.svg)\\\\\n**Developers**](https://developers.cardano.org/) [Get Started](https://developers.cardano.org/docs/get-started/) [Builder Tools](https://developers.cardano.org/tools) [Showcase](https://developers.cardano.org/showcase) [Dev Blog](https://developers.cardano.org/blog/) [Docs](https://docs.cardano.org/en/latest/)\n\nSearch`` `K`\n\n- [Get Started](https://developers.cardano.org/docs/integrate-cardano/#)\n\n- [Integrate Cardano](https://developers.cardano.org/docs/integrate-cardano/#)\n\n  - [Overview](https://developers.cardano.org/docs/integrate-cardano/)\n  - [Exploring Cardano wallets](https://developers.cardano.org/docs/integrate-cardano/creating-wallet-faucet)\n  - [Multi-witness transactions](https://developers.cardano.org/docs/integrate-cardano/multi-witness-transactions-cli)\n  - [Receiving payments (cardano-cli)](https://developers.cardano.org/docs/integrate-cardano/listening-for-payments-cli)\n  - [Receiving payments (cardano-wallet)](https://developers.cardano.org/docs/integrate-cardano/listening-for-payments-wallet)\n  - [Receiving payments (Blockfrost API)](https://developers.cardano.org/docs/integrate-cardano/point-of-sale)\n  - [User wallet authentication](https://developers.cardano.org/docs/integrate-cardano/user-wallet-authentication)\n  - [Exchange Integrations](https://developers.cardano.org/docs/integrate-cardano/exchange-integrations)\n- [Build with Transaction Metadata](https://developers.cardano.org/docs/integrate-cardano/#)\n\n- [Discover Native Tokens](https://developers.cardano.org/docs/integrate-cardano/#)\n\n- [Create Smart Contracts](https://developers.cardano.org/docs/integrate-cardano/#)\n\n- [Participate in Governance](https://developers.cardano.org/docs/integrate-cardano/#)\n\n- [Operate a Stake Pool](https://developers.cardano.org/docs/integrate-cardano/#)\n\n- [Contribute to the Developer Portal](https://developers.cardano.org/docs/integrate-cardano/#)\n\n- [Home page](https://developers.cardano.org/)\n- Integrate Cardano\n- Overview\n\nOn this page\n\n# Integrate Cardano\n\n![Integrate Cardano](<Base64-Image-Removed>)\n\n## Introduction [​](https://developers.cardano.org/docs/integrate-cardano/\\#introduction \"Direct link to Introduction\")\n\nHere we show you how to integrate Cardano into existing websites and services.\n\n## Integration Components [​](https://developers.cardano.org/docs/integrate-cardano/\\#integration-components \"Direct link to Integration Components\")\n\n- [Overview](https://developers.cardano.org/docs/operate-a-stake-pool/node-operations/cardano-components) of the different Cardano components.\n- [cardano-node](https://github.com/IntersectMBO/cardano-node) is the top level for the node and aggregates the other components from other packages: consensus, ledger and networking, with configuration, CLI, logging and monitoring.\n- [cardano-wallet](https://github.com/cardano-foundation/cardano-wallet) helps you manage ada. You can use it to send and receive payments on the Cardano blockchain via a http and cli interface.\n- [cardano-db-sync](https://github.com/IntersectMBO/cardano-db-sync) follows the Cardano chain and takes information from the chain and an internally maintained copy of ledger state. Data is then extracted from the chain and inserted into a PostgreSQL database.\n- [cardano-graphql](https://github.com/cardano-foundation/cardano-graphql) a cross-platform, typed, and queryable API for Cardano.\n- [cardano-rosetta](https://github.com/cardano-foundation/cardano-rosetta-java) a multi-platform implementation of [Rosetta](https://www.rosetta-api.org/) for Cardano, targeting the version defined in the [API docs](https://cardano-foundation.github.io/cardano-rosetta-java/api).\n- [cardano-addresses](https://github.com/IntersectMBO/cardano-addresses) provides mnemonic (backup phrase) creation, and conversion of a mnemonic to seed for wallet restoration, and address derivation functionalities.\n\n## Tutorials [​](https://developers.cardano.org/docs/integrate-cardano/\\#tutorials \"Direct link to Tutorials\")\n\n- [Explore Cardano wallets](https://developers.cardano.org/docs/integrate-cardano/creating-wallet-faucet) \\- learn how to create a Cardano wallet, receive test ada and create basic transactions.\n- [Multi-witness transactions](https://developers.cardano.org/docs/integrate-cardano/multi-witness-transactions-cli) \\- learn how to create transactions with multiple inputs and one output.\n- [Listening for ada payments using cardano-cli](https://developers.cardano.org/docs/integrate-cardano/listening-for-payments-cli) \\- how to listen to a specific address using cardano-cli.\n- [Listening for ada payments using cardano-wallet](https://developers.cardano.org/docs/integrate-cardano/listening-for-payments-wallet) \\- how to listen to a specific address using cardano-wallet.\n- [Testnet Faucet](https://developers.cardano.org/docs/integrate-cardano/testnet-faucet) \\- a service that provides test ada (tAda) to users of the Cardano testnets.\n- [Sample queries](https://iohk.zendesk.com/hc/en-us/articles/4402395914009-Sample-cardano-rosetta-queries) for cardano-rosetta.\n- [Sample queries](https://iohk.zendesk.com/hc/en-us/articles/900000906566-Sample-cardano-graphql-queries) for cardano-graphql.\n\n[Edit this page](https://github.com/cardano-foundation/developer-portal/edit/staging/docs/integrate-cardano/overview.md)\n\nLast updated on **Jul 31, 2025** by **bora**\n\n[Previous\\\\\n\\\\\nDeveloper Community](https://developers.cardano.org/docs/get-started/cardano-developer-community) [Next\\\\\n\\\\\nExploring Cardano wallets](https://developers.cardano.org/docs/integrate-cardano/creating-wallet-faucet)\n\n- [Introduction](https://developers.cardano.org/docs/integrate-cardano/#introduction)\n- [Integration Components](https://developers.cardano.org/docs/integrate-cardano/#integration-components)\n- [Tutorials](https://developers.cardano.org/docs/integrate-cardano/#tutorials)\n\nDeveloper Portal\n\n- [How to Contribute](https://developers.cardano.org/docs/portal-contribute/)\n- [Contributors](https://github.com/cardano-foundation/developer-portal/graphs/contributors)\n- [Releases](https://github.com/cardano-foundation/developer-portal/releases)\n- [Style Guide](https://developers.cardano.org/docs/portal-style-guide)\n- [Suggest Content](https://github.com/cardano-foundation/developer-portal/discussions/161)\n- [Raise an Issue](https://github.com/cardano-foundation/developer-portal/issues)\n\nDeveloper Community\n\n- [Stack Exchange](https://cardano.stackexchange.com/)\n- [Cardano Forum](https://forum.cardano.org/c/developers/29)\n- [Developer Ecosystem Survey](https://cardano-foundation.github.io/state-of-the-developer-ecosystem)\n- [More](https://developers.cardano.org/docs/get-started/cardano-developer-community)\n\nMore about Cardano\n\n- [Careers on Cardano](https://developers.cardano.org/docs/careers)\n- [Cardano Enterprise](https://cardano.org/enterprise)\n- [Cardano Foundation](https://www.cardanofoundation.org/)\n- [Development Updates](https://cardanoupdates.com/)\n- [Ouroboros Protocol](https://cardano.org/ouroboros/)\n\n[Terms](https://cardanofoundation.org/en/terms-and-conditions) \\| [Privacy Policy](https://cardanofoundation.org/en/privacy)",
+    "word_count": 447,
+    "char_count": 7194
+  },
+  "links": {
+    "internal_links": [
+      "https://developers.cardano.org/docs/integrate-cardano/#__docusaurus_skipToContent_fallback",
+      "https://developers.cardano.org/",
+      "https://developers.cardano.org/docs/get-started/",
+      "https://developers.cardano.org/tools",
+      "https://developers.cardano.org/showcase",
+      "https://developers.cardano.org/blog/",
+      "https://docs.cardano.org/en/latest/",
+      "https://developers.cardano.org/docs/integrate-cardano/#",
+      "https://developers.cardano.org/docs/integrate-cardano/",
+      "https://developers.cardano.org/docs/integrate-cardano/creating-wallet-faucet",
+      "https://developers.cardano.org/docs/integrate-cardano/multi-witness-transactions-cli",
+      "https://developers.cardano.org/docs/integrate-cardano/listening-for-payments-cli",
+      "https://developers.cardano.org/docs/integrate-cardano/listening-for-payments-wallet",
+      "https://developers.cardano.org/docs/integrate-cardano/point-of-sale",
+      "https://developers.cardano.org/docs/integrate-cardano/user-wallet-authentication",
+      "https://developers.cardano.org/docs/integrate-cardano/exchange-integrations",
+      "https://developers.cardano.org/docs/integrate-cardano/#introduction",
+      "https://developers.cardano.org/docs/integrate-cardano/#integration-components",
+      "https://developers.cardano.org/docs/operate-a-stake-pool/node-operations/cardano-components",
+      "https://developers.cardano.org/docs/integrate-cardano/#tutorials",
+      "https://developers.cardano.org/docs/integrate-cardano/testnet-faucet",
+      "https://developers.cardano.org/docs/get-started/cardano-developer-community",
+      "https://developers.cardano.org/docs/portal-contribute/",
+      "https://developers.cardano.org/docs/portal-style-guide",
+      "https://developers.cardano.org/docs/careers"
+    ],
+    "external_links": [
+      "https://github.com/cardano-foundation/developer-portal",
+      "https://github.com/IntersectMBO/cardano-node",
+      "https://github.com/cardano-foundation/cardano-wallet",
+      "https://github.com/IntersectMBO/cardano-db-sync",
+      "https://github.com/cardano-foundation/cardano-graphql",
+      "https://github.com/cardano-foundation/cardano-rosetta-java",
+      "https://www.rosetta-api.org/",
+      "https://cardano-foundation.github.io/cardano-rosetta-java/api",
+      "https://github.com/IntersectMBO/cardano-addresses",
+      "https://iohk.zendesk.com/hc/en-us/articles/4402395914009-Sample-cardano-rosetta-queries"
+    ],
+    "source_url": "https://developers.cardano.org/docs/integrate-cardano/"
+  },
+  "rag_optimization": {
+    "chunk_size": "large",
+    "contains_faq": false,
+    "contains_glossary": false,
+    "priority": "medium"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "document_info": {
+    "id": "cardano_docs_what_is_cardano",
+    "citation_name": "Cardano_Docs_What_is_Cardano",
+    "display_title": "Cardano Documentation - What is Cardano",
+    "content_type": "explanation",
+    "created_at": "2025-09-18T17:42:57.881478"
+  },
+  "source": {
+    "original_url": "https://docs.cardano.org/learn/what-is-cardano",
+    "site": "docs.cardano.org",
+    "extraction_date": "2025-09-18T17:01:02.720228"
+  },
+  "metadata": {
+    "title": "Cardano Documentation - What is Cardano",
+    "description": "",
+    "canonical_url": "https://docs.cardano.org/learn/what-is-cardano",
+    "word_count": 91,
+    "content_quality": "brief"
+  },
+  "content": "[![Cardano logo](https://docs.cardano.org/assets/cardano-logo.svg)](https://docs.cardano.org/)[About](https://docs.cardano.org/about-cardano/introduction) [Developer resources](https://docs.cardano.org/developer-resources/welcome) [Stake pool operations](https://docs.cardano.org/stake-pool-operators/operating-a-stake-pool) [Testnets](https://docs.cardano.org/cardano-testnets/environments) [Education](https://docs.cardano.org/pioneer-programs/community-education)\n\n[Community](https://docs.cardano.org/learn/what-is-cardano#)\n\n[Developer portal](https://developers.cardano.org/)  [Github](https://github.com/input-output-hk/cardano-documentation)\n\n# Page Not Found\n\nWe could not find what you were looking for.\n\nPlease contact the owner of the site that linked you to the original URL and let them know their link is broken.\n\n![Cardano Logo](https://docs.cardano.org/assets/cardano-logo-blue.svg)\n\nMore About Cardano\n\nJoin the community\n\nFollow us\n\nSubscribe to our newsletter\n\nEmail\\*\n\n- By checking this box, I agree to allow IOG to store and process the personal data submitted on this form in accordance with the IOG [Privacy Policy](https://static.iohk.io/terms/iog-privacy-policy.pdf)\\*",
+  "tags": [
+    "cardano_docs_what_is_cardano",
+    "docs_cardano_org",
+    "explanation",
+    "essential_cardano_focused_test"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/josephfajen/git/cardano-documentation/docs/about-cardano/**)",
+      "Read(//Users/josephfajen/git/cardano-documentation/**)",
+      "WebFetch(domain:docs.globant.ai)",
+      "Read(//Users/josephfajen/git/CF-developer-portal/developer-portal/docs/**)",
+      "Read(//Users/josephfajen/git/CF-developer-portal/developer-portal/blog/**)",
+      "WebFetch(domain:www.essentialcardano.io)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

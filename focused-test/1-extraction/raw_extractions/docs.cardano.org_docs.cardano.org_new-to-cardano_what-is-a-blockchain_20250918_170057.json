@@ -1,0 +1,89 @@
+{
+  "test_info": {
+    "category": "docs.cardano.org",
+    "target_url": "https://docs.cardano.org/new-to-cardano/what-is-a-blockchain",
+    "extracted_at": "2025-09-18T17:00:57.051350",
+    "test_purpose": "Focused test for URL accuracy and content quality"
+  },
+  "url_info": {
+    "requested_url": "https://docs.cardano.org/new-to-cardano/what-is-a-blockchain",
+    "final_url": "https://docs.cardano.org/new-to-cardano/what-is-a-blockchain",
+    "status": "success"
+  },
+  "metadata": {
+    "title": "What is a blockchain? | Cardano Docs",
+    "description": "A blockchain is a type of database or ledger that is duplicated and distributed",
+    "author": "",
+    "keywords": "",
+    "og_title": "What is a blockchain? | Cardano Docs",
+    "og_description": "A blockchain is a type of database or ledger that is duplicated and distributed"
+  },
+  "content": {
+    "markdown": "Close this dialog\n\nThis website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: [Privacy Policy](https://static.iohk.io/terms/iog-privacy-policy.pdf) [Cookie Policy](https://static.iohk.io/terms/iog-cookie-policy.pdf)\n\nManage Preferences\n\nClose Cookie Preferences\n\n[Skip to main content](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-blockchain#__docusaurus_skipToContent_fallback)\n\n[![Cardano logo](https://docs.cardano.org/assets/cardano-logo.svg)](https://docs.cardano.org/)[About](https://docs.cardano.org/about-cardano/introduction) [Developer resources](https://docs.cardano.org/developer-resources/welcome) [Stake pool operations](https://docs.cardano.org/stake-pool-operators/operating-a-stake-pool) [Testnets](https://docs.cardano.org/cardano-testnets/environments) [Education](https://docs.cardano.org/pioneer-programs/community-education)\n\n[Community](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-blockchain#)\n\n- [Support](https://iohk.zendesk.com/hc/en-us/requests/new)\n- [Essential Cardano](https://www.essentialcardano.io/)\n- [Cardano Stack Exchange](https://cardano.stackexchange.com/)\n- [Ambassadors program](https://cardano.org/ambassadors/)\n- [Cardano Improvement Proposals (CIPs)](https://cips.cardano.org/)\n\n[Developer portal](https://developers.cardano.org/)  [Github](https://github.com/input-output-hk/cardano-documentation)\n\nSearch...\n\n- [Introduction](https://docs.cardano.org/about-cardano/introduction)\n- [New to Cardano?](https://docs.cardano.org/about-cardano/new-to-cardano)\n\n  - [What is a blockchain?](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-blockchain)\n  - [What is a cryptocurrency?](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-cryptocurrency)\n  - [Proof of stake](https://docs.cardano.org/about-cardano/new-to-cardano/proof-of-stake)\n  - [Cardano tracking tools](https://docs.cardano.org/about-cardano/new-to-cardano/cardano-tracking-tools)\n  - [Types of wallets](https://docs.cardano.org/about-cardano/new-to-cardano/types-of-wallets)\n  - [How to delegate?](https://docs.cardano.org/about-cardano/new-to-cardano/how-to-delegate)\n  - [Staking calculator](https://docs.cardano.org/about-cardano/new-to-cardano/staking-calculator)\n  - [What is a smart contract?](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-smart-contract)\n- [Learn](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-blockchain#)\n\n- [Explore more](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-blockchain#)\n\n- [Cardano evolution](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-blockchain#)\n\n- [Governance overview](https://docs.cardano.org/about-cardano/governance-overview)\n- [Contribution guidelines](https://docs.cardano.org/about-cardano/contributions)\n- [Glossary](https://www.essentialcardano.io/glossary?sort=alphabetical)\n- [FAQs](https://www.essentialcardano.io/faq)\n\n- [Home page](https://docs.cardano.org/)\n- [New to Cardano?](https://docs.cardano.org/about-cardano/new-to-cardano)\n- What is a blockchain?\n\n[Edit this page](https://github.com/input-output-hk/cardano-documentation/blob/master/docs/about-cardano/02-new-to-cardano/01-what-is-a-blockchain.mdx)\n\n# What is a blockchain?\n\nA blockchain is a type of database or ledger that is duplicated and distributed\nto all participants within the blockchain network. It is made up of a set of\ninterconnected nodes that store data or items of value in blocks. These blocks\nare validated, cryptograhpically secured, and linked to each other in\nchronological order in a chain. The information stored in the validated blocks\nof the blockchain cannot be altered later on. It is permanently inscribed in the\ndistributed ledger.\n\nBlockchain technology, otherwise known as distributed ledger technology (DLT),\nprovides a decentralized and accessible data structure for various records. Such\nrecords might include financial payment and transaction details, as well as\nother types of information – from commerce to internet of things (IoT) records.\n\nAs a blockchain stores data in a decentralized manner, it is independent of\ncentralized, controlling entities, or middlemen. This provides enhanced\ntransparency of data storage and its management. An important feature of\nblockchain is that it stores records immutably, which means that they cannot be\nchanged, forged, or deleted, as this will break the chain of records.\n\nBlockchain can be compared to a book of permanent records, where every page acts\nas an information holder:\n\n![chain-of-blocks](https://docs.cardano.org/assets/images/chain-of-blocks-cc81268ae211fa0d21acffddaec12bba.png)\n\nLet’s take a closer look at existing data storage solutions to understand the\ndifference between these systems:\n\n![data-storage](https://ucarecdn.com/af01444d-6881-4aab-a0a9-ec2ff6a0ea40/)\n\n- **Centralized systems** — all data entries and activities are usually managed\nusing one central server. This increases the risk of a single point of\nfailure, and also means that the controlling entity (such as banks or\ngovernment institutions, for example) act as decision-makers.\n- **Distributed systems** — generally rely on multiple server nodes, each of\nwhich serves a subset of the total end clients.\n- **Decentralized systems** — all data and records of transactions are stored\nnot in one server, but in a system of interconnected, independent nodes and\nterminals. This ensures independence from centralized entities, transparency,\nand security.\n\nFinally, blockchains not only provide an immutable and secure database but also\nact as a functional environment to transact funds, create digital currencies,\nand process complex deals using digital agreements\n[(smart contracts)](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-smart-contract).\n\n[Previous\\\\\n\\\\\nNew to Cardano?](https://docs.cardano.org/about-cardano/new-to-cardano) [Next\\\\\n\\\\\nWhat is a cryptocurrency?](https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-cryptocurrency)\n\n![Cardano Logo](https://docs.cardano.org/assets/cardano-logo-blue.svg)\n\nMore About Cardano\n\n- [Cardano Explorer](https://cardanoexplorer.com/)\n- [Cardano Foundation](https://cardanofoundation.org/)\n- [Cardano.org](https://www.cardano.org/)\n- [Daedalus](https://daedaluswallet.io/)\n\nJoin the community\n\n- [Cardano Community](https://cardano.org/)\n- [Cardano Telegram](https://t.me/CardanoAnnouncements/)\n- [Cardano Forum](https://forum.cardano.org/)\n- [Cardano Blog](https://www.reddit.com/r/cardano/)\n- [IOHK](https://www.iohk.io/)\n- [IOHK blog](https://www.iohk.io/blog/)\n- [IOHK YouTube](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)\n- [Cardano Foundation YouTube](https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg)\n- [Cardano Foundation Twitter](https://twitter.com/Cardano_CF)\n- [IOG Academy](https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw)\n\nFollow us\n\n- [X](https://twitter.com/inputoutputHK)\n- [Facebook](https://www.facebook.com/iohk.io/)\n- [Youtube](https://www.youtube.com/c/IohkIo)\n- [Reddit](https://www.reddit.com/r/cardano/)\n\nSubscribe to our newsletter\n\nEmail\\*\n\n- By checking this box, I agree to allow IOG to store and process the personal data submitted on this form in accordance with the IOG [Privacy Policy](https://static.iohk.io/terms/iog-privacy-policy.pdf)\\*\n\nCardano is an open-source project. Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange. Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks.\n\nThis work is licensed under CC BY 4.0\n\n© IOHK 2015-2025 - IOHK Supported Project\n\n- [IOHK Privacy Policy](https://static.iohk.io/terms/iog-privacy-policy.pdf)\n- [IOHK Terms & Conditions](https://static.iohk.io/terms/iog-terms-and-conditions.pdf)",
+    "html": "",
+    "text_length": 8667,
+    "html_length": 0
+  },
+  "links": {
+    "internal_links": [
+      "https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-blockchain#__docusaurus_skipToContent_fallback",
+      "https://docs.cardano.org/",
+      "https://docs.cardano.org/about-cardano/introduction",
+      "https://docs.cardano.org/developer-resources/welcome",
+      "https://docs.cardano.org/stake-pool-operators/operating-a-stake-pool",
+      "https://docs.cardano.org/cardano-testnets/environments",
+      "https://docs.cardano.org/pioneer-programs/community-education",
+      "https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-blockchain#",
+      "https://www.essentialcardano.io/",
+      "https://developers.cardano.org/",
+      "https://docs.cardano.org/about-cardano/new-to-cardano",
+      "https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-blockchain",
+      "https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-cryptocurrency",
+      "https://docs.cardano.org/about-cardano/new-to-cardano/proof-of-stake",
+      "https://docs.cardano.org/about-cardano/new-to-cardano/cardano-tracking-tools",
+      "https://docs.cardano.org/about-cardano/new-to-cardano/types-of-wallets",
+      "https://docs.cardano.org/about-cardano/new-to-cardano/how-to-delegate",
+      "https://docs.cardano.org/about-cardano/new-to-cardano/staking-calculator",
+      "https://docs.cardano.org/about-cardano/new-to-cardano/what-is-a-smart-contract",
+      "https://docs.cardano.org/about-cardano/governance-overview",
+      "https://docs.cardano.org/about-cardano/contributions",
+      "https://www.essentialcardano.io/glossary?sort=alphabetical",
+      "https://www.essentialcardano.io/faq"
+    ],
+    "external_links": [
+      "https://static.iohk.io/terms/iog-privacy-policy.pdf",
+      "https://static.iohk.io/terms/iog-cookie-policy.pdf",
+      "https://iohk.zendesk.com/hc/en-us/requests/new",
+      "https://cardano.stackexchange.com/",
+      "https://cardano.org/ambassadors/",
+      "https://cips.cardano.org/",
+      "https://github.com/input-output-hk/cardano-documentation",
+      "https://github.com/input-output-hk/cardano-documentation/blob/master/docs/about-cardano/02-new-to-cardano/01-what-is-a-blockchain.mdx",
+      "https://cardanoexplorer.com/",
+      "https://cardanofoundation.org/",
+      "https://www.cardano.org/",
+      "https://daedaluswallet.io/",
+      "https://cardano.org/",
+      "https://t.me/CardanoAnnouncements/",
+      "https://forum.cardano.org/",
+      "https://www.reddit.com/r/cardano/",
+      "https://www.iohk.io/",
+      "https://www.iohk.io/blog/",
+      "https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w",
+      "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg",
+      "https://twitter.com/Cardano_CF",
+      "https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw",
+      "https://twitter.com/inputoutputHK",
+      "https://www.facebook.com/iohk.io/",
+      "https://www.youtube.com/c/IohkIo",
+      "https://static.iohk.io/terms/iog-terms-and-conditions.pdf"
+    ],
+    "total_links": 49
+  },
+  "extraction_quality": {
+    "has_title": true,
+    "has_content": true,
+    "has_links": true,
+    "content_score": "high"
+  }
+}
