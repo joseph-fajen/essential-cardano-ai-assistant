@@ -1,0 +1,59 @@
+# Environment variables (contains API keys)
+.env
+.env.local
+.env.production
+.env.staging
+
+# API keys and secrets
+*.key
+*.pem
+secrets/
+config/secrets/
+
+# Extracted content (can be large)
+extracted_content/
+comprehensive_extraction/
+content_export/
+
+# Progress and temporary files
+progress/
+temp/
+*.tmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+logs/
+
+# Node modules (if any)
+node_modules/
+
+# MacOS
+*.dmg
