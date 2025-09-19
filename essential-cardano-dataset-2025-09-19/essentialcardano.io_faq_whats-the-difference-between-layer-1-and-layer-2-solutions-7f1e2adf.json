@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/whats-the-difference-between-layer-1-and-layer-2-solutions-7f1e2adf",
+  "content": "![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n# What’s the difference between layer 1 and layer 2 solutions?\n\n[Layer 1](https://www.essentialcardano.io/glossary/layer-1), which is the main blockchain ledger, operates on the underlying consensus protocol. This layer includes protocol parameters that control capabilities such as scalability and throughput. [Layer 2](https://www.essentialcardano.io/glossary/layer-2) is an additional, off-chain protocol that works on top of the layer 1 blockchain. Parties can securely transfer funds from the blockchain into an off-chain protocol, settle transactions in this protocol independently of the underlying chain, and safely transfer funds back to the underlying chain as needed. Layer 2 protocols improve overall throughput and scalability because they reduce network congestion.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T10:04:05.524392",
+    "extraction_time": 1.3379261493682861,
+    "source": "tavily_api_raw"
+  }
+}

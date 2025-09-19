@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/gas",
+  "content": "![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n# Gas\n\nThe fee required to execute a transaction or contract on the proof-of-work network. On Ethereum, for example, gas is paid in ether, the native cryptocurrency of Ethereum. Gas fee is determined by the network's demand and supply, and is paid to incentivize miners to process and validate transactions. [Gas fees](https://ethereum.org/en/developers/docs/gas/) are essential to the network's efficiency and security.\n\nThere is no gas on Cardano since it is a proof-of-stake blockchain. Read more about Cardano's [fees](https://www.essentialcardano.io/article/how-cardanos-transaction-fees-work) and [transaction determinism here](https://www.essentialcardano.io/article/no-surprises-transaction-validation-on-cardano).\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 35,
+    "extraction_timestamp": "2025-09-19T10:04:37.157935",
+    "extraction_time": 1.4594051837921143,
+    "source": "tavily_api_raw"
+  }
+}

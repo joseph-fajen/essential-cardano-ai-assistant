@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/ouroboros-genesis-21db7b0a",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# Ouroboros Genesis\n\nThis version of [Ouroboros](https://www.essentialcardano.io/glossary/ouroboros) is planned to be deployed in 2023. [Genesis](https://iohk.io/en/research/library/papers/ouroboros-genesis-composable-proof-of-stake-blockchains-with-dynamic-availability/) adds a novel chain selection rule that enables new or offline parties to safely rejoin the blockchain without a need to do so from the genesis block. This provides the same security guarantees and simplifies the bootstrapping procedure for [nodes](https://www.essentialcardano.io/glossary/node) that were offline for a long period of time.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 38,
+    "extraction_timestamp": "2025-09-19T10:04:50.795340",
+    "extraction_time": 1.3077030181884766,
+    "source": "tavily_api_raw"
+  }
+}

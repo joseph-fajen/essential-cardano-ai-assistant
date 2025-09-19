@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/which-language-is-used-for-cardano-b073045d",
+  "content": "![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n# Which language is used for Cardano?\n\nHaskell is the programming language that lies at the core of Cardano development. It is a 'functional' programming language, which means that all computations are treated as mathematical functions. The logic of a program is first described as an equation for testing using mathematical tools. Once correct, coding can begin.\n\n## 1 contributors\n\n![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T10:04:05.524392",
+    "extraction_time": 1.3379261493682861,
+    "source": "tavily_api_raw"
+  }
+}

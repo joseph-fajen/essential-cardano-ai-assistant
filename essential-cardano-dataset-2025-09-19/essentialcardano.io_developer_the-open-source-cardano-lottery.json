@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/developer/the-open-source-cardano-lottery",
+  "content": "# The Open Source Cardano Lottery\n\n![](https://lh3.googleusercontent.com/a/AATXAJyBXokN_ySd66EpiyXzZm-Y4JZ0THPyvpfcixY2=s96-c)\n![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271920%27%20height=%271080%27/%3e)\n![The Open Source Cardano Lottery](/_next/image?url=https%3A%2F%2Fucarecdn.com%2F4f75c8c0-06bd-474e-869c-cbb2762233f3%2F&w=3840&q=75)\n\nThe Open Source Cardano Lottery is a smart contract lottery built using Plutus(<https://www.essentialcardano.io/glossary/plutus>) for the Cardano Blockchain. It is a non-custodial lottery where all interactions with the lottery are done directly with smart contracts(<https://www.essentialcardano.io/glossary/smart-contracts>) and do not require any 3rd party to manage and hold any lottery funds. Equally important is that the lotto administrator only has the ability to run the lottery and does not have access to the jackpot or treasury to prevent any unauthorized access.\n\n<https://github.com/lley154/cardano-lottery>\n\nThe repo has lots of code examples that work on the testnet. In particular some key areas of interest may be:\n\nan onchain pseudo random number validator\n\na PAB created from bash shell scripts\n\nworking state machine code\n\nlogic splitting between 2 validators by using thread tokens for communication\n\nperformance enhancements to fit the plutus code within the max 16KB TX size limits\n\nand other tips and tricks\n\nEnjoy!\n\n## 2 contributors\n\n![](https://lh3.googleusercontent.com/a/AATXAJyBXokN_ySd66EpiyXzZm-Y4JZ0THPyvpfcixY2=s96-c)\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n\n## Would you like to suggest changes to this developer resource?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 15,
+    "extraction_timestamp": "2025-09-19T10:03:02.107256",
+    "extraction_time": 2.458281993865967,
+    "source": "tavily_api_raw"
+  }
+}

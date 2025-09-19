@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/zk-rollups-zero-knowledge-rollups",
+  "content": "![](https://avatars.githubusercontent.com/u/102920475?v=4)\n\n# ZK rollups: zero-knowledge rollups\n\nA [layer 2](https://www.essentialcardano.io/glossary/layer-2) [scaling](https://www.essentialcardano.io/glossary/scalability) technique that allows blockchains to validate [transactions](https://www.essentialcardano.io/glossary/transaction-tx) faster while keeping [fee](https://www.essentialcardano.io/glossary/fee) prices low.\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://avatars.githubusercontent.com/u/52454074?v=4)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 42,
+    "extraction_timestamp": "2025-09-19T10:05:08.968547",
+    "extraction_time": 1.8802189826965332,
+    "source": "tavily_api_raw"
+  }
+}

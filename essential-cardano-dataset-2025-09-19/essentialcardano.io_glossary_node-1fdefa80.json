@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/node-1fdefa80",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# Node\n\nOne of the computer servers or wallets making up the Cardano network. Each node holds a copy of the blockchain ledger and connects with other participants to help maintain network operations. A [stake pool operator](https://www.essentialcardano.io/glossary/stake-pool-operator) runs different types of nodes: a block-producing node and several relay nodes that are connected with each other. See [Networking](https://www.essentialcardano.io/glossary/networking).\n\n## 3 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 37,
+    "extraction_timestamp": "2025-09-19T10:04:46.470831",
+    "extraction_time": 1.5619089603424072,
+    "source": "tavily_api_raw"
+  }
+}

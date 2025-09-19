@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/what-is-staking-and-delegation-on-cardano-716f9c75",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# What is staking and delegation on Cardano?\n\nEvery ada holder owns a [stake](https://www.essentialcardano.io/faq/what-is-stake) that is based on the amount of ada they have. A developer or a tech-savvy person can set up a [stake pool](https://www.essentialcardano.io/faq/what-is-a-stake-pool) and run it to help verify Cardano transactions and create new blocks getting rewards for this. Everyone can delegate their funds to a stake pool to earn a share of these rewards. There is no risk to this and no ada leaves your wallet. Ada can be delegated from your wallet or spent at any time.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T10:04:01.155477",
+    "extraction_time": 1.2716519832611084,
+    "source": "tavily_api_raw"
+  }
+}

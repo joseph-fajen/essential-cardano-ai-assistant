@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/what-are-native-tokens-fc4dd384",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# What are native tokens?\n\n'Native tokens' is Cardano’s feature that enables the creation of multi-purposed assets. Users can create their own tokens that interact with the blockchain just like ada. Tokens can be [fungible](https://www.essentialcardano.io/faq/what-does-fungible-mean) (interchangeable) or [non-fungible](https://www.essentialcardano.io/faq/what-is-a-non-fungible-token-nft) (unique), and act as payment units, rewards, tradable assets, or information holders. There is no need to create smart contracts to handle native tokens, which removes a layer of added complexity and potential for errors.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 25,
+    "extraction_timestamp": "2025-09-19T10:03:52.564607",
+    "extraction_time": 1.5291173458099365,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/sanchonet",
+  "content": "![](https://avatars.githubusercontent.com/u/158074695?v=4)\n\n# SanchoNet\n\nSanchoNet is the testnet for rolling out groundbreaking governance features for the Cardano blockchain, aligning with the comprehensive CIP-1694 specifications. SanchoNet is a vibrant, inclusive, and community-driven platform that stands apart from other testnets. Following a phased delivery roadmap, SanchoNet will expand to include a range of governance features, including submitting governance actions, while providing a valuable educational resource for users who want to learn more about Cardano's governance system. Every community member is invited to join SanchoNet and actively contribute to shaping Cardano's governance future. Get started by visiting the [SanchoNet network](https://sancho.network/).\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://avatars.githubusercontent.com/u/158074695?v=4)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 39,
+    "extraction_timestamp": "2025-09-19T10:04:55.448130",
+    "extraction_time": 1.6387860774993896,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/what-is-dapp-certification-a99057f2",
+  "content": "![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n# What is DApp certification?\n\n[DApp certification](https://iohk.io/en/blog/posts/2021/09/22/bringing-certified-dapps-to-cardano/) and assurance help ensure that products meet certain quality standards. While voluntary (Cardano is open and decentralized), certification benefits both developers and users because it includes security checks that help with auditing smart contracts. There are [three levels of certification](https://iohk.io/en/blog/posts/2021/10/25/new-certification-levels-for-smart-contracts-on-cardano/), each of which is complementary to the others.\n\n## 1 contributors\n\n![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T10:04:01.155477",
+    "extraction_time": 1.2716519832611084,
+    "source": "tavily_api_raw"
+  }
+}

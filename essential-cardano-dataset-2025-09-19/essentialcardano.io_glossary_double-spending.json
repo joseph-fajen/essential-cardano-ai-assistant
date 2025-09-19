@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/double-spending",
+  "content": "![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n# Double spending\n\nThe act of spending the same coin/token more than once. It is a potential issue in decentralized digital payment systems where transactions are recorded on a blockchain or a similar distributed ledger.\n\nOn the Cardano blockchain, double spending cannot occur due to the [Extended UTXO](https://www.essentialcardano.io/glossary/eutxo) accounting model.\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 33,
+    "extraction_timestamp": "2025-09-19T10:04:27.805800",
+    "extraction_time": 1.357374906539917,
+    "source": "tavily_api_raw"
+  }
+}

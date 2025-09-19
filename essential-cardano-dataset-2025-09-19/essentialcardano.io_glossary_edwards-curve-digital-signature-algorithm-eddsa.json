@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/edwards-curve-digital-signature-algorithm-eddsa",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# Edwards-curve Digital Signature Algorithm (EdDSA)\n\nCardano uses the Edwards-curve Digital Signature Algorithm (EdDSA) with elliptic curve Curve25519 as its base curve (aka. Ed25519). This gives fast signature verification and small signature sizes, which helps to improve the overall performance and security of the blockchain. Additionally, Ed25519 is designed to be resistant to certain types of cryptographic attacks, making it a more secure choice.\n\nHowever, to ensure better [interoperability](https://www.essentialcardano.io/glossary/interoperability) between blockchains and ease of use for developers, [IOG](https://www.essentialcardano.io/glossary/iog) is adding new built-ins to [Plutus](https://www.essentialcardano.io/glossary/plutus) to support [SECP](https://www.essentialcardano.io/glossary/secp) elliptic curves.\n\n## 1 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 33,
+    "extraction_timestamp": "2025-09-19T10:04:27.805800",
+    "extraction_time": 1.357374906539917,
+    "source": "tavily_api_raw"
+  }
+}

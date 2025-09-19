@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/how-to-create-cardano-native-tokens-b70a805c",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# How to create Cardano native tokens?\n\nUnlike Ethereum-based tokens created using smart contracts, Cardano native tokens run on the same blockchain layer as the ada cryptocurrency. Cardano’s architecture makes native tokens more secure and reduces the fees associated with transactions. Go to [developers.cardano.org](https://developers.cardano.org/docs/native-tokens/) to find out how to create tokens on Cardano.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 24,
+    "extraction_timestamp": "2025-09-19T10:03:47.996541",
+    "extraction_time": 1.3446471691131592,
+    "source": "tavily_api_raw"
+  }
+}

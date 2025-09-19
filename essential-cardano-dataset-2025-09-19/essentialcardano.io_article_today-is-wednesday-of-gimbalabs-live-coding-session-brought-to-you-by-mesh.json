@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/article/today-is-wednesday-of-gimbalabs-live-coding-session-brought-to-you-by-mesh",
+  "content": "# Gimbalabs Live Coding session, brought to you by: Mesh\n\n![](https://ucarecdn.com/525aaddb-0680-430e-9e83-696922568ba4/)\n![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271366%27%20height=%27768%27/%3e)\n![Gimbalabs Live Coding session, brought to you by: Mesh](/_next/image?url=https%3A%2F%2Fucarecdn.com%2F4c513a80-c877-47a0-a1eb-a2d8c0911cf5%2F&w=3840&q=75)\n\n Live Coding takes place Wednesday and Thursday, from 14:30 UTC.\n\n![](https://ucarecdn.com/506787d4-3669-4286-8f6f-bdea09ebb4ed/)  \nLearning Target of today's post: exploring how a marketplace built on Cardano works. Let's do it!\n\n![](https://ucarecdn.com/506787d4-3669-4286-8f6f-bdea09ebb4ed/)\n\n1. Go to <https://meshjs.dev/smart-contracts/marketplace>\n\n2. Once there, go to \"Try the demo\". You have to connect a \"preprod\" wallet. Don't know how to do it? No worries, go to <https://plutuspbl.io/modules/100/1001>\n\n![](https://ucarecdn.com/078e2390-f900-467c-9897-8a5525ca9b42/)\n\n![](https://ucarecdn.com/078e2390-f900-467c-9897-8a5525ca9b42/)\n\n3. Go and try \"List Asset\"\n\n4. Go and try \"Buy Asset\"\n\n5. Go to \"Update Listing\"\n\n6. Go to \"Cancel Listing\"\n\nAnd that's it. Easy peasy. Congratulations!\n\nNow learn some more. Come to Live Coding, [here](https://gimbalabs.com/calendar).\n\n![](https://ucarecdn.com/8f7920c2-35ca-44f1-b24c-80217274071b/)\n\n![](https://ucarecdn.com/8f7920c2-35ca-44f1-b24c-80217274071b/)\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://ucarecdn.com/525aaddb-0680-430e-9e83-696922568ba4/)\n\n## Would you like to suggest changes to this article?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 13,
+    "extraction_timestamp": "2025-09-19T10:02:51.522418",
+    "extraction_time": 2.0161800384521484,
+    "source": "tavily_api_raw"
+  }
+}

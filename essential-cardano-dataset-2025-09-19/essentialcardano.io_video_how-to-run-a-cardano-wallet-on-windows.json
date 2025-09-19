@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/video/how-to-run-a-cardano-wallet-on-windows",
+  "content": "# How to run a Cardano Wallet on Windows\n\n![](https://lh3.googleusercontent.com/a-/AOh14Gj4sqgAG-DE_L1vCzJpGgndya4HTQL-oSh7A6BXUg=s96-c)\n\nA quick guide on how to install and run a Cardano Wallet / Web API on Windows server. Cardano Wallet requires a running node. Refer to my other video on how to run a Cardano Node here: <https://www.essentialcardano.io/video/how-to-run-cardano-node-on-windows>\n\n## 1 contributors\n\n![](https://lh3.googleusercontent.com/a-/AOh14Gj4sqgAG-DE_L1vCzJpGgndya4HTQL-oSh7A6BXUg=s96-c)\n\n## Would you like to suggest changes to this video?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 48,
+    "extraction_timestamp": "2025-09-19T10:05:36.831110",
+    "extraction_time": 2.3833069801330566,
+    "source": "tavily_api_raw"
+  }
+}

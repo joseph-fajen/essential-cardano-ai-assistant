@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/how-do-i-write-a-smart-contract-36e90a5b",
+  "content": "![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n# How do I write a smart contract?\n\nSmart contracts are usually written by developers using a dedicated language. In Cardano, there is Plutus, and Marlowe for non-programmers. Haskell can also be used. Visit [developers.cardano.org](https://developers.cardano.org/docs/smart-contracts/) to find out more about writing smart contracts.\n\n## 1 contributors\n\n![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 24,
+    "extraction_timestamp": "2025-09-19T10:03:47.996541",
+    "extraction_time": 1.3446471691131592,
+    "source": "tavily_api_raw"
+  }
+}

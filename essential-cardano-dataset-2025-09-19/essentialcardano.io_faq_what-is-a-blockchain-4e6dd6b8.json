@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/what-is-a-blockchain-4e6dd6b8",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# What is a blockchain?\n\nA blockchain, also known as a distributed ledger, is a digital ‘book’ of records. Unlike traditional financial systems, blockchains are decentralized and are not regulated by any central authority. In a blockchain, nodes (people's computers) agree on the validity of any given transaction using what is called a [consensus](https://www.essentialcardano.io/faq/what-is-consensus) mechanism. Transactions are grouped together and stored in blocks that are added to the chain in set periods of time called [slots](https://www.essentialcardano.io/faq/what-are-blocks-slots-and-epochs). These transactions are visible to everyone, and once validated, records cannot be altered. This immutability guarantees transparency and trust between users.\n\nThe advantages of decentralized systems over traditional ones are the following:\n\n![](https://ucarecdn.com/c6d1f1f0-d06c-47a4-8884-d66ece1ea458/)\n\n![](https://ucarecdn.com/c6d1f1f0-d06c-47a4-8884-d66ece1ea458/)\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 25,
+    "extraction_timestamp": "2025-09-19T10:03:52.564607",
+    "extraction_time": 1.5291173458099365,
+    "source": "tavily_api_raw"
+  }
+}

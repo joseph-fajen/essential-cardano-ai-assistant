@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/how-to-get-started-with-marlowe",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# How to get started with Marlowe?\n\nMarlowe offers the following resources to help you get started. If you are already familiar with the Marlowe environment, take a look at the following:\n\nLearn how to write and deploy smart contracts with Marlowe from basics to production by going through the [tutorial concepts, guides, playbooks, and videos here](https://docs.marlowe.iohk.io/tutorials).\n\nFind out more about the [Marlowe Playground](https://docs.marlowe.iohk.io/docs/developer-tools/playground).\n\nLeverage the [Marlowe starter kit](https://docs.marlowe.iohk.io/docs/examples/examples-starter-kit).\n\n## 1 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 24,
+    "extraction_timestamp": "2025-09-19T10:03:47.996541",
+    "extraction_time": 1.3446471691131592,
+    "source": "tavily_api_raw"
+  }
+}

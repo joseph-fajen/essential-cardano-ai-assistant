@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/formal-verification-e09d2bef",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# Formal verification\n\nThe process of checking whether system design and the underlying algorithms are correct and satisfy the given requirements and properties. It is based on the formal methods of mathematics and is an integral part of [IOG](https://www.essentialcardano.io/glossary/iog) research. The core parts of Cardano are written in [Haskell](https://www.essentialcardano.io/glossary/haskell).\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 34,
+    "extraction_timestamp": "2025-09-19T10:04:32.681802",
+    "extraction_time": 1.855586051940918,
+    "source": "tavily_api_raw"
+  }
+}

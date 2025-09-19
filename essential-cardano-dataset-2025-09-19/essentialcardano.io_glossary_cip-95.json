@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/cip-95",
+  "content": "![](https://avatars.githubusercontent.com/u/158074695?v=4)\n\n# CIP-95\n\nAn extension of CIP-30 that facilitates the recognition of whether a key belongs to a delegate representative (DRep). This governance enhancement allows decentralized applications (DApps) to recognize the role of users registered as DReps on-chain without directly identifying the DReps themselves.\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://avatars.githubusercontent.com/u/158074695?v=4)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T10:04:23.431011",
+    "extraction_time": 1.1947238445281982,
+    "source": "tavily_api_raw"
+  }
+}

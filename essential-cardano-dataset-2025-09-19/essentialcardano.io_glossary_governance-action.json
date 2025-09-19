@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/governance-action",
+  "content": "![](https://avatars.githubusercontent.com/u/158074695?v=4)\n\n# Governance action\n\nA governance action is a proposal that gets submitted on-chain for voting. It is an on-chain event triggered by a transaction. Governance actions have an expiration period, after which the action cannot be enacted.\n\nAny ada holder can submit a governance action for a vote on-chain. Once the action is recorded on the ledger, voters submit voting transactions.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://avatars.githubusercontent.com/u/158074695?v=4)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 35,
+    "extraction_timestamp": "2025-09-19T10:04:37.157935",
+    "extraction_time": 1.4594051837921143,
+    "source": "tavily_api_raw"
+  }
+}

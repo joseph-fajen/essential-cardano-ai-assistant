@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/developer/multi-signature-wallet-roundtable-by-adaocommunity",
+  "content": "# RoundTable wallet by ADAOCommunity\n\n![](https://lh3.googleusercontent.com/a-/AOh14Ggroyfv0NXOd7gS9MNKZcp0Y7O41rq2dFtvFRZ-=s96-c)\n\nA multisig wallet in web interface, with \\*voluntary\\* signature coordination using network of [gun.js](//gun.js) peers, released open-source by [@ADAOcommunity](https://github.com/ADAOcommunity).\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://lh3.googleusercontent.com/a-/AOh14Ggroyfv0NXOd7gS9MNKZcp0Y7O41rq2dFtvFRZ-=s96-c)\n\n## Would you like to suggest changes to this developer resource?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 15,
+    "extraction_timestamp": "2025-09-19T10:03:02.107256",
+    "extraction_time": 2.458281993865967,
+    "source": "tavily_api_raw"
+  }
+}

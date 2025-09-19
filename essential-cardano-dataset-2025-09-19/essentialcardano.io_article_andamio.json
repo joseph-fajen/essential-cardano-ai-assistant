@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/article/andamio",
+  "content": "# Andamio: ドキュメンテーションの整理と発見性のためのソリューション\n\n![](https://ucarecdn.com/525aaddb-0680-430e-9e83-696922568ba4/)\n![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271366%27%20height=%27768%27/%3e)\n![Andamio: ドキュメンテーションの整理と発見性のためのソリューション](/_next/image?url=https%3A%2F%2Fucarecdn.com%2F2549150b-8509-4f8c-b687-90a707b70f4d%2F&w=3840&q=75)\n\n\"...ドキュメンテーションが登場すると、エンジニアとしての私にとって、ドキュメンテーションを作成すること自体よりも、そのドキュメンテーションを整理し、見つけることが最も難しい部分です。現在、Cardanoには実際にPlutusに関する多くのドキュメンテーションがありますが、それは12か所も異なる場所に分散しており、どの部分のためにどこに行けばいいのかがわからないのです...\" Pi Lanningham - SundaeSwap（[https://youtu.be/IfmznLs2ITM?si=twiXsRz2cu4loubX&t=460）](https://youtu.be/IfmznLs2ITM?si=twiXsRz2cu4loubX&t=460%EF%BC%89)\n\nドキュメンテーションを整理し、見つける問題は、ドキュメンテーションのライフサイクルの一環としてドキュメンテーションの消費者が積極的な役割を果たす場合に、実質的に軽減されます。\n\nAndamioプラットフォームのアーキテクチャ\n\nAndamioオンチェーンバリデータ<-->andamioJSライブラリ<-->Andamioウェブアプリ\n\nは、ReadthedocsやGitBookなどのツールの静的ドキュメントホスティングアプローチを超え、ドキュメンテーションの消費者をドキュメンテーションのアクティブな寄与者にすることで、新しい局面を築くでしょう。\n\n組織にとっての利点：\n\nプラットフォームに組み込まれたPBL（Project Based Learning）構造は、システムの基本を提供する方法を提供し、ドキュメンテーションの消費者が寄与者としての役割を果たすことで、すぐにアクションに移ることができます。\n\nドキュメンテーションの更新時間の短縮：寄与者としての役割で、以前は単なるドキュメントの消費者だった人がドキュメンテーションの更新に寄与することができます。\n\n組織がAndamioを自分たちの寄与センターにすることで、最も優れたかつ最も活動的な寄与者を検出できる活動計測デバイスが手元にあり、これによりより密接で潜在的に生産的で収益性の高い関係（新しい協力者、新しいクライアントなど）が形成されます。\n\nドキュメンテーションの理解と組み立てに関する難しさは、ドキュメンテーションの消費者が積極的な役割を果たすことから迅速に検出されるでしょう。\n\nこの視点から、組織はAndamioをドキュメンテーションをホストするための選択肢として頼ることが奨励されます。\n\nAndamioは世界中の組織を向上させるための文書の足場であり、Cardano上に構築されています。\n\n（興味深い事実：Andamioは「足場」を意味するスペイン語の言葉です。）\n\nCatalyst F11の提案はこちらでご覧いただけます：<https://linktr.ee/andamio>\n\n## 1 contributors\n\n![](https://ucarecdn.com/525aaddb-0680-430e-9e83-696922568ba4/)\n\n## Would you like to suggest changes to this article?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 2,
+    "extraction_timestamp": "2025-09-19T10:01:47.475518",
+    "extraction_time": 9.254464864730835,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/what-is-a-cryptocurrency",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# What is a cryptocurrency?\n\nA *cryptocurrency* is a digital asset, which is stored on the ledger and is designed to serve as a medium of exchange for goods or services. It is otherwise called crypto.\n\nBlockchain ledgers serve as the underlying technology for cryptocurrency creation in a decentralized environment. Blockchain protocols use rigorous cryptography techniques to enable the minting (creation) of cryptocurrency and to secure and verify crypto ownership and fund movement records.\n\nThe price of cryptocurrency is not controlled by a government or centralized financial institution. It is defined by its value, correlation to real-world figures, and is driven by market supply and demand.\n\n[Ada](https://www.essentialcardano.io/faq/what-is-ada-whats-in-a-name) is the native (underlying) currency on Cardano.\n\n## 1 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 25,
+    "extraction_timestamp": "2025-09-19T10:03:52.564607",
+    "extraction_time": 1.5291173458099365,
+    "source": "tavily_api_raw"
+  }
+}

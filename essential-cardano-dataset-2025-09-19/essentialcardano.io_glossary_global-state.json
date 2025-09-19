@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/global-state",
+  "content": "![](https://avatars.githubusercontent.com/u/102920475?v=4)\n\n# Global state\n\nA set of data that is mutable through [node](https://www.essentialcardano.io/glossary/node) operations on a [ledger](https://www.essentialcardano.io/glossary/ledger). For example, with every [transaction](https://www.essentialcardano.io/glossary/transaction-tx) of an [asset](https://www.essentialcardano.io/glossary/asset) the database entry regarding who owns the asset changes.\n\n## 1 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 35,
+    "extraction_timestamp": "2025-09-19T10:04:37.157935",
+    "extraction_time": 1.4594051837921143,
+    "source": "tavily_api_raw"
+  }
+}

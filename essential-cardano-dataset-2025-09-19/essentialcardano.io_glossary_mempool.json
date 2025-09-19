@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/mempool",
+  "content": "![](https://avatars.githubusercontent.com/u/102920475?v=4)\n\n# Mempool\n\nHow a [node](https://www.essentialcardano.io/glossary/node) stores information about unconfirmed [transactions](https://www.essentialcardano.io/glossary/transaction-tx). The mempool is essentially a holding area for transactions that haven't been included in a [block](https://www.essentialcardano.io/glossary/block) yet.\n\n## 1 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 37,
+    "extraction_timestamp": "2025-09-19T10:04:46.470831",
+    "extraction_time": 1.5619089603424072,
+    "source": "tavily_api_raw"
+  }
+}

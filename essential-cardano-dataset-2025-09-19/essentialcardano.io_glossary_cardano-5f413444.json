@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/cardano-5f413444",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# Cardano\n\nAn open-source permissionless blockchain platform built on the [Ouroboros](https://www.essentialcardano.io/glossary/ouroboros) proof-of-stake protocol. Cardano was [launched in 2017](https://iohk.io/en/blog/posts/2017/10/16/cardano-marks-its-launch-with-tokyo-event/) to address issues with earlier blockchains such as high energy use, limited interoperability, and scalability challenges. Cardano is being developed in five phases: [Byron](https://www.essentialcardano.io/glossary/byron) (completed 2019), [Shelley](https://www.essentialcardano.io/glossary/shelley) (decentralization, 2020), [Goguen](https://www.essentialcardano.io/glossary/goguen) (smart contracts, 2021-), [Basho](https://www.essentialcardano.io/glossary/basho) (performance improvements, 2021-), [Voltaire](https://www.essentialcardano.io/glossary/voltaire) (treasury and governance, 2021-).\n\n## 3 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 31,
+    "extraction_timestamp": "2025-09-19T10:04:19.204356",
+    "extraction_time": 1.3351519107818604,
+    "source": "tavily_api_raw"
+  }
+}

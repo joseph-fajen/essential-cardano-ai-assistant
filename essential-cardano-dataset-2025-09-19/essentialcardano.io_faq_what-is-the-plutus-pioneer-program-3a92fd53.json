@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/what-is-the-plutus-pioneer-program-3a92fd53",
+  "content": "![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n# What is the Plutus Pioneer program?\n\nThe Plutus Pioneer program is a scheme to recruit and train developers to write smart contracts in Plutus on Cardano. Recruits are given access to courses about the principles of coding in both Haskell and Plutus. The course is highly interactive, with weekly videos, exercises, and Q&A sessions, along with exclusive access to Plutus creators and experts. There is also a dedicated community channel to help pioneers connect with each other. [Find out more.](https://docs.cardano.org/pioneer-programs/plutus-pioneers)\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T10:04:05.524392",
+    "extraction_time": 1.3379261493682861,
+    "source": "tavily_api_raw"
+  }
+}

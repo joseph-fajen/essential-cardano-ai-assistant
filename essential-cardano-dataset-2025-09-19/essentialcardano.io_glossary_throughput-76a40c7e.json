@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/throughput-76a40c7e",
+  "content": "![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n# Throughput\n\nThe volume of data processed by a system in a given amount of time. Throughput is [steadily being increased on Cardano](https://www.essentialcardano.io/article/how-were-scaling-cardano-in-2022) to meet the demands of an ever-growing [DApp](https://www.essentialcardano.io/glossary/dapp) ecosystem and community of Cardano adopters.\n\n## 3 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://www.gravatar.com/avatar/65e2234762bf281a82b748fdc698c416?d=identicon)\n![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 40,
+    "extraction_timestamp": "2025-09-19T10:04:59.778830",
+    "extraction_time": 1.3186869621276855,
+    "source": "tavily_api_raw"
+  }
+}

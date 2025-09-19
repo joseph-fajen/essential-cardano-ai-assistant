@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/developer/script-explorer",
+  "content": "# Script Explorer 📜🔍\n\n![](https://avatars.githubusercontent.com/u/34195172?v=4)\n![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%274000%27%20height=%273015%27/%3e)\n![Script Explorer 📜🔍](/_next/image?url=https%3A%2F%2Fucarecdn.com%2Fcdad82dc-828c-4340-b276-4518296ecc10%2F&w=3840&q=75)\n\n### The Cardano Script Explorer opens for the interested public.\n\nIf you want to see the latest and greatest scripts on the Cardano Blockchain, you can now do so from the comforts of your Blockfrost account.\n\nIn the context of the Catalyst Fund 9 I was introduced to the Blockfrost, which is an API that provides Blockchain data. That gave me the idea to create a tool, that makes all the awesome scripts on Cardano visible. So I applied for funding in Fund 9, but I was too impatient to wait for the voting results. Thus I built the alpha version of the Script Explorer.\n\nThere you can take a look at Timelock and Plutus scripts in detail and Sankey, this is quite insightful for a Smart Contract developer.\n\n[https://script-explorer.com/](https://script-explorer.com/#/)\n\nBest Regards\n\nQuirin Schlegel\n\n## 1 contributors\n\n![](https://avatars.githubusercontent.com/u/34195172?v=4)\n\n## Would you like to suggest changes to this developer resource?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 15,
+    "extraction_timestamp": "2025-09-19T10:03:02.107256",
+    "extraction_time": 2.458281993865967,
+    "source": "tavily_api_raw"
+  }
+}

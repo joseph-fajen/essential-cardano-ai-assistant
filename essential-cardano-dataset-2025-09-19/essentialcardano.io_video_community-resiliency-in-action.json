@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/video/community-resiliency-in-action",
+  "content": "# Community Resiliency In Action\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n\nCardano was built with security and resilience in mind. Through academic research, formal methods, and robust system design, Cardano adheres to the highest standards. Written in Haskell, a secure functional programming language, and powered by the Ouroboros proof-of-stake protocol, Cardano offers rigorous security guarantees backed by peer-reviewed research.\n\nYet, no network is immune to attacks. In this video, team members and guests from Intersect, Input | Output, and the Cardano community come together to discuss the recent DDoS attack on the Cardano network.\n\nJoin us as we explore the event’s impact on the network, key Dapps, and projects, and how the community rallied together to defend the ecosystem.\n\nJack Briggs, Matt Capps, Kevin Hammond, Pi Lanningham, and Samuel Leathers discuss the proactive measures taken by developers and institutions, the resilience of the network’s architecture, and the pivotal role of community support during the incident.\n\nTL;DR: Despite a spam attack causing temporary chain load spikes, transactions continued processing. Block production initially dropped by 20%, recovering to 10% below normal levels within hours. A new node version including enhanced security was promptly released.\n\nThanks to the community and all involved for their swift action and support during the incident.\n\nFor real time updates, [follow Input | Output on X](https://x.com/InputOutputHK).\n\n## 1 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n\n## Would you like to suggest changes to this video?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 46,
+    "extraction_timestamp": "2025-09-19T10:05:26.963401",
+    "extraction_time": 0.9593460559844971,
+    "source": "tavily_api_raw"
+  }
+}

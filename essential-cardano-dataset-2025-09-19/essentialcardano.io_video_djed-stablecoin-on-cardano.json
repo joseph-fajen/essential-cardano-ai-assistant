@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/video/djed-stablecoin-on-cardano",
+  "content": "# Djed stablecoin on Cardano\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\nn this video, we're going to be talking about stable coins and our recent paper \"Djed: A Formally Verified Crypto-Backed Pegged Algorithmic Stablecoin\". Here in this explainer, David takes us through the core principles and give you a quick understanding of what it's all about. What is a stablecoin? What is the problem that stable coins are trying to solve? What are the challenges in doing this? And how is Djed looking to address these? To read the paper in full visit the IOHK research library: <https://iohk.io/en/research/library/papers/djeda-formally-verified-crypto-backed-pegged-algorithmic-stablecoin/>\n\n## 1 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this video?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 47,
+    "extraction_timestamp": "2025-09-19T10:05:31.431702",
+    "extraction_time": 1.4371731281280518,
+    "source": "tavily_api_raw"
+  }
+}

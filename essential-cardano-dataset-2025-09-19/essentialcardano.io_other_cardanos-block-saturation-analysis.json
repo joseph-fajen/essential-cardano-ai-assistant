@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/other/cardanos-block-saturation-analysis",
+  "content": "# Cardano´s block saturation analysis\n\n![](https://ucarecdn.com/b2d8ccbe-5460-4c02-bb23-7a2425b9affb/)\n![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271043%27%20height=%27438%27/%3e)\n![Cardano´s block saturation analysis](/_next/image?url=https%3A%2F%2Fucarecdn.com%2F6de30b6e-be45-45df-afe4-b13ce5eb5e21%2F&w=3840&q=75)\n\nDespite market conditions, Cardano usage is growing.\n\nPlease note the increased efficiency of transactions - i.e. transactions for one purpose are now smaller than they had to be before. Even so, block saturation is not decreasing, indicating activity on the network.\n\n**Monthly block saturation average is 40.88%. This means that almost half of the blocks cap is used.**\n\nLive data: <https://cexplorer.io/usage>![](https://ucarecdn.com/ac0cb721-c606-4f29-9e8c-ae7654313a3a/-/preview/-/format/auto/-/quality/smart/)\n\n![](https://ucarecdn.com/ac0cb721-c606-4f29-9e8c-ae7654313a3a/-/preview/-/format/auto/-/quality/smart/)\n\n## 1 contributors\n\n![](https://ucarecdn.com/b2d8ccbe-5460-4c02-bb23-7a2425b9affb/)\n\n## Would you like to suggest changes to this other resource?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 43,
+    "extraction_timestamp": "2025-09-19T10:05:13.535101",
+    "extraction_time": 1.5575809478759766,
+    "source": "tavily_api_raw"
+  }
+}

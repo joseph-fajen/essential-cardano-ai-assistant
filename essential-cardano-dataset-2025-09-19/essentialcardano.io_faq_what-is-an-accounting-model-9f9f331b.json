@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/what-is-an-accounting-model-9f9f331b",
+  "content": "![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n# What is an accounting model?\n\nBlockchain is an accounting technology, and accounting models are crucial to keep track of funds' movements, asset ownership, and balance accuracy. Two major accounting models exist in the blockchain space: UTXO-based blockchains (Bitcoin or Cardano, for instance), and account-based chains (Ethereum, and others).\n\n## 1 contributors\n\n![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 26,
+    "extraction_timestamp": "2025-09-19T10:03:56.855433",
+    "extraction_time": 1.2564342021942139,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/amm-automated-market-makers",
+  "content": "![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n# AMM (Automated market makers)\n\nAutomated market makers (AMMs) are a type of [decentralized exchange (DEX)](https://www.essentialcardano.io/glossary/dex) that use algorithmic “money robots” to make it easy for individual traders to buy and sell crypto assets. Instead of trading directly with other people as with a traditional order book, users trade directly through liquidity pools in DEX based on an AMM.\n\nMarket makers are entities tasked with providing liquidity for a tradable asset on an exchange that may otherwise be illiquid. Market makers do this by buying and selling assets from their own accounts with the goal of making a profit, often from the spread (the gap between the highest buy offer and lowest sell offer). Their trading activity creates liquidity, lowering the price impact of larger trades.\n\nCommon DEXs based on AMM protocol operate following the Constant Product Formula: X x Y = k\n\nk: a constant balance of assets that determines the price of tokens in a liquidity pool\n\nX : the amount of token A\n\nY: the amount of token B\n\nMost of Cardano's DEXs use this method to build their protocol.\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 29,
+    "extraction_timestamp": "2025-09-19T10:04:09.812917",
+    "extraction_time": 1.2550508975982666,
+    "source": "tavily_api_raw"
+  }
+}

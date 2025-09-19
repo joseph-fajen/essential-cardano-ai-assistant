@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/nft-b740fc3d",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# NFT: non-fungible token\n\nA unique [token](https://www.essentialcardano.io/glossary/token) stored on a blockchain. NFTs can represent digital ownership rights of real-world assets such as a building or a painting or be an asset in and of themselves. Cardano supports NFTs as [native tokens](https://www.essentialcardano.io/glossary/native-tokens). This means that anyone can mint their own NFTs on Cardano without needing a smart contract, which avoids the error-prone complexity found in Ethereum, makes them more secure, cheaper, and faster to transact with.\n\n## 3 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 37,
+    "extraction_timestamp": "2025-09-19T10:04:46.470831",
+    "extraction_time": 1.5619089603424072,
+    "source": "tavily_api_raw"
+  }
+}

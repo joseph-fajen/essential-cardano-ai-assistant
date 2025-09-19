@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/chain-follower",
+  "content": "![](https://lh3.googleusercontent.com/a/AEdFTp7Nkv3CcHskMuVfPGKCacgnJsWgdVZ_coIC336x=s96-c)\n\n# Chain follower\n\nAs part of the [Cardano sidechain toolkit](https://www.essentialcardano.io/glossary/sidechain-toolkit), a chain follower is a general purpose component capable of reading and indexing events that occur on the main chain.\n\nThere are several tools that can fulfill this role, they include:\n\n[Blockfrost](https://docs.blockfrost.io/), an instant and scalable Cardano API for free\n\n[Carp](https://github.com/dcSpark/carp), a modular indexer for Cardano with an SQL Postgres backend\n\n[Kupo](https://cardanosolutions.github.io/kupo/#section/Overview), a  fast, lightweight and configurable chain-index for the Cardano blockchain\n\n[Marconi](https://github.com/input-output-hk/plutus-apps/tree/main/marconi), the Cardano blockchain indexer for dApp developers\n\n[Ogmios](https://ogmios.dev/), a lightweight bridge interface for cardano-node\n\n[Oura](https://github.com/txpipe/oura), the tail of Cardano\n\n[Scrolls](https://github.com/txpipe/scrolls), a read-optimized cache of Cardano on-chain entities.\n\nThe list is in alphabetical order. The fact that a product is on the list is not an endorsement or recommendation.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://lh3.googleusercontent.com/a/AEdFTp7Nkv3CcHskMuVfPGKCacgnJsWgdVZ_coIC336x=s96-c)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 31,
+    "extraction_timestamp": "2025-09-19T10:04:19.204356",
+    "extraction_time": 1.3351519107818604,
+    "source": "tavily_api_raw"
+  }
+}

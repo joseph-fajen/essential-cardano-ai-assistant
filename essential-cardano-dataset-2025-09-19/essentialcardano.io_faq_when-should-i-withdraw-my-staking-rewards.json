@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/when-should-i-withdraw-my-staking-rewards",
+  "content": "![](https://lh3.googleusercontent.com/a/AGNmyxYhHqN7z57OXbxLfyPSsaH78O3Ua22jFrnzJtG_=s96-c)\n\n# When should I withdraw my staking rewards?\n\nStaking rewards left in the rewards section of your wallet count towards your total balance staked. They therefore automatically compound without the need to withdraw them to the main part of your wallet. Each time you withdraw your staking rewards you will pay a transaction fee, which at the time of writing this is around 0.17 ada. This might not seem like a lot but it could add up over time. So it's best to leave your rewards in your rewards address until you need them.\n\nAs your staking rewards are held in the rewards address of your wallet, and not by the stake pool, you do not need to withdraw your staking rewards when delegating from one stake pool to another. You also do not need to withdraw your rewards when switching to a new wallet interface.\n\nSome wallets offer an option to withdraw rewards at the same time as making a transaction. This reduces the withdrawal fee to a fraction of what you would normally pay to withdraw your rewards.\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://lh3.googleusercontent.com/a/AGNmyxYhHqN7z57OXbxLfyPSsaH78O3Ua22jFrnzJtG_=s96-c)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 28,
+    "extraction_timestamp": "2025-09-19T10:04:05.524392",
+    "extraction_time": 1.3379261493682861,
+    "source": "tavily_api_raw"
+  }
+}

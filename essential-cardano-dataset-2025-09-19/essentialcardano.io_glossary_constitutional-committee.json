@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/constitutional-committee",
+  "content": "![](https://avatars.githubusercontent.com/u/158074695?v=4)\n\n# Constitutional committee\n\nThe Constitutional Committee (CC) is one of the three groups responsible for ratifying governance actions under CIP-1694 alongside SPOs and DReps. CIP-1694 defines the CC as a committee that represents a set of individuals or entities that are collectively responsible for ensuring that the constitution's principles are upheld and enforced.\n\nAs described in CIP-1694, each Constitutional Committee (CC) member has one vote, adhering to a “one member, one vote” principle. CC members are responsible for reviewing whether governance actions align with the Cardano constitution. The CC must meet a specific quorum defined by a protocol parameter to pass a governance action.\n\nCC members may vote on any governance action and decide if it goes against the constitution. The CC cannot modify governance actions once presented for a vote. The CC will be initially instituted for the first interaction with members of the Cardano community and evolve as the governance model advances.\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://avatars.githubusercontent.com/u/158074695?v=4)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T10:04:23.431011",
+    "extraction_time": 1.1947238445281982,
+    "source": "tavily_api_raw"
+  }
+}

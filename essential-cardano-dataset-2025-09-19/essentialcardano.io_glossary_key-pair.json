@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/key-pair",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# Key pair\n\nA set of two keys: public verification key and private signing key. These keys are used to process and approve transactions within the blockchain.The public key is the address used as a sending or receiving address in a transaction. The private key is the secret that controls access to assets.\n\nAnyone can send assets to a public key address\n\nIt is quick and easy to calculate a public key from a private key, but the reverse is infeasible with current technology\n\nNo one can withdraw assets from an address unless the transaction is signed with the correct private key.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 36,
+    "extraction_timestamp": "2025-09-19T10:04:41.889107",
+    "extraction_time": 1.7185719013214111,
+    "source": "tavily_api_raw"
+  }
+}

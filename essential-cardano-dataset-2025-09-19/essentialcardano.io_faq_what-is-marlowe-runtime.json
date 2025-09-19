@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/what-is-marlowe-runtime",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# What is Marlowe Runtime?\n\n[Marlowe Runtime](https://docs.marlowe.iohk.io/docs/developer-tools/runtime/marlowe-runtime) is the application backend for managing Marlowe contracts on the Cardano blockchain. It provides easy-to-use, higher-level APIs and complete backend services that enable developers to build and deploy enterprise and Web3 DApp solutions using Marlowe, but without having to assemble the ‘plumbing’ that manually orchestrates a backend workflow for a Marlowe-based application.\n\nMarlowe has a refined view of the Cardano ledger model. Runtime’s job is to map between the Marlowe conceptual model and the Cardano ledger model in both directions. Runtime takes commands relevant to the Marlowe ledger and maps them to the Cardano ledger. This can also be done with the REST API.\n\nPrimarily, you can do two types of things with Runtime:\n\nDiscovering and querying on-chain Marlowe contracts\n\nCreating Marlowe transactions\n\n## 1 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T10:04:01.155477",
+    "extraction_time": 1.2716519832611084,
+    "source": "tavily_api_raw"
+  }
+}

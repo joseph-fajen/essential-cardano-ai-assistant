@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/hydra-head-566b1cad",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# Hydra Head\n\nThe first of several Hydra protocols, and the basis of improving Cardano's [scalability](https://www.essentialcardano.io/glossary/scalability). Each [Hydra Head](https://iohk.io/en/blog/posts/2022/02/03/implementing-hydra-heads-the-first-step-towards-the-full-hydra-vision/) works as an off-chain mini ledger, similar but faster than the main on-chain ledger, shared between small groups of participants. Many complex protocols can be added as layers on top of Cardano.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 35,
+    "extraction_timestamp": "2025-09-19T10:04:37.157935",
+    "extraction_time": 1.4594051837921143,
+    "source": "tavily_api_raw"
+  }
+}

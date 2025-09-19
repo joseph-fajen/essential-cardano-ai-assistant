@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/genesis-block",
+  "content": "![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n# Genesis block\n\nThe first block in a blockchain that sets the foundation for the network. It is usually created by the network's creator and contains unique data defining the initial state of the blockchain. Unlike other blocks, a genesis block doesn't reference any previous blocks and generates the initial supply of cryptocurrency or tokens. In Cardano, the genesis block was created on [2017/09/23 21:44:51 UTC](https://explorer.cardano.org/en/block?id=5f20df933584822601f9e3f8c024eb5eb252fe8cefb24d1317dc3d432e940ebb).\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 35,
+    "extraction_timestamp": "2025-09-19T10:04:37.157935",
+    "extraction_time": 1.4594051837921143,
+    "source": "tavily_api_raw"
+  }
+}

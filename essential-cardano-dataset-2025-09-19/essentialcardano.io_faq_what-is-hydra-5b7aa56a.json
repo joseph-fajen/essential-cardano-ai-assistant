@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/what-is-hydra-5b7aa56a",
+  "content": "![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n# What is Hydra?\n\n**Hydra** is a [family of protocols](https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/) that overlay the layer 1 Cardano blockchain to process transactions off the main chain. Hydra uses the main ledger as the secure settlement layer, boosts throughput, minimizes the delay in starting to process transactions, incurs low to no costs, and greatly reduces storage requirements.\n\n## 1 contributors\n\n![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 27,
+    "extraction_timestamp": "2025-09-19T10:04:01.155477",
+    "extraction_time": 1.2716519832611084,
+    "source": "tavily_api_raw"
+  }
+}

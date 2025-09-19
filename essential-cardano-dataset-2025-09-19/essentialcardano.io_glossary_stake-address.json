@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/stake-address",
+  "content": "![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n# Stake address\n\nRefers to a reward account, one of the two components that make up an address on Cardano. They are used in various operations related to rewards, such as delegating ADA to pools, checking the reward balance, etc. Anyone who owns a stake address also owns a stake in any associated funds linked to that address. It's worth noting that stake addresses cannot be used for sending or receiving payments, unlike payment addresses.\n\nTypically, a stake address will start with 'stake1', for example: *stake1ux7k5ztvhwj7ykv5v7vwjjzdfckjk0v74z9p9m5w0t5534clf62eq*\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 40,
+    "extraction_timestamp": "2025-09-19T10:04:59.778830",
+    "extraction_time": 1.3186869621276855,
+    "source": "tavily_api_raw"
+  }
+}

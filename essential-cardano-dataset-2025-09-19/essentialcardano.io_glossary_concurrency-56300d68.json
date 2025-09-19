@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/concurrency-56300d68",
+  "content": "![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n# Concurrency\n\nThe amount of work that can be done by [different actors without blocking each other](https://www.essentialcardano.io/article/concurrency-and-all-that-cardano-smart-contracts-and-the-eutxo-model). Cardano’s [EUTXO](https://www.essentialcardano.io/glossary/eutxo) model allows transactions to be processed in parallel, which ultimately improves the throughput of the system while keeping the performance of individual operations the same.\n\n## 3 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 32,
+    "extraction_timestamp": "2025-09-19T10:04:23.431011",
+    "extraction_time": 1.1947238445281982,
+    "source": "tavily_api_raw"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/vrf",
+  "content": "![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n# VRF\n\nStands for \"Verifiable Random Function\", a cryptographic function that generates random numbers in a deterministic and verifiable manner. It's a crucial component for various applications, such as generating random numbers for lotteries and ensuring secure and unpredictable leader selection in proof-of-stake blockchain networks.\n\nOn the Cardano blockchain, it was used to select slot leaders in the Ouroboros consensus protocol, helping ensure that the selection of slot leaders is fair and unpredictable.\n\n## 1 contributors\n\n![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 41,
+    "extraction_timestamp": "2025-09-19T10:05:04.053585",
+    "extraction_time": 1.238090991973877,
+    "source": "tavily_api_raw"
+  }
+}

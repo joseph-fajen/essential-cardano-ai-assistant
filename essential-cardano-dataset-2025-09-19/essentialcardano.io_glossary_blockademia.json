@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/blockademia",
+  "content": "![](https://lh3.googleusercontent.com/a-/AOh14Gj9BmbAixS0rg7Nb1Ok4GqnXRyVjVKX7z9S5hhi3pk=s96-c)\n\n# Blockademia\n\nA DApp project on Cardano that enables users to verify authenticity of any previously published document or digital file. Blockademia writes a hash of the published document in a Cardano transaction, so the published hash stays on the blockchain and enables users to quickly and easily check if any file is original or if it has been tampered with.\n\nBlockademia uses it's native token ACI for multiple uses, including: operating on the DApp, enabling referal rewards, rewarding stakers, and more.\n\nPlease visit <http://blockademia.com> for more info.\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://lh3.googleusercontent.com/a-/AOh14Gj9BmbAixS0rg7Nb1Ok4GqnXRyVjVKX7z9S5hhi3pk=s96-c)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 30,
+    "extraction_timestamp": "2025-09-19T10:04:14.837175",
+    "extraction_time": 1.9960548877716064,
+    "source": "tavily_api_raw"
+  }
+}

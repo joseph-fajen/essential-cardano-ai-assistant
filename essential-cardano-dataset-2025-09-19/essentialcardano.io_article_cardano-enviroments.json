@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/article/cardano-enviroments",
+  "content": "# Cardano enviroments\n\n![](https://ucarecdn.com/b2d8ccbe-5460-4c02-bb23-7a2425b9affb/)\n![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27640%27%20height=%27308%27/%3e)\n![Cardano enviroments](/_next/image?url=https%3A%2F%2Fucarecdn.com%2Fe8396f6b-0e05-4c5b-b8b2-0d7aac482d45%2F&w=1920&q=75)\n\n## Production (mainnet)\n\nUsage: Live Production. Only gets official mainnet releases.\n\nExplorer: <https://cexplorer.io/>\n\n## Preview testnet\n\nUsage: Testing release candidates and mainnet releases. Leads mainnet hard forks by at least 4 weeks.\n\nExplorer: <https://preview.cexplorer.io/>\n\n## Pre-production testnet\n\nUsage: Testing release candidates and mainnet releases. Forks at approximately same time as mainnet (within an epoch of each other).\n\nExplorer: <https://preprod.cexplorer.io/>\n\n## Old testnet (legacy)\n\nNote that the Cardano **testnet** is no longer recommended for new functionality testing. It only supports nodes v.1.35.0, v.1.35.1, and v.1.35.2. The testnet will be fully deprecated after Vasil mainnet release.\n\nExplorer: <https://testnet.cexplorer.io/>\n\nConfiguration files for cardano-node are available in official documentation about enviroments: <https://github.com/input-output-hk/cardano-world/blob/master/docs/environments.md>\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/b2d8ccbe-5460-4c02-bb23-7a2425b9affb/)\n\n## Would you like to suggest changes to this article?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 4,
+    "extraction_timestamp": "2025-09-19T10:02:05.423034",
+    "extraction_time": 5.072817802429199,
+    "source": "tavily_api_raw"
+  }
+}

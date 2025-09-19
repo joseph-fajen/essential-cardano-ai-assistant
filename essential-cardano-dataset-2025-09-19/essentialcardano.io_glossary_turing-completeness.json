@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/turing-completeness",
+  "content": "![](https://www.gravatar.com/avatar/badc11d4cb406de53b5b12b648bb8177?d=identicon)\n\n# Turing completeness\n\nAny system of data-manipulation rules is said to be Turing-complete if it can be used to simulate any Turing machine (devised by English mathematician and computer scientist Alan Turing). This means that this system can recognize and decode other data manipulation rule sets, allowing it to be used to solve any computational problem.\n\nIn terms of programming languages, such a language has to have the following properties:\n\nTuring completeness is used to express the power of a programming language. The programming languages in use today are, in most cases, Turing-complete.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://www.gravatar.com/avatar/badc11d4cb406de53b5b12b648bb8177?d=identicon)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 41,
+    "extraction_timestamp": "2025-09-19T10:05:04.053585",
+    "extraction_time": 1.238090991973877,
+    "source": "tavily_api_raw"
+  }
+}

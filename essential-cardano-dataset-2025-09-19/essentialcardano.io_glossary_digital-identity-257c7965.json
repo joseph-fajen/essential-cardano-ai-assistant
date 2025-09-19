@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/digital-identity-257c7965",
+  "content": "![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n# Digital Identity\n\nrefers to a secure and verifiable representation of an individual, organization, or entity in the digital realm. It encompasses personal attributes, credentials, and biometric data that are cryptographically stored and managed on the blockchain, providing users with control over their identity and enhancing privacy, security, and interoperability across digital platforms.\n\nCardano enables users to securely manage and share their identity information while protecting against identity theft, fraud, and unauthorized access, thus empowering individuals with sovereignty over their digital identities.\n\n## 1 contributors\n\n![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 33,
+    "extraction_timestamp": "2025-09-19T10:04:27.805800",
+    "extraction_time": 1.357374906539917,
+    "source": "tavily_api_raw"
+  }
+}

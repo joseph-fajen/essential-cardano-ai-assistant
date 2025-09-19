@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/policy-id",
+  "content": "![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n# Policy ID\n\nis a unique cryptographic fingerprint or hash generated from minting script. It serves as a way to uniquely identify and verify the policy associated with a specific native token or set of native tokens. This fingerprint allows users to validate that the policy for a token adheres to the predefined rules.\n\nPolicy ID is an integral part of Cardano's multi-asset ledger model, which helps govern the issuance and management of tokens.\n\n## 2 contributors\n\n![](https://avatars.githubusercontent.com/u/102920475?v=4)\n![](https://ucarecdn.com/82d304e7-b626-4573-ae34-86e8decf9e4a/)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 39,
+    "extraction_timestamp": "2025-09-19T10:04:55.448130",
+    "extraction_time": 1.6387860774993896,
+    "source": "tavily_api_raw"
+  }
+}

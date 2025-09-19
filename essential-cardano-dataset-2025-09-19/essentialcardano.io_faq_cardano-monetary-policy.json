@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/faq/cardano-monetary-policy",
+  "content": "![](https://ucarecdn.com/b2d8ccbe-5460-4c02-bb23-7a2425b9affb/)\n\n# What is Cardano's monetary policy?\n\nCardano's monetary policy addresses two issues:\n\n**Rewards**\n\nThe expansion and future improvement of the Cardano blockchain will be greatly influenced by its community, who need to be incentivized through rewards to participate in Cardano’s development.\n\nStaking rewards for delegators and stake pool operators come from two sources:\n\n**Funding the Treasury**\n\nThe Treasury's goal is the provision of funds to develop Cardano activities through a voting process. This necessitates a process whereby funds are regularly sent to the Treasury to ensure that funds are always available.\n\nCardano's monetary policy aims to keep the protocol sustainable in the long term ensuring its decentralization and security. Monetary policy must provide sufficient economic incentive to maintain the protocol and develop the ecosystem. More than 75% of ada is already in circulation. The protocol will distribute the remaining coins periodically each epoch in the coming years as rewards for pool operators and delegators. The Cardano protocol has a capped number of coins and will only depend on fees in the future. There is no never-ending inflation of ada coins.\n\n## 2 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/b2d8ccbe-5460-4c02-bb23-7a2425b9affb/)\n\n## Would you like to suggest changes to this FAQ?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 24,
+    "extraction_timestamp": "2025-09-19T10:03:47.996541",
+    "extraction_time": 1.3446471691131592,
+    "source": "tavily_api_raw"
+  }
+}

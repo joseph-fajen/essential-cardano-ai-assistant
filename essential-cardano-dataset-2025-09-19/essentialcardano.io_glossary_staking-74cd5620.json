@@ -1,0 +1,11 @@
+{
+  "url": "https://www.essentialcardano.io/glossary/staking-74cd5620",
+  "content": "![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n# Staking\n\nOn Cardano, stake pool operators earn rewards for running the [nodes](https://www.essentialcardano.io/glossary/node) that support the [network](https://www.essentialcardano.io/glossary/networking) and produce [blocks](https://www.essentialcardano.io/glossary/block). Staking means committing funds to a [pool](https://www.essentialcardano.io/glossary/stake-pool) to support these activities. Cardano has [non-custodial staking](https://www.essentialcardano.io/glossary/liquid-staking), meaning that there are no locking periods, and ada owners can spend their staked funds at any time.\n\n## 3 contributors\n\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://ucarecdn.com/4f580f1c-e076-45b2-8a8d-af75d20c0cfd/)\n![](https://avatars.githubusercontent.com/u/87934408?v=4)\n\n## Would you like to suggest changes to this glossary?\n\nWe encourage you to actively participate in the creation and moderation of our content—your contributions are invaluable. All content is reviewed by another community member.\n\n##### Resources\n\n##### Legal\n\n##### Subscribe to our newsletter",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 40,
+    "extraction_timestamp": "2025-09-19T10:04:59.778830",
+    "extraction_time": 1.3186869621276855,
+    "source": "tavily_api_raw"
+  }
+}
