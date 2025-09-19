@@ -19,8 +19,8 @@ def test_firecrawl_api():
         print("❌ FIRECRAWL_API_KEY environment variable not set")
         return False
 
-    # Test with a simple URL
-    test_url = "https://docs.cardano.org/about-cardano/introduction"
+    # Test with a simple Essential Cardano URL
+    test_url = "https://www.essentialcardano.io/faq"
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -39,7 +39,7 @@ def test_firecrawl_api():
             "https://api.firecrawl.dev/v0/scrape",
             headers=headers,
             json=payload,
-            timeout=30
+            timeout=60
         )
 
         print(f"Status Code: {response.status_code}")

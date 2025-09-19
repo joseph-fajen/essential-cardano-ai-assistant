@@ -6,7 +6,6 @@ This document provides the AI assistant with a comprehensive list of key URLs to
 
 ### Essential Cardano (Primary Home Base)
 - **Main Site**: https://www.essentialcardano.io/
-- **Repository**: https://github.com/input-output-hk/essential-cardano-content
 - **Use for**: Basic definitions, community introduction, foundational concepts
 - **Target audience**: All users, especially beginners
 
@@ -25,13 +24,11 @@ This document provides the AI assistant with a comprehensive list of key URLs to
 
 ### Cardano Official Documentation
 - **Main Docs**: https://docs.cardano.org/
-- **Repository**: https://github.com/input-output-hk/cardano-documentation
 - **Use for**: Technical explanations, detailed feature descriptions, network operations
 - **Target audience**: Tech-savvy users, SPOs, advanced users
 
 ### Intersect Knowledge Base
 - **Main Site**: https://docs.intersectmbo.org/
-- **Repository Access**: Contact Lorenzo Bruno (lorenzo.bruno@intersectmbo.org)
 - **GitBook Link**: https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/sites/site_4XOCf
 - **Use for**: ALL governance-related questions, DRep education, Cardano's future
 - **Target audience**: Anyone interested in governance, voting, constitutional matters
@@ -47,7 +44,6 @@ This document provides the AI assistant with a comprehensive list of key URLs to
 
 ### Cardano Developer Portal (Cardano Foundation)
 - **Main Site**: https://developers.cardano.org/
-- **Repository**: https://github.com/cardano-foundation/developer-portal
 - **Use for**: ALL coding questions, implementation details, technical tutorials
 - **Redirect message**: "For technical implementation questions like this, please check the Cardano Developer Portal"
 

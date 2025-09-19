@@ -142,15 +142,6 @@ python mdx_to_txt_converter.py --help
 - **Branding**: Essential Cardano visual identity integration
 - **Accessibility**: Mobile-responsive, WCAG 2.1 AA compliance
 
-## Stakeholder Context & Collaboration
-
-### **Core Team Coordination**
-- **Joseph Fajen**: Project lead - Ready for Router Flow implementation
-- **Olga Hryniuk**: Content strategy - Essential Cardano expertise applied
-- **Neil Burgess**: Intersect access - Phase 2 governance content ready
-- **Allan Martínez**: Research collaboration - Phase 4 integration planned
-- **Lars Brünjes**: System prompt consultation - Architecture validated
-
 ### **External Integration Points**
 - **Essential Cardano Team**: Website integration coordination needed
 - **Globant Enterprise Support**: Platform-native features leveraged

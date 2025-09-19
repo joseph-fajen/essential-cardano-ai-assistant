@@ -52,13 +52,6 @@ cat CLAUDE.md
 - **System Prompt**: Comprehensive prompt with persona adaptation, guardrails, and routing logic
 - **URL Reference**: Complete guide mapping all knowledge sources to specific use cases and target audiences
 
-## Stakeholder Context
-- **Joseph Fajen**: Project lead, platform implementation and strategy development
-- **Olga Hryniuk**: Content strategy, Essential Cardano domain expertise, target audience definition
-- **Neil Burgess**: Intersect knowledge base access coordination for governance content
-- **Allan Martínez**: Research AI collaboration opportunity (~250 IOG research papers), existing Slack bot
-- **Lars Brünjes**: System prompt development consultation and AI prompting expertise
-
 ## Session Assessment
 - **Session Duration**: Extended strategy development session focused on comprehensive planning and documentation
 - **Overall Progress**: Excellent advancement from concept to implementation-ready strategy with complete documentation

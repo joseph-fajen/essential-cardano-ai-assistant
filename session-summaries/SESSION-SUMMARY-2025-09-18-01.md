@@ -106,13 +106,6 @@ cat focused-test/README.md
 - **After**: Specific citations like `Essential_Cardano_FAQ`, `Developer_Portal_Getting_Started`
 - **User Experience**: Clickable citations lead to Globant document viewer showing source transparency
 
-## Stakeholder Context
-- **Joseph Fajen**: Project lead - achieved breakthrough in web scraping approach
-- **Olga Hryniuk**: Content strategy - ready for full Essential Cardano extraction
-- **Neil Burgess**: Intersect governance - approach proven for expansion
-- **Allan Martínez**: Research AI - demonstrated working URL preservation approach
-- **Globant Enterprise Support**: Platform optimization confirmed working
-
 ## Session Assessment
 - **Session Duration**: Full day focused on breakthrough pipeline development and testing
 - **Overall Progress**: MAJOR breakthrough - solved core broken link problem with working solution

@@ -10,10 +10,13 @@
 secrets/
 config/secrets/
 
-# Extracted content (can be large)
+# Extracted content (can be large) - exclude intermediate artifacts
 extracted_content/
 comprehensive_extraction/
 content_export/
+tavily_comprehensive/
+tavily_processed/
+tavily_test_results/
 
 # Progress and temporary files
 progress/

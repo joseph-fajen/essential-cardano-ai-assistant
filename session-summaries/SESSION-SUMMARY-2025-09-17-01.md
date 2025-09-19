@@ -74,14 +74,6 @@ cat .claude/commands/testing-protocol.md # When ready for systematic testing
 2. **Use web_scraper_httpx** to extract complete content and actual URLs
 3. **Extract URL from scraped page** (not search result URL)
 
-## Stakeholder Context
-- **Joseph Fajen**: Project lead, platform implementation, web crawling architecture design
-- **Olga Hryniuk**: Content strategy, Essential Cardano expertise
-- **Neil Burgess**: Intersect knowledge base access coordination  
-- **Allan Martínez**: Research AI collaboration (~250 IOG research papers)
-- **Lars Brünjes**: System prompt development consultation
-- **Globant Enterprise Support**: Platform implementation assistance
-
 ## Session Assessment
 - **Session Duration**: Full day focused on architecture breakthrough and implementation
 - **Overall Progress**: MAJOR breakthrough in solving core broken link problem with web crawling approach

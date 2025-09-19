@@ -6,7 +6,10 @@
       "WebFetch(domain:docs.globant.ai)",
       "Read(//Users/josephfajen/git/CF-developer-portal/developer-portal/docs/**)",
       "Read(//Users/josephfajen/git/CF-developer-portal/developer-portal/blog/**)",
-      "WebFetch(domain:www.essentialcardano.io)"
+      "WebFetch(domain:www.essentialcardano.io)",
+      "WebFetch(domain:essentialcardano.io)",
+      "Bash(python:*)",
+      "Bash(source .env)"
     ],
     "deny": [],
     "ask": []
