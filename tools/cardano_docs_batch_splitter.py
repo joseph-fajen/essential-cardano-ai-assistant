@@ -102,7 +102,7 @@ This folder contains a comprehensive extraction of content from docs.cardano.org
 
 ## Extraction Details
 
-- **Extraction Date**: September 19, 2025
+- **Extraction Date**: {datetime.now().strftime("%B %d, %Y")}
 - **Source Website**: https://docs.cardano.org
 - **Total Files**: {total_files} individual JSON files
 - **Success Rate**: {stats.get('success_rate', 'TBD')}%
@@ -207,7 +207,7 @@ This dataset complements the Essential Cardano dataset:
 
 ---
 
-**Generated**: September 19, 2025
+**Generated**: {datetime.now().strftime("%B %d, %Y")}
 **Pipeline**: Tavily API → Raw Extraction → Individual File Splitting
 **Status**: Production Ready
 **Next Step**: Upload to Globant Enterprise AI for comprehensive Cardano technical assistant deployment
@@ -222,7 +222,8 @@ This dataset complements the Essential Cardano dataset:
 def main():
     # Set up paths
     raw_extractions_dir = Path("cardano_docs_comprehensive/raw_extractions")
-    output_dir = Path("cardano-docs-dataset-2025-09-19")
+    today = datetime.now().strftime("%Y-%m-%d")
+    output_dir = Path(f"cardano-docs-dataset-{today}")
 
     # Create output directory
     output_dir.mkdir(exist_ok=True)

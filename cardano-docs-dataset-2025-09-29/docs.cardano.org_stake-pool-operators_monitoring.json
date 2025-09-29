@@ -1,0 +1,11 @@
+{
+  "url": "https://docs.cardano.org/stake-pool-operators/monitoring",
+  "content": "![Cardano logo](/assets/cardano-logo.svg)\n![Cardano logo](/assets/cardano-logo.svg)\n\n# Logging and monitoring\n\nRegular monitoring of active nodes is crucial to determine if the node is running optimally, if the system is performant, or if fine-tuning is required.\n\nDeveloper resources:\n\n![Cardano Logo](/assets/cardano-logo-blue.svg)\n![Cardano Logo](/assets/cardano-logo.svg)\n\nCardano is an open-source project. Cardano is a software platform ONLY and does not conduct any independent diligence on, or substantive review of, any blockchain asset, digital currency, cryptocurrency or associated funds. You are fully and solely responsible for evaluating your investments, for determining whether you will exchange blockchain assets based on your own judgement, and for all your decisions as to whether to exchange blockchain assets with Cardano. In many cases, blockchain assets you exchange on the basis of your research may not increase in value, and may decrease in value. Similarly, blockchain assets you exchange on the basis of your research may fall or rise in value after your exchange. Past performance is not indicative of future results. Any investment in blockchain assets involves the risk of loss of part or all of your investment. The value of the blockchain assets you exchange is subject to market and other investment risks.\n\nThis work is licensed under CC BY 4.0\n\n© IOHK 2015-2025 - IOHK Supported Project",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 6,
+    "extraction_timestamp": "2025-09-29T13:36:25.308044",
+    "extraction_time": 1.235846757888794,
+    "source": "tavily_api_raw"
+  }
+}

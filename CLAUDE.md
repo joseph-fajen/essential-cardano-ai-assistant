@@ -50,10 +50,18 @@ Create an educational, community-focused AI assistant that provides accurate, we
 - [x] **Production Testing Validated**: Multi-domain queries confirmed governance, development, research coverage
 - [x] **Citation Excellence**: 80% link accuracy with transparent URL attribution across all knowledge domains
 
+### 🔄 **DATASET REFRESH - 2025-09-29**
+- [x] **Fresh Cardano Docs Extraction**: Re-extracted docs.cardano.org with current data (81 files, 680K)
+- [x] **Automated Date Handling**: Updated batch splitter for automatic date-based folder creation
+- [x] **100% Extraction Success**: Proven 3-step pipeline validated again
+- [ ] **Upload Fresh Dataset**: Replace Sep 19 Cardano docs with Sep 29 version on Globant
+- [ ] **Refresh Other Datasets**: Consider updating Essential Cardano, Developer Portal, IOG Research
+
 ### 📋 Future Expansion Opportunities
 - [ ] **Intersect Governance**: Apply proven pipeline to docs.intersectmbo.org
 - [ ] **Additional Research Sources**: Expand IOG research coverage with PDF content extraction
 - [ ] **Multi-language Support**: Extend to international Cardano communities
+- [ ] **Refresh Schedule**: Establish quarterly re-extraction for content freshness
 
 ## Platform & Architecture
 
@@ -84,10 +92,10 @@ Sitemap Parser → Tavily API (batched) → Simple Batch Splitter → 918 Indivi
 ```
 
 **Complete Content Sources (Production Ready):**
-1. **essentialcardano.io** - Community knowledge, FAQ, glossary (✅ 918 files)
-2. **developers.cardano.org** - Development guides, tutorials (✅ 225 files)
-3. **iohk.io/en/research** - Academic papers, research publications (✅ 624 files)
-4. **docs.cardano.org** - Technical specifications, network operations (✅ ~200 files)
+1. **essentialcardano.io** - Community knowledge, FAQ, glossary (✅ 918 files, Sep 19)
+2. **developers.cardano.org** - Development guides, tutorials (✅ 225 files, Sep 19)
+3. **iohk.io/en/research** - Academic papers, research publications (✅ 624 files, Sep 19)
+4. **docs.cardano.org** - Technical specifications, network operations (✅ 81 files, **Sep 29 - FRESH**)
 
 **Total Portfolio**: ~2,000 files across all major Cardano knowledge domains
 

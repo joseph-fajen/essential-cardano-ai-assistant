@@ -1,0 +1,11 @@
+{
+  "url": "https://docs.cardano.org/about-cardano/new-to-cardano/staking-calculator",
+  "content": "Opens in a new window Opens an external website Opens an external website in a new window\n\nThis website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link:    [Privacy Policy](https://static.iohk.io/terms/iog-privacy-policy.pdf)[Cookie Policy](https://static.iohk.io/terms/iog-cookie-policy.pdf)\n\n[Skip to main content](#__docusaurus_skipToContent_fallback)\n\n# Staking calculator\n\nStaking calculator is a tool used to predict approximate rewards a user may\nreceive by delegating ada to a stake pool. Note that the rewards predicted by\nthis calculator are only an **estimate**.\n\nThe actual amount of ada received in rewards may vary, and will depend on a\nnumber of factors, including actual stake pool performance, which is the number\nof blocks a stake pool is observed to produce in a given epoch versus the number\nit was expected to produce. Changes to network parameters may also affect\nrewards.\n\nThe annualized equivalent returns given by this calculator assume that stake is\ndelegated to the same stake pool for a 365-day period, and that stake pool\nperformance and other settings are consistent over that timeframe. IOG accepts\nno responsibility for any discrepancy between estimated and actual rewards,\n**this calculator is provided for guidance only.**\n\n### Select a calculator\n\nI want to\n\nAda amount\n\n₳\n\nSet the amount of ada you want to delegate\n\nCurrencyPlease select the currency you wish to see results in\n\n#### Yearly Delegation rewards\n\nADA (₳)\n\n**₳ 460.825742**\n\nDelegation rewards\n\n**4.6083%**\n\n#### Rewards breakdown\n\n#### Yearly Delegation rewards\n\nADA (₳)\n\n**₳ 460.825742**\n\nDelegation rewards\n\n**4.6083%**",
+  "images": [],
+  "extraction_metadata": {
+    "batch_number": 3,
+    "extraction_timestamp": "2025-09-29T13:36:11.408404",
+    "extraction_time": 1.5864241123199463,
+    "source": "tavily_api_raw"
+  }
+}
