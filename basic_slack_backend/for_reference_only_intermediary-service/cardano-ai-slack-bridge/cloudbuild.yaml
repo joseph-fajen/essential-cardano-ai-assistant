@@ -1,0 +1,35 @@
+steps:
+  # Build the container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/cardano-ai-slack-bridge:$COMMIT_SHA', '.']
+
+  # Push the container image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/cardano-ai-slack-bridge:$COMMIT_SHA']
+
+  # Deploy container image to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'cardano-ai-slack-bridge'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/cardano-ai-slack-bridge:$COMMIT_SHA'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--set-env-vars'
+      - 'SLACK_BOT_TOKEN=$$SLACK_BOT_TOKEN,SLACK_SIGNING_SECRET=$$SLACK_SIGNING_SECRET,GLOBANT_API_URL=$$GLOBANT_API_URL,GLOBANT_API_TOKEN=$$GLOBANT_API_TOKEN,GLOBANT_ASSISTANT_ID=$$GLOBANT_ASSISTANT_ID'
+
+substitutions:
+  _SLACK_BOT_TOKEN: 'SLACK_BOT_TOKEN'
+  _SLACK_SIGNING_SECRET: 'SLACK_SIGNING_SECRET'
+  _GLOBANT_API_URL: 'GLOBANT_API_URL'
+  _GLOBANT_API_TOKEN: 'GLOBANT_API_TOKEN'
+  _GLOBANT_ASSISTANT_ID: 'GLOBANT_ASSISTANT_ID'
+
+images:
+  - 'gcr.io/$PROJECT_ID/cardano-ai-slack-bridge:$COMMIT_SHA'

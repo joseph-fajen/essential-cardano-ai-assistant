@@ -1,0 +1,11 @@
+requests>=2.32.3
+slack-sdk>=3.27.0
+fastapi>=0.115.12
+uvicorn>=0.30.6
+aiohttp>=3.8.0
+
+[dev]
+flake8>=7.0.0
+flake8-import-order>=0.18.2
+flake8-unused-arguments>=0.0.13
+pyflakes>=3.2.0
